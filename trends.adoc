@@ -1,0 +1,57 @@
+
+= OGC® Geospatial Technology Trends
+
+OGC Document 17-xxx +
+
+''''
+
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: macro
+:toclevels: 3
+:numbered:
+:sectanchors:
+:source-highlighter:
+
+
+Copyright © 2016 Open Geospatial Consortium.
+
+To obtain additional rights of use, visit http://www.opengeospatial.org/legal/[http://www.opengeospatial.org/legal/]
+
+**Warning**
+
+This document is not an OGC Standard.
+This document is an OGC White Paper and is therefore not an official position of the OGC membership.
+It is distributed for review and comment.
+It is subject to change without notice and may not be referred to as an OGC Standard.
+Further, an OGC White Paper should not be referenced as required or mandatory technology in procurements
+
+
+Document type: OGC® White Paper +
+Document stage: Prepared for review at OGC TC December 2016 +
+Document language: English +
+
+<<<
+
+include::preface.adoc[Preface]
+
+include::chapter-01.adoc[]
+
+include::chapter-02.adoc[]
+
+include::chapter-03.adoc[]
+
+include::chapter-04.adoc[]
+
+include::chapter-05.adoc[]
+
+include::annex-a.adoc[]
+
+include::annex-b.adoc[]
+
+include::annex-c.adoc[]
+
+include::annex-d.adoc[]
+
+include::annex-e.adoc[]

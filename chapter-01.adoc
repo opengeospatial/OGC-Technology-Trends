@@ -1,0 +1,34 @@
+//////
+comment
+//////
+
+<<<
+
+== The Power of Location
+
+<<<
+
+Table.  Comparison of Map-related attributes from several APIs
+
+
+[width="80%", options="header"]
+|=======================
+|Title      |Description
+|Location and Mobile communications
+|People who communicate digitally also tend to meet in person. 90% of users who have called each other have also shared the same space (cell tower), even if they live far apart.
+
+
+|Location as indicator of intent
+|“Location targeting is holy grail for marketers”- Sir Martin Sorrell, WPP CEO, MWC 2011 By measuring the entropy of each individual’s trajectory, we find a 93% potential predictability in user mobility  - Limits of Predictability in Human Mobility, Science 2010 1st law of geography:  "Everything is related to everything else, but near things are more related than distant things.” - Waldo Tobler
+
+|Human and Place
+|Topic is focused on Human and Place (Geography). This refers to the use of place, and how vernacular geography is used to describe it. One must avoid the temptation to think of place only as a location. (DSTL)  A place is distinguished by its people, markets, governments, and institutions, as much as it is by its physical landscape and natural resources, transportation systems (including streets and roads), buildings, and boundaries.  (US National Academies)
+
+|Statistics and Geography
+|As well as geospatial information, Governments and government bodies are increasingly reliant on statistical data to inform policy and decision making. As resources become constrained, it is increasingly important to make sure they are used in the most effective way  possible. Geography is often the medium through which statistics are interpreted whether at global, regional, national or sub‐national level. As the need for better statistics increases so does the need for greater integration of statistics and geospatial information, resulting in so called spatial statistics. (GGIM)
+
+
+|Human Geography
+|Well-organized and comprehensive human geography data can be applied to analysis that allows us to better anticipate the behavior of people over space and time and to inform decision-making that supports human security, including crisis mitigation and humanitarian response. (WWHGD_WG)
+
+<<<
