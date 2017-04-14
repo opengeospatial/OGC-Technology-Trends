@@ -14,8 +14,7 @@ Geospatial technology trends as tracked by the OGC and the OGC Architecture Boar
 
 ___________
 
-== Ripe Trends
-___________
+## Ripe Trends
 
 * Location and Mobile communications
 * 3D model creation
