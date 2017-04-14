@@ -26,6 +26,8 @@ comment
 
 |Volunteered Geo Info
 |Volunteered geographic information (VGI) is the harnessing of tools to create, assemble, and disseminate geographic data provided voluntarily by individuals (Goodchild, 2007).[1]VGI is a special case of the larger Web phenomenon known as user-generated content.[2] Some examples of this phenomenon are WikiMapia, OpenStreetMap, and Google Map Maker. (Wikipedia)
+.
+link:http://www.mdpi.com/2220-9964/5/5/55[Crowdsourcing, Citizen Science or Volunteered Geographic Information? The Current State of Crowdsourced Geographic Information]
 
 |UAVs and Drones
 |While large UAVs have been in use for defense, ISR, and remote sensing purposes for many years, the platforms now range in complexity from large, jet-propelled aircraft to palm-sized drones. Similarly, Unmanned Underwater Vehicles (UUVs) also have a long history of operations, becoming increasingly sophisticated in recent years with respect to capabilities and autonomy. (OGC WG Charter)

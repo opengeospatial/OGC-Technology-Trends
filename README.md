@@ -3,6 +3,8 @@ Geospatial technology trends as tracked by the OGC and the OGC Architecture Boar
 
 ![Tech Trends](images/20170317GeoTechTrends.png "Tech Trends Mind Map")
 
+## Trends grouped in topic areas:
+
    * [The Power of Location](chapter-01.adoc)
    * [Spatial and Temporal Models](chapter-02)
    * [Big Data](chapter-03)
