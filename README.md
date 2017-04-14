@@ -16,18 +16,17 @@ Geospatial technology trends as tracked by the OGC and the OGC Architecture Boar
 Ripe Trends
 ___________
 
-
-Location and Mobile communications
-3D model creation
-Indoor positioning
-Big Data Geo Technologies
-Modeling, Simulation and prediction
-Machine Learning
-Uncertainty, Veracity
-APIs for the Web
-Linked Data
-Internet of Things (and sensor webs)
-UAVs and Drones
-Smallsats
-Immersive Geo: AR, VR, Mixed Reality
-Ambient services
+* Location and Mobile communications
+* 3D model creation
+* Indoor positioning
+* Big Data Geo Technologies
+* Modeling, Simulation and prediction
+* Machine Learning
+* Uncertainty, Veracity
+* APIs for the Web
+* Linked Data
+* Internet of Things (and sensor webs)
+* UAVs and Drones
+* Smallsats
+* Immersive Geo: AR, VR, Mixed Reality
+* Ambient services
