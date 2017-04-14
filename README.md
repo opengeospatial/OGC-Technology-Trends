@@ -12,8 +12,10 @@ Geospatial technology trends as tracked by the OGC and the OGC Architecture Boar
    * [User Platforms and Networks - HCI](chapter-07)
    * [Software Development](chapter-08)
 
-====================
-**Ripe Trends
+
+Ripe Trends
+__________
+
 
 Location and Mobile communications
 3D model creation
