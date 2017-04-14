@@ -1,0 +1,28 @@
+//////
+comment
+//////
+
+<<<
+
+== Software Development
+
+<<<
+
+[width="80%", options="header"]
+|=======================
+|Title      |Description
+
+|Agile Geo Processing Chains
+|Agile Processing Chains is focusing on Workflow management and linking of geospatial data models. (DSTL)
+
+|On-The-Fly Programming
+|On The Fly is a phase and used to describe code that is being changed while the process that the change affects is ongoing. This is aimed a generating products on the fly. (DSTL)
+Software interaction patterns	Geospatial Architecture Federation refers to approaches in federation (information technology) including information and geospatial data flows across networks. Also includes incorporating event based architectures and messaging. (DSTL)
+
+|Software Development processes
+|Agile software development describes a set of principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams.[1] Based off Agile Architecture, it advocates adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change.[2] These principles support the definition and continuing evolution of many software development methods.[3]  (Wikipedia)
+
+|Blockchain and distributed ledger
+|Distributed ledger technology based on cryptographic systems that manage, verify and publicly record transaction data; the basis of "cryptocurrencies" such as bitcoin. (World Economic Forum)
+
+|=======================
