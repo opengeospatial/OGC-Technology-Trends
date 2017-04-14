@@ -14,7 +14,7 @@ Geospatial technology trends as tracked by the OGC and the OGC Architecture Boar
 
 
 Ripe Trends
-__________
+___________
 
 
 Location and Mobile communications
