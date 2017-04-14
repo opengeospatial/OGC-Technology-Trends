@@ -11,3 +11,21 @@ Geospatial technology trends as tracked by the OGC and the OGC Architecture Boar
    * [New Geo Sources](chapter-06)
    * [User Platforms and Networks - HCI](chapter-07)
    * [Software Development](chapter-08)
+
+====================
+**Ripe Trends
+
+Location and Mobile communications
+3D model creation
+Indoor positioning
+Big Data Geo Technologies
+Modeling, Simulation and prediction
+Machine Learning
+Uncertainty, Veracity
+APIs for the Web
+Linked Data
+Internet of Things (and sensor webs)
+UAVs and Drones
+Smallsats
+Immersive Geo: AR, VR, Mixed Reality
+Ambient services
