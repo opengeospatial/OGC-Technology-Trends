@@ -6,13 +6,13 @@ Geospatial technology trends as tracked by the OGC and the OGC Architecture Boar
 ## Trends grouped in topic areas:
 
    * [The Power of Location](chapter-01.adoc)
-   * [Spatial and Temporal Models](chapter-02)
-   * [Big Data](chapter-03)
-   * [Data Science Analytics](chapter-04)
-   * [Spatial Data on the Web](chapter-05)
-   * [New Geo Sources](chapter-06)
-   * [User Platforms and Networks - HCI](chapter-07)
-   * [Software Development](chapter-08)
+   * [Spatial and Temporal Models](chapter-02.adoc)
+   * [Big Data](chapter-03.adoc)
+   * [Data Science Analytics](chapter-04.adoc)
+   * [Spatial Data on the Web](chapter-05.adoc)
+   * [New Geo Sources](chapter-06.adoc)
+   * [User Platforms and Networks - HCI](chapter-07.adoc)
+   * [Software Development](chapter-08.adoc)
 
 ___________
 
