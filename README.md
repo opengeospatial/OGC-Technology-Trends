@@ -25,10 +25,10 @@ ___________
 * Modeling, Simulation and prediction
 * Machine Learning
 * Uncertainty, Veracity
-* APIs for the Web
+* [APIs for the Web](RipeTrends/APIs.adoc)
 * Linked Data
 * Internet of Things (and sensor webs)
-* UAVs and Drones
+* [UAVs and Drones](RipeTrends/UXS.adoc)
 * Smallsats
 * Immersive Geo: AR, VR, Mixed Reality
 * Ambient services
