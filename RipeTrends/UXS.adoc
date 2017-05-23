@@ -6,6 +6,8 @@ comment
 
 == UAVs and Drones
 
+This page is a draft stub
+
 <<<
 
 [width="80%"]
