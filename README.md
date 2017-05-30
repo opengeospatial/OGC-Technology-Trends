@@ -21,7 +21,7 @@ ___________
 * Location and Mobile communications
 * 3D model creation
 * Indoor positioning
-* [Big Data Geo](RipeTrends/Bigdata.adoc)
+* [Big Data Geo](RipeTrends/BigData.adoc)
 * Modeling, Simulation and prediction
 * Machine Learning
 * Uncertainty, Veracity
