@@ -1,0 +1,34 @@
+//////
+comment
+//////
+
+<<<
+
+== Big Geo Data
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| Big Data 
+|Title | Big Data
+|Description | Every two days the human race is now generating as much data as was generated from the dawn of humanity through the year 2003.  Big Data is the real time collection, analyses, and visualization of vast amounts of information most of which has a geospatial or location component. The data was measured somewhere or it describes events at some location.  Processing this enormous and varied stream of geospatial information with new big data techniques will bring new benefits to many applications in our world.
+| What is new or emerging?	| Big Data technologies are transforming how geospatial data is processed.  Many of these new technologies were developed outside of geospatial domain enabled by cloud-computing and machine learning.
+| Why might it matter? | Themes that emerged from the Location Powers: Big Geo Data workshop, September 2016 were:
+**	We live in a download mentality. How do we move to answering questions?  Analytics on the fly
+**	 Focus shifting from understanding what happened last week to being able to predict what will happen next week
+**	 Geo big data could take better advantage of developments in Big Data Proper, which is only tangentially interested in Geo Big Data
+** Multiple Applications:  Telecommunications, property casualty insurance, financial services, Energy Monitoring and prediction, Population Dynamics, Settlement Mapping
+**	Address Big data in OGC Testbed 13
+|(Gartner Hype Curve 2016)[http://www.gartner.com/newsroom/id/3412017]| Machine Learning is at the peak of  inflated expectations
+|References |
+** OGC Big Geo Data White Paper (under development)
+** Location Powers: Big Geo Data
+** Location Powers: Big Linked Geodata
+** OGC Testbed 13 including Cloud Computing for Earth Observations.
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	|
+|OGC Working Groups | OGC Big Data Domain Working Group.
+|=======================
+
+[Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
