@@ -1,0 +1,25 @@
+//////
+comment
+//////
+
+<<<
+
+== Indoor positioning
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	|
+|Title | Indoor positioning
+|Description |
+| What is new or emerging?	|
+| Why might it matter? |
+| Gartner Hype Curve |
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	|
+|OGC Working Groups |
+|=======================
+
+[Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
