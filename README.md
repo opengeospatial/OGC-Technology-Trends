@@ -18,17 +18,17 @@ ___________
 
 ## Ripe Trends
 
-* Location and Mobile communications
-* 3D model creation
-* Indoor positioning
+* [Location and Mobile communications](MobileLocation.adoc)
+* [3D model creation](3DModels.adoc)
+* [Indoor positioning](Indoor.adoc)
 * [Big Data Geo](RipeTrends/BigData.adoc)
-* Modeling, Simulation and prediction
-* Machine Learning
-* Uncertainty, Veracity
+* [Modeling, Simulation and Prediction](ModSimPredict.adoc)
+* [Machine Learning](MachineLearning.adoc)
+* [Uncertainty, Veracity](UncertVeracity.adoc)
 * [APIs for the Web](RipeTrends/APIs.adoc)
-* Linked Data
-* Internet of Things (and sensor webs)
+* [Linked Data](LinkedData.adoc)
+* [Internet of Things (and sensor webs)](IoT.adoc)
 * [UAVs and Drones](RipeTrends/UXS.adoc)
-* Smallsats
-* Immersive Geo: AR, VR, Mixed Reality
-* Ambient services
+* [Smallsats](Smallsats.adoc)
+* [Immersive Geo: AR, VR, Mixed Reality](ImmersiveGeo.adoc)
+* [Ambient services](AmbientServices.adoc)
