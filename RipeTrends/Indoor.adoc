@@ -14,7 +14,7 @@ comment
 |Title | Indoor positioning
 |Description | Accurate indoor positioning unlocks a new set of possibilities for mobile services.  Consumers will benefit from personalized, contextual information and offers, as well as new services such as indoor navigation.  Venue owners will benefit from increased customer satisfaction and enhanced information on customer behaviour. (InLocation Alliance)
 | What is new or emerging?	| Location Based Service, Indoor Vendors Marketing. Google's Visual Positioning System (VPS)  as mentioned at Google I/O in May 2017.
-| Why might it matter? | Indoor navigation for disabilities, increasingly technology can empower navigation.
+| Why might it matter? | Indoor navigation for disabilities, increasingly technology can empower navigation.  Indoor is the next horizion in Mod/Sim. 
 | Gartner Hype Curve | Peak of Inflated Expectations
 | TRL |
 |References | URLs to technology written descriptions

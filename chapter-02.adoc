@@ -13,7 +13,7 @@ comment
 |Title      |Description
 
 |Spatial Temporal Point Clouds
-|Spatial Temporal Point Cloud. A point cloud refers to a set of data points in some coordinate system. Spatial Temporal components are incorporated.  (DSTL)
+|Spatial Temporal Point Cloud. A point cloud refers to a set of data points in some coordinate system. Spatial Temporal components are incorporated.  (DSTL) Point clouds can be terrestrial, bathymetric, atmospheric. Streaming of point cloud data in real time.  
 
 |3D model creation
 |3D (Three Dimensional) covers broad range of tasks including  3D Computer graphics and 3D Modelling. (DSTL)
@@ -31,7 +31,7 @@ comment
 |Accurate indoor positioning unlocks a new set of possibilities for mobile services.  Consumers will benefit from personalized, contextual information and offers, as well as new services such as indoor navigation.  Venue owners will benefit from increased customer satisfaction and enhanced information on customer behavior. (InLocation Alliance)
 
 |Dynamic datums
-|This is now starting to be referred to as an “Earth-fixed” datum but previously was often referred to as a “dynamic datum”.  Conceptually, the term “dynamic datum” confuses many people, who assume it to mean that the datum itself is constantly changing.  This is obviously not the case – the datum is uniquely defined and fixed in orientation and location.  Rather, an “Earth-fixed” datum allows the changes in coordinates of points on the Earth’s “dynamic” surface to be referenced and represented. (ANZLIC)
+|This is now starting to be referred to as an “Earth-fixed” datum but previously was often referred to as a “dynamic datum”.  Conceptually, the term “dynamic datum” confuses many people, who assume it to mean that the datum itself is constantly changing.  This is obviously not the case – the datum is uniquely defined and fixed in orientation and location.  Rather, an “Earth-fixed” datum allows the changes in coordinates of points on the Earth’s “dynamic” surface to be referenced and represented. (ANZLIC).  The revision of ISO 19111 anticipates the need for Dynamic Datums.
 
 |Time stamps to support analytics
 |Time-Aware Applications, Computers, and Communication Systems (TAACCS)  A new economy built on the massive growth of endpoints on the internet will require precise and verifiable timing in ways that current systems do not support. Applications, computers, and communications systems have been developed with modules and layers that optimize data processing but degrade accurate timing. State-of-the-art systems now use timing only as a performance metric. Correctness of timing as a metric cannot currently be designed into systems independent of hardware and/or software implementations. To enable the massive growth predicted, accurate timing needs cross-disciplinary research to be integrated into these existing systems. (NIST)
