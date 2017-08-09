@@ -12,14 +12,15 @@ comment
 |=======================
 |Meta Trend	|
 |Title | Linked Data
-|Description |
+|Description | 	Linked Data refers to a method of publishing structured data that can be interlinked. It builds upon standard Web technologies such as HTTP, RDF and URIs. It enables data from different sources to be connected and queried. (DSTL)
 | What is new or emerging?	|
-| Why might it matter? |
-| Gartner Hype Curve |
+| Why might it matter? | Increasing data, more important to be searched.
+| Gartner Hype Curve | Peak of Inflated Expectations
+| TRL |
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
-|Geospatial Tech Category 	|
-|OGC Working Groups |
+|Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
+|OGC Working Groups | Big Data DWG
 |=======================
 
 [Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)

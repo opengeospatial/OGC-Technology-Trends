@@ -12,14 +12,15 @@ comment
 |=======================
 |Meta Trend	|
 |Title | 3D model creation
-|Description |
-| What is new or emerging?	|
-| Why might it matter? |
-| Gartner Hype Curve |
+|Description | 3D (Three Dimensional) covers broad range of tasks including 3D Computer graphics and 3D Modelling. (DSTL)
+| What is new or emerging?	| VR is increasingly going to be as a visualisation tool.Increased power of GPU, allowing, increased rendering of 3D models.
+| Why might it matter? | Increased understanding of the world.
+| Gartner Hype Curve | 	Slope of Enlightenment
+| TRL |
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
-|Geospatial Tech Category 	|
-|OGC Working Groups |
+|Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
+|OGC Working Groups | 3D Portrayal SWG; ?Point Cloud DWG?
 |=======================
 
 [Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)

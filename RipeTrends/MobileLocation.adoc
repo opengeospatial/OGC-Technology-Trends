@@ -12,10 +12,11 @@ comment
 |=======================
 |Meta Trend	|
 |Title |Location and Mobile communications
-|Description |
-| What is new or emerging?	|
-| Why might it matter? |
-| Gartner Hype Curve |
+|Description | People who communicate digitally also tend to meet in person. 90% of users who have called each other have also shared the same space (cell tower), even if they live far apart.
+| What is new or emerging?	| Research as shown co location appears highly indicative of coordination call occurring just before face to face meetings.
+| Why might it matter? | Face to Face contact important, important quality time.
+| Gartner Hype Curve | Innovation Trigger
+| TRL |
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	|

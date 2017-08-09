@@ -12,14 +12,17 @@ comment
 |=======================
 |Meta Trend	|
 |Title |APIs for the Web
-|Description |
-| What is new or emerging?	|
-| Why might it matter? |
-| Gartner Hype Curve |
+|Description | The explosive growth of public APIs for geospatial applications, and the accompanying variability in API practices across the IT industry, as well as in geospatial APIs specifically, has created new opportunities and challenges in supporting geospatial services. The application of standards in APIs to ensure interoperability is an apparent next step. (API CDS Press Release)
+| What is new or emerging?	| OGC Geospatial APIs White Paper .
+Netflix has recently has the 5 billion API request (Wikipedia) .
+Web API ambitious
+| Why might it matter? | Standardisation of geo processing of geo location query such as OGC Rest research in TestBed.
+| Gartner Hype Curve | Innovation Trigger
+| TRL |
 |References | URLs to technology written descriptions
-|Examples | URL to technology implementation examples
-|Geospatial Tech Category 	|
-|OGC Working Groups |
+|Examples | http://docs.opengeospatial.org/wp/16-019r4/16-019r4.html
+|Geospatial Tech Category 	| Web Services and APIs
+|OGC Working Groups | Spatial Data on the Web Working Group
 |=======================
 
 [Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
