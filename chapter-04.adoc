@@ -33,3 +33,4 @@ comment
 |=======================
 
 * [Roadmap for Data Science Analytics](DataScienceAnalyticsRoadmap/DataSciRoadmap.html)
+* [Ambient services](RipeTrends/AmbientServices.adoc)
