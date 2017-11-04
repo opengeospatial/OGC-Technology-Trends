@@ -1,8 +1,12 @@
 # Analytics Roadmapping
 Technology roadmap for geospatial analytics.
 
+![Tech Trends](images/20170317GeoTechTrends.png "Tech Trends Mind Map")
+
+![test](images/DataSciRoadmap.png "GraffleExport">
+
 <map name="GraffleExport">
 	<area shape=rect coords="127,2208,458,2321"
    href="https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/roadmapping%20general%20references/Roadmapping%20Legend">
 </map>
-<img border=0 src="images/Data Sci Roadmap.png" usemap="#GraffleExport">
+<img border=0 src="images/DataSciRoadmap.png" usemap="#GraffleExport">
