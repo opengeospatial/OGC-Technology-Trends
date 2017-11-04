@@ -32,3 +32,9 @@ ___________
 * [Smallsats](RipeTrends/Smallsats.adoc)
 * [Immersive Geo: AR, VR, Mixed Reality](RipeTrends/ImmersiveGeo.adoc)
 * [Ambient services](RipeTrends/AmbientServices.adoc)
+
+___________
+
+## Technology Roadmapping
+
+   * [AnalyticsRoadmapping](Roadmapping/AnalyticsRoadmapping)
