@@ -1,4 +1,12 @@
-# Analytics Roadmapping
+<<<
+
+== Analytics Roadmapping
+
+<<<
+
+[width="80%", options="header"]
+
+
 Technology roadmap for geospatial analytics.
 
 ![Tech Trends](images/20170317GeoTechTrends.png "Tech Trends Mind Map")
