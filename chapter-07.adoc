@@ -12,7 +12,7 @@ comment
 |=======================
 |Title      |Description
 
-|Immersive Geo: AR, VR, Mixed Reality
+|Immersive experiences: AR, VR, Mixed Reality
 |Virtual reality (VR) refers to computer technologies that use software to generate realistic images, sounds and other sensations that replicate a real environment. Augmented reality (AR) is a live direct or indirect view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data.
 
 |Connectivity and Bandwidth
@@ -28,6 +28,12 @@ comment
 |Ambient intelligence (AmI) refers to electronic environments that are sensitive and responsive to the presence of people.  In an ambient intelligence world, devices work in concert to support people in carrying out their everyday life activities, tasks and rituals in an easy, natural way using information and intelligence that is hidden in the network connecting these devices (see Internet of Things). As these devices grow smaller, more connected and more integrated into our environment, the technology disappears into our surroundings until only the user interface remains perceivable by users. (Wikipedia)
 
 |Human Computer Interaction (HCI)
-|Human Computer Interaction refers to the interfaces between people (users) and computers and how does human behaviour affect this interaction. This includes Voice interaction, such as Amazon's Echo; Google Home/(Google Now); Apple Siri; Microsoft Cortana.
+|Human Computer Interaction refers to the interfaces between people (users) and computers and how does human behavior affect this interaction. This includes Voice interaction, such as Amazon's Echo; Google Home/(Google Now); Apple Siri; Microsoft Cortana.
+
+|Mobile HCI
+|TBA
+
+|AI Conversational Platforms
+|TBA
 
 |=======================

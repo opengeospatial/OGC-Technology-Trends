@@ -4,13 +4,22 @@ comment
 
 <<<
 
-== Software Development
+== Software Development and Patterns
 
 <<<
 
 [width="80%", options="header"]
 |=======================
 |Title      |Description
+
+|GEO at Platform Scale
+|TBA
+
+|Event-Driven: Pub-Sub
+|TBA
+
+|Edge Intelligence and Fog Computing
+|TBA
 
 |Agile Geo Processing Chains
 |Agile Processing Chains is focusing on Workflow management and linking of geospatial data models. (DSTL)

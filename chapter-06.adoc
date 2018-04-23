@@ -24,8 +24,8 @@ comment
 |Opportunistic Sensing
 |An opportunistic sensing approach is proposed, where noise-level data is collected without informing smartphone users.
 
-|Volunteered Geo Info
-|Volunteered geographic information (VGI) is the harnessing of tools to create, assemble, and disseminate geographic data provided voluntarily by individuals (Goodchild, 2007).[1]VGI is a special case of the larger Web phenomenon known as user-generated content.[2] Some examples of this phenomenon are WikiMapia, OpenStreetMap, and Google Map Maker. (Wikipedia) 
+|Volunteered geographic information (VGI)
+|Volunteered geographic information (VGI) is the harnessing of tools to create, assemble, and disseminate geographic data provided voluntarily by individuals (Goodchild, 2007).[1]VGI is a special case of the larger Web phenomenon known as user-generated content.[2] Some examples of this phenomenon are WikiMapia, OpenStreetMap, and Google Map Maker. (Wikipedia)
 .
 link:http://www.mdpi.com/2220-9964/5/5/55[Crowdsourcing, Citizen Science or Volunteered Geographic Information? The Current State of Crowdsourced Geographic Information]
 
@@ -34,5 +34,8 @@ link:http://www.mdpi.com/2220-9964/5/5/55[Crowdsourcing, Citizen Science or Volu
 
 |Open Data
 |“Open data and content can be freely used, modified, and shared by anyone for any purpose”  http://opendefinition.org/
+
+|High-altitude platforms
+|TBA
 
 |=======================

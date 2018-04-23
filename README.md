@@ -1,7 +1,7 @@
 # OGC-Technology-Trends
 Geospatial technology trends as tracked by the OGC and the OGC Architecture Board (OAB).  
 
-[![Tech Trends](images/20170318GeoTechTrends.png "Tech Trends Mind Map")](http://www.opengeospatial.org/pub/www/techtrends/index.html)
+[![Tech Trends](images/20180423GeoTechTrends.png "Tech Trends Mind Map")](http://www.opengeospatial.org/pub/www/techtrends/index.html)
 
 ## Trends grouped in topic areas:
 
@@ -12,7 +12,7 @@ Geospatial technology trends as tracked by the OGC and the OGC Architecture Boar
    * [Spatial Data on the Web](chapter-05.adoc)
    * [New Geo Sources](chapter-06.adoc)
    * [User Platforms and Networks - HCI](chapter-07.adoc)
-   * [Software Development](chapter-08.adoc)
+   * [Software Development and Patterns](chapter-08.adoc)
 
 ___________
 
