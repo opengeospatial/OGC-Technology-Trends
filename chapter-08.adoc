@@ -12,14 +12,14 @@ comment
 |=======================
 |Title      |Description
 
-|GEO at Platform Scale
+|[red]#GEO at Platform Scale#
 |TBA
 
-|Event-Driven: Pub-Sub
-|TBA
+|[red]#Event-Driven: Pub-Sub#
+|Publish–Subscribe is a messaging pattern where entities can subscribe to a type of message (defined by a criteria) and receive messages that satisfy that criteria from publishers as and when those messages become available (that is, as and when the events that satisfy that criteria occur).
 
-|Edge Intelligence and Fog Computing
-|TBA
+|[red]#Edge Intelligence and Fog Computing#
+|Fog computing is a system-level horizontal architecture that distributes resources and services of computing, storage, control and networking anywhere along the continuum from Cloud to Things. (OpenFog Consortium) 
 
 |Agile Geo Processing Chains
 |Agile Processing Chains is focusing on Workflow management and linking of geospatial data models. (DSTL)
