@@ -28,7 +28,7 @@ comment
 |Conflation refers to the act of combining two distinct maps into one new map. It is similar to the practice of image mosaicking. It is usually carried out by registration of an overlapping area. Conflation for digital maps refers to the process of associating real world coordinates to digital ones and it is named Map Matching. (DSTL)
 
 |Assisted Knowledge Building
-|TBA
+|The use of data mining and other functions provided by intelligent systems to facilitate the creation of knowledge.
 
 |(NEW)Microgeography
 |Geography that is localized such that it is concerned with a small spatial extent.
