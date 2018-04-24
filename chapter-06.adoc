@@ -35,7 +35,7 @@ link:http://www.mdpi.com/2220-9964/5/5/55[Crowdsourcing, Citizen Science or Volu
 |Open Data
 |“Open data and content can be freely used, modified, and shared by anyone for any purpose”  http://opendefinition.org/
 
-|High-altitude platforms
+|(NEW)High-altitude platforms
 |High-Altitude Platforms (HAPs) are aircraft or airships that operate in the stratosphere at altitudes of up to 22 km, typically to provide communication facilities that can exploit both terrestrial and satellite schemes footnote:[https://ieeexplore.ieee.org/document/932146/].
 
 |=======================
