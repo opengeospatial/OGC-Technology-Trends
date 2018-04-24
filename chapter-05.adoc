@@ -27,7 +27,7 @@ comment
 |Map projections - fit for purpose
 |Best Practice 17: State how coordinate values are encoded. Provide enough information for users to determine how coordinate values are encoded.  (SDWWG Best Practice)
 
-|Web Trends
+|(NEW)Web Trends
 |TBA
 
 |=======================
