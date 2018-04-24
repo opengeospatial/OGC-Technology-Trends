@@ -42,9 +42,9 @@ comment
 |Multiscale
 |features that are represented at multiple scales, automatically (OAB)
 
-|Autonomous Vehicles: HD Maps
-|TBA
+|(NEW) Autonomous Vehicles: HD Maps
+|Maps created at centimetre or sub-centimetre precision, typically to support driverless-cars and other autonomous ground vehicles that operate in built-up areas footnote:[https://www.geospatialworld.net/blogs/hd-maps-autonomous-vehicles/#whatarehdmaps]
 
-|3D Models from Point Clouds
-|TBA
+|(NEW) 3D Models from Point Clouds
+|The creation of three-dimensional representations of the Earth (or parts of it) from point cloud data. 
 |=======================
