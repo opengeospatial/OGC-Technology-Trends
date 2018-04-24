@@ -30,7 +30,7 @@ comment
 |Assisted Knowledge Building
 |TBA
 
-|Microgeography
+|(NEW)Microgeography
 |Geography that is localized such that it is concerned with a small spatial extent.
 
 |=======================
