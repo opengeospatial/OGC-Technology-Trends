@@ -20,7 +20,7 @@ comment
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
-|OGC Working Groups | Big Data DWG
+|OGC Working Groups | http://www.opengeospatial.org/projects/groups/bigdatadwg[Big Data DWG^], http://www.opengeospatial.org/projects/groups/semantics[Geosemantics DWG^]
 |=======================
 
 [Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
