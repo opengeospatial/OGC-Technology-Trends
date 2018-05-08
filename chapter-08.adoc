@@ -13,7 +13,7 @@ comment
 |Title      |Description
 
 |(NEW)GEO at Platform Scale
-|TBA
+|Today’s networked platforms are able to achieve massive success by simplyconnecting producers and consumers. A platform allows for alignment of incentives of producers and consumers, vastly increasing the products created and then allowing quality control through curation and reputation management. Users of the platform should be able to pull raw information and easily produce their own GEO data and insights, then and contribute those back to the same repository for further analysis.  (Chris Holmes, Christopher Tucker, Ben Tuttle)
 
 |(NEW)Event-Driven: Pub-Sub
 |Publish–Subscribe is a messaging pattern where entities can subscribe to a type of message (defined by a criteria) and receive messages that satisfy that criteria from publishers as and when those messages become available (that is, as and when the events that satisfy that criteria occur).
