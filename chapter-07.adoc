@@ -30,10 +30,10 @@ comment
 |Human Computer Interaction (HCI)
 |Human Computer Interaction refers to the interfaces between people (users) and computers and how does human behavior affect this interaction. This includes Voice interaction, such as Amazon's Echo; Google Home/(Google Now); Apple Siri; Microsoft Cortana.
 
-|(NEW)Mobile HCI
+|Mobile HCI
 |Human Computer Interaction on handheld or wearable mobile devices such as smartphones, smart watches, portable mobile heads-up displays etc.
 
-|(NEW)AI Conversational Platforms
+|AI Conversational Platforms
 |Platforms that allow users to interact with software through conversation in natural language (or in nearly natural language).
 
 |=======================

@@ -31,10 +31,10 @@ comment
 |Simulation modeling is the process of creating and analyzing a digital prototype of a physical model to predict its performance in the real world. Models and simulation can be used for analysis and for training
 
 |Image Processing and Machine Learning
-|Digital image processing refers to the use of computer algorithms to perform image processing on digital images. Advances in machine learning, such as Deep Learning, are changing the way digital image processing is occurring footnote:[https://www.gislounge.com/transforming-satellite-imagery-classification-deep-learning/]. 
+|Digital image processing refers to the use of computer algorithms to perform image processing on digital images. Advances in machine learning, such as Deep Learning, are changing the way digital image processing is occurring footnote:[https://www.gislounge.com/transforming-satellite-imagery-classification-deep-learning/].
 
 
-|(NEW)Digital Twins
+|Digital Twins
 |A digital twin is a virtual representation of a physical object, which can be used to simulate how the physical object might behave in the physical world under different situations footnote:[https://www.ice.org.uk/knowledge-and-resources/information-sheet/what-is-a-digital-twin]
 
 |=======================
