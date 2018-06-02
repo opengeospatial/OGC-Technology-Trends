@@ -1,7 +1,7 @@
 # OGC-Technology-Trends
 Geospatial technology trends as tracked by the Open Geospatial Consortium (OGC) and the OGC Architecture Board (OAB).  
 
-[![Tech Trends](images/20180423GeoTechTrends.png "Tech Trends Mind Map")](http://www.opengeospatial.org/pub/www/techtrends/index.html)
+[![Tech Trends](images/20180521_mindmap.png "Tech Trends Mind Map")](http://www.opengeospatial.org/pub/www/techtrends/index.html)
 
 ## Trends grouped in topic areas:
 
