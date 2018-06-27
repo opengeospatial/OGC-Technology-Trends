@@ -13,27 +13,27 @@ comment
 |Title      |Description
 
 |Immersive experiences: AR, VR, Mixed Reality
-|Virtual reality (VR) refers to computer technologies that use software to generate realistic images, sounds and other sensations that replicate a real environment. Augmented reality (AR) is a live direct or indirect view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data.
+|Virtual reality (VR) refers to computer technologies that use software to generate realistic images, sounds and other sensations that replicate a real environment. Augmented reality (AR) is a live direct or indirect view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/51
 
 |Connectivity and Bandwidth
-|Narrowband is the flow of data over a network where there is a constraint in the network bandwidth. Interested in raster, vector and compression of geo data over network bandwidth. As well as smart use of networks.
+|Narrowband is the flow of data over a network where there is a constraint in the network bandwidth. Interested in raster, vector and compression of geo data over network bandwidth. As well as smart use of networks. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/55
 
 |Increasing mobile device capabilities
-|With the coming of driverless cars; drones; wearables and implantables; and an ecology of embedded devices and services in the everyday environment, there has never been a more exciting and pressing time to debate and explore what digital mobility means.  MobileHCI brings together people from diverse areas which provides a multidisciplinary forum for academics, hardware and software developers, designers and practitioners to discuss the challenges and potential solutions for effective interaction with and through mobile devices, applications, and services. (MobileHCI)
+|With the coming of driverless cars; drones; wearables and implantables; and an ecology of embedded devices and services in the everyday environment, there has never been a more exciting and pressing time to debate and explore what digital mobility means.  MobileHCI brings together people from diverse areas which provides a multidisciplinary forum for academics, hardware and software developers, designers and practitioners to discuss the challenges and potential solutions for effective interaction with and through mobile devices, applications, and services (MobileHCI). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/50
 
 |Automotive
-|Maps and Apps for Automotive: The battle around connected cars and autonomous driving will continue this year. Both are impossible without geospatial technology. Hyper-precise and up-to-date maps as well as real-time analytics of sensor data are just two examples. We will see a lot of geo-enabled apps that get integrated into the car. (GeoAwesomness)
+|Maps and Apps for Automotive: The battle around connected cars and autonomous driving will continue this year. Both are impossible without geospatial technology. Hyper-precise and up-to-date maps as well as real-time analytics of sensor data are just two examples. We will see a lot of geo-enabled apps that get integrated into the car (GeoAwesomness). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/56
 
 |Ambient services
-|Ambient intelligence (AmI) refers to electronic environments that are sensitive and responsive to the presence of people.  In an ambient intelligence world, devices work in concert to support people in carrying out their everyday life activities, tasks and rituals in an easy, natural way using information and intelligence that is hidden in the network connecting these devices (see Internet of Things). As these devices grow smaller, more connected and more integrated into our environment, the technology disappears into our surroundings until only the user interface remains perceivable by users. (Wikipedia)
+|Ambient intelligence (AmI) refers to electronic environments that are sensitive and responsive to the presence of people.  In an ambient intelligence world, devices work in concert to support people in carrying out their everyday life activities, tasks and rituals in an easy, natural way using information and intelligence that is hidden in the network connecting these devices (see Internet of Things). As these devices grow smaller, more connected and more integrated into our environment, the technology disappears into our surroundings until only the user interface remains perceivable by users (Wikipedia). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/57
 
 |Human Computer Interaction (HCI)
-|Human Computer Interaction refers to the interfaces between people (users) and computers and how does human behavior affect this interaction. This includes Voice interaction, such as Amazon's Echo; Google Home/(Google Now); Apple Siri; Microsoft Cortana.
+|Human Computer Interaction refers to the interfaces between people (users) and computers and how does human behavior affect this interaction. This includes Voice interaction, such as Amazon's Echo; Google Home/(Google Now); Apple Siri; Microsoft Cortana. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/82
 
 |Mobile HCI
-|Human Computer Interaction on handheld or wearable mobile devices such as smartphones, smart watches, portable mobile heads-up displays etc.
+|Human Computer Interaction on handheld or wearable mobile devices such as smartphones, smart watches, portable mobile heads-up displays etc. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/76
 
 |AI Conversational Platforms
-|Platforms that allow users to interact with software through conversation in natural language (or in nearly natural language).
+|Platforms that allow users to interact with software through conversation in natural language (or in nearly natural language). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/77
 
 |=======================
