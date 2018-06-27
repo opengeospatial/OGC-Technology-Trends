@@ -26,7 +26,6 @@ comment
 
 |Volunteered geographic information (VGI)
 |Volunteered geographic information (VGI) is the harnessing of tools to create, assemble, and disseminate geographic data provided voluntarily by individuals (Goodchild, 2007).[1]VGI is a special case of the larger Web phenomenon known as user-generated content.[2] Some examples of this phenomenon are WikiMapia, OpenStreetMap, and Google Map Maker (Wikipedia). 
-.
 link:http://www.mdpi.com/2220-9964/5/5/55[Crowdsourcing, Citizen Science or Volunteered Geographic Information? The Current State of Crowdsourced Geographic Information]. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/45
 
 |UAVs and Drones
