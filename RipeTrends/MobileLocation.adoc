@@ -17,10 +17,11 @@ comment
 | Why might it matter? | Face to Face contact important, important quality time.
 | Gartner Hype Curve | Innovation Trigger
 | TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/66
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	|
-|OGC Working Groups | Mobile Location Services DWG 
+|OGC Working Groups | Mobile Location Services DWG
 |=======================
 
 [Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)

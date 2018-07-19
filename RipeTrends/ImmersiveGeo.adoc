@@ -18,6 +18,7 @@ Apple demoed new take on AR, at WWDC 2017. Microsoft Hololens.
 | Why might it matter? | Increased understanding of the world around us, such as accurate location of utilities networks.
 | Gartner Hype Curve | Peak of Inflated Expectations
 | TRL |
+| Issue |https://github.com/opengeospatial/OGC-Technology-Trends/issues/51
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Clients including mobile

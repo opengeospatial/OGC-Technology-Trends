@@ -18,6 +18,7 @@ comment
 Mod/Cim helps with dealing with the transition from data scarcity to data overabundance.  Coordination of predictive model outputs and machine learning.  Mod/SIM can used to support training of predictions/analysis.
 | Gartner Hype Curve | Innovation Trigger
 | TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/25
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Markup Languages
