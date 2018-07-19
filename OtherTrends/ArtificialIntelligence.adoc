@@ -1,0 +1,25 @@
+/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/ArtificialIntelligence.adoc#Artificial Intelligence#The central problems (or goals) of AI research include reasoning, knowledge, planning, learning, natural language processing (communication), perception and the ability to move and manipulate objects (Wikipedia). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/59
+
+########
+<<<
+
+== Artificial Intelligence
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Artificial Intelligence
+|Description | The central problems (or goals) of AI research include reasoning, knowledge, planning, learning, natural language processing (communication), perception and the ability to move and manipulate objects (Wikipedia). 
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/59
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================
+
