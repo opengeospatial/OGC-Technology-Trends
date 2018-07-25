@@ -1,0 +1,25 @@
+/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/Microgeography.adoc#Microgeography#Geography that is localized such that it is concerned with a small spatial extent. # https://github.com/opengeospatial/OGC-Technology-Trends/issues/73
+
+########
+<<<
+
+== Microgeography
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Microgeography
+|Description | Geography that is localized such that it is concerned with a small spatial extent. 
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/73
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================
+

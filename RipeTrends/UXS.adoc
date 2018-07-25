@@ -20,6 +20,7 @@ This page is a draft stub
 NASA has invented technology, which allows a drone to land safely in an emergency landing. Also can now buy insurance cover for flying a drone.
 |Gartner Hype Curve | Innovation Trigger
 | TRL |
+| Issue |https://github.com/opengeospatial/OGC-Technology-Trends/issues/46
 |References | URLs to technology written descriptions
 |Examples | https://uavcoach.com/drone-companies/
 |Geospatial Tech Category | Crowdsourcing, VGI, Surveys/Demographics and

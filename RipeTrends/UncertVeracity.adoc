@@ -14,9 +14,10 @@ comment
 |Title | Uncertainty, Veracity
 |Description | Uncertainty is a situation which involves imperfect and/or unknown information, including aspects of cognition (the process of acquiring knowledge and understanding through thought, experience and senses) and plays a part in understanding Uncertainty Information. How this information is assessed for data quality is important. (DSTL)
 | What is new or emerging?	| Portrayal, ever change world and increasing understanding is needed.
-| Why might it matter? | Every increasing amounts of information, how do you describe uncertainity in the data, so the right information rises above the noise?
+| Why might it matter? | Every increasing amounts of information, how do you describe uncertainty in the data, so the right information rises above the noise?
 | Gartner Hype Curve | Technology Trigger
 | TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/29
 |References | https://en.wikipedia.org/wiki/Uncertain_data
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Processing, Models, Workflow, Cloud

@@ -17,6 +17,7 @@ comment
 | Why might it matter? | Increased pattern recognitions such as Photos apps.
 | Gartner Hype Curve | Trough of Disillusionment
 | TRL |
+| Issue |https://github.com/opengeospatial/OGC-Technology-Trends/issues/27
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages

@@ -1,0 +1,25 @@
+/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/LocationAsindicatorofintent.adoc#Location as indicator of intent#“Location targeting is holy grail for marketers”- Sir Martin Sorrell, WPP CEO, MWC 2011 By measuring the entropy of each individual’s trajectory, we find a 93% potential predictability in user mobility  - Limits of Predictability in Human Mobility, Science 2010 1st law of geography:  "Everything is related to everything else, but near things are more related than distant things.” - Waldo Tobler. # https://github.com/opengeospatial/OGC-Technology-Trends/issues/4
+
+########
+<<<
+
+== Location as indicator of intent
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Location as indicator of intent
+|Description | “Location targeting is holy grail for marketers”- Sir Martin Sorrell, WPP CEO, MWC 2011 By measuring the entropy of each individual’s trajectory, we find a 93% potential predictability in user mobility  - Limits of Predictability in Human Mobility, Science 2010 1st law of geography:  "Everything is related to everything else, but near things are more related than distant things.” - Waldo Tobler. 
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/4
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================
+

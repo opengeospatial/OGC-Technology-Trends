@@ -1,0 +1,25 @@
+/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/TextAnalytics.adoc#Text Analytics#Text Analytics refers to the process of deriving high-quality information from text. Applications of this are Natural Language Processing (NLP) and Social Media harvesting. An example is to scan a set of documents written in a natural language and either model the document set for predictive classification purposes or populate a database or search index with the information extracted - (DSTL). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/37
+
+########
+<<<
+
+== Text Analytics
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Text Analytics
+|Description | Text Analytics refers to the process of deriving high-quality information from text. Applications of this are Natural Language Processing (NLP) and Social Media harvesting. An example is to scan a set of documents written in a natural language and either model the document set for predictive classification purposes or populate a database or search index with the information extracted - (DSTL). 
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/37
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================
+

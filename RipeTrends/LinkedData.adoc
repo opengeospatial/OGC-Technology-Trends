@@ -17,6 +17,7 @@ comment
 | Why might it matter? | Increasing data, more important to be searched.
 | Gartner Hype Curve | Peak of Inflated Expectations
 | TRL |
+| Issue |https://github.com/opengeospatial/OGC-Technology-Trends/issues/36
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
