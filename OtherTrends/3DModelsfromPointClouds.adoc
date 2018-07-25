@@ -1,6 +1,4 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/3DModelsfromPointClouds.adoc#3D Models from Point Clouds#The creation of three-dimensional representations of the Earth (or parts of it) from point cloud data. # https://github.com/opengeospatial/OGC-Technology-Trends/issues/70
 
-########
 <<<
 
 == 3D Models from Point Clouds
