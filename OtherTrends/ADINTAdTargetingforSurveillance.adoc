@@ -1,6 +1,4 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/ADINTAdTargetingforSurveillance.adoc#ADINT: Ad Targeting for Surveillance#Targeted advertising is at the heart of the largest technology companies today, and is becoming increasingly precise. Simultaneously, users generate more and more personal data that is shared with advertisers as more and more of daily life becomes intertwined with networked technology. The online advertising ecosystem is built upon the ability of advertising networks to know properties about users (e.g., their interests or physical locations) and deliver targeted ads based on those properties - (Paul Vines, Franziska Roesner, and Tadayoshi Kohno). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/68
 
-########
 <<<
 
 == ADINT: Ad Targeting for Surveillance
