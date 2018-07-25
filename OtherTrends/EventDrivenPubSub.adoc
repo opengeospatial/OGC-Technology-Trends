@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/EventDrivenPubSub.adoc#Event-Driven: Pub-Sub#Publish–Subscribe is a messaging pattern where entities can subscribe to a type of message (defined by a criteria) and receive messages that satisfy that criteria from publishers as and when those messages become available (that is, as and when the events that satisfy that criteria occur). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/79
-
-########
 <<<
 
 == Event-Driven: Pub-Sub
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | Event-Driven: Pub-Sub
-|Description | Publish–Subscribe is a messaging pattern where entities can subscribe to a type of message (defined by a criteria) and receive messages that satisfy that criteria from publishers as and when those messages become available (that is, as and when the events that satisfy that criteria occur). 
+|Description | Publish–Subscribe is a messaging pattern where entities can subscribe to a type of message (defined by a criteria) and receive messages that satisfy that criteria from publishers as and when those messages become available (that is, as and when the events that satisfy that criteria occur).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

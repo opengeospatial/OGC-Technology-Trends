@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/AutonomousVehiclesHDMaps.adoc#Autonomous Vehicles: HD Maps#Maps created at centimetre or sub-centimetre precision, typically to support driverless-cars and other autonomous ground vehicles that operate in built-up areas footnote:[https://www.geospatialworld.net/blogs/hd-maps-autonomous-vehicles/]. # https://github.com/opengeospatial/OGC-Technology-Trends/issues/69
-
-########
 <<<
 
 == Autonomous Vehicles: HD Maps
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | Autonomous Vehicles: HD Maps
-|Description | Maps created at centimetre or sub-centimetre precision, typically to support driverless-cars and other autonomous ground vehicles that operate in built-up areas footnote:[https://www.geospatialworld.net/blogs/hd-maps-autonomous-vehicles/]. 
+|Description | Maps created at centimetre or sub-centimetre precision, typically to support driverless-cars and other autonomous ground vehicles that operate in built-up areas footnote:[https://www.geospatialworld.net/blogs/hd-maps-autonomous-vehicles/].
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

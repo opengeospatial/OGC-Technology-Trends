@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/Mapprojectionsfitforpurpose.adoc#Map projections - fit for purpose#Best Practice 17: State how coordinate values are encoded. Provide enough information for users to determine how coordinate values are encoded -  (SDWWG Best Practice). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/34
-
-########
 <<<
 
 == Map projections - fit for purpose
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | Map projections - fit for purpose
-|Description | Best Practice 17: State how coordinate values are encoded. Provide enough information for users to determine how coordinate values are encoded -  (SDWWG Best Practice). 
+|Description | Best Practice 17: State how coordinate values are encoded. Provide enough information for users to determine how coordinate values are encoded -  (SDWWG Best Practice).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/DataScienceAnalytics.adoc#Data Science Analytics#Data Science Analytics refers to a number of data science advances including  Machine Learning (gives computers the ability to learn without being explicitly programmed), Anomaly detection (he identification of items, events or observations which do not conform to an expected pattern or other items in a dataset.) (DSTL). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/26
-
-########
 <<<
 
 == Data Science Analytics
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | Data Science Analytics
-|Description | Data Science Analytics refers to a number of data science advances including  Machine Learning (gives computers the ability to learn without being explicitly programmed), Anomaly detection (he identification of items, events or observations which do not conform to an expected pattern or other items in a dataset.) (DSTL). 
+|Description | Data Science Analytics refers to a number of data science advances including  Machine Learning (gives computers the ability to learn without being explicitly programmed), Anomaly detection (he identification of items, events or observations which do not conform to an expected pattern or other items in a dataset.) (DSTL).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

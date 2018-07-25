@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/Multiscale.adoc#Multiscale#features that are represented at multiple scales, automatically (OAB). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/17
-
-########
 <<<
 
 == Multiscale
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | Multiscale
-|Description | features that are represented at multiple scales, automatically (OAB). 
+|Description | features that are represented at multiple scales, automatically (OAB).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

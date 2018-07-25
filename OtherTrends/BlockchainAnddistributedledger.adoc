@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/BlockchainAnddistributedledger.adoc#Blockchain and distributed ledger#Distributed ledger technology based on cryptographic systems that manage, verify and publicly record transaction data; the basis of "cryptocurrencies" such as bitcoin - (World Economic Forum). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/65
-
-########
 <<<
 
 == Blockchain and distributed ledger
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | Blockchain and distributed ledger
-|Description | Distributed ledger technology based on cryptographic systems that manage, verify and publicly record transaction data; the basis of "cryptocurrencies" such as bitcoin - (World Economic Forum). 
+|Description | Distributed ledger technology based on cryptographic systems that manage, verify and publicly record transaction data; the basis of "cryptocurrencies" such as bitcoin - (World Economic Forum).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

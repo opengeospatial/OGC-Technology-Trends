@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/WebTrends.adoc#Web Trends#The general direction in which web technologies are heading. # https://github.com/opengeospatial/OGC-Technology-Trends/issues/33
-
-########
 <<<
 
 == Web Trends
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | Web Trends
-|Description | The general direction in which web technologies are heading. 
+|Description | The general direction in which web technologies are heading.
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

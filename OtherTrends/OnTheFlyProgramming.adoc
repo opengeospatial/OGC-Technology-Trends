@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/OnTheFlyProgramming.adoc#On-The-Fly Programming#On The Fly is a phase and used to describe code that is being changed while the process that the change affects is ongoing. This is aimed a generating products on the fly - (DSTL). Software interaction patterns	Geospatial Architecture Federation refers to approaches in federation (information technology) including information and geospatial data flows across networks. Also includes incorporating event based architectures and messaging - (DSTL). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/84
-
-########
 <<<
 
 == On-The-Fly Programming
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | On-The-Fly Programming
-|Description | On The Fly is a phase and used to describe code that is being changed while the process that the change affects is ongoing. This is aimed a generating products on the fly - (DSTL). Software interaction patterns	Geospatial Architecture Federation refers to approaches in federation (information technology) including information and geospatial data flows across networks. Also includes incorporating event based architectures and messaging - (DSTL). 
+|Description | On The Fly is a phase and used to describe code that is being changed while the process that the change affects is ongoing. This is aimed a generating products on the fly - (DSTL). Software interaction patterns	Geospatial Architecture Federation refers to approaches in federation (information technology) including information and geospatial data flows across networks. Also includes incorporating event based architectures and messaging - (DSTL).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

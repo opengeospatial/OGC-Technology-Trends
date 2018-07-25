@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/Indoorvenuemaps.adoc#Indoor venue maps#The widespread adoption of smartphones by consumers worldwide has not only led to the advent of new indoor location technologies but also the increasing popularity and use of indoor venue maps. In the last several years, leading mapping technology companies have been competing to bring tens of thousands of high-quality indoor venue maps to smartphone users. There are indoor venue maps for thousands of museums, airports, shopping malls, restaurants and other venues - (Programmable Web). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/12
-
-########
 <<<
 
 == Indoor venue maps
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | Indoor venue maps
-|Description | The widespread adoption of smartphones by consumers worldwide has not only led to the advent of new indoor location technologies but also the increasing popularity and use of indoor venue maps. In the last several years, leading mapping technology companies have been competing to bring tens of thousands of high-quality indoor venue maps to smartphone users. There are indoor venue maps for thousands of museums, airports, shopping malls, restaurants and other venues - (Programmable Web). 
+|Description | The widespread adoption of smartphones by consumers worldwide has not only led to the advent of new indoor location technologies but also the increasing popularity and use of indoor venue maps. In the last several years, leading mapping technology companies have been competing to bring tens of thousands of high-quality indoor venue maps to smartphone users. There are indoor venue maps for thousands of museums, airports, shopping malls, restaurants and other venues - (Programmable Web).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

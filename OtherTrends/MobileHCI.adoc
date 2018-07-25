@@ -1,6 +1,3 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/MobileHCI.adoc#Mobile HCI#Human Computer Interaction on handheld or wearable mobile devices such as smartphones, smart watches, portable mobile heads-up displays etc. # https://github.com/opengeospatial/OGC-Technology-Trends/issues/76
-
-########
 <<<
 
 == Mobile HCI
@@ -11,7 +8,7 @@
 |=======================
 |Meta Trend	| TBA
 |Title | Mobile HCI
-|Description | Human Computer Interaction on handheld or wearable mobile devices such as smartphones, smart watches, portable mobile heads-up displays etc. 
+|Description | Human Computer Interaction on handheld or wearable mobile devices such as smartphones, smart watches, portable mobile heads-up displays etc.
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -22,4 +19,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-
