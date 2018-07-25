@@ -1,6 +1,4 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/AgileGeoProcessingChains.adoc#Agile Geo Processing Chains#Agile Processing Chains is focusing on Workflow management and linking of geospatial data models - (DSTL). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/83
 
-########
 <<<
 
 == Agile Geo Processing Chains
