@@ -1,6 +1,4 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/Automotive.adoc#Automotive#Maps and Apps for Automotive: The battle around connected cars and autonomous driving will continue this year. Both are impossible without geospatial technology. Hyper-precise and up-to-date maps as well as real-time analytics of sensor data are just two examples. We will see a lot of geo-enabled apps that get integrated into the car (GeoAwesomness). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/56
 
-########
 <<<
 
 == Automotive
