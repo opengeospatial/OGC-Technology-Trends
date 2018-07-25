@@ -1,0 +1,21 @@
+<<<
+
+== Human Geography
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Human Geography
+|Description | Well-organized and comprehensive human geography data can be applied to analysis that allows us to better anticipate the behavior of people over space and time and to inform decision-making that supports human security, including crisis mitigation and humanitarian response - (WWHGD_WG).
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/6
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================

@@ -17,6 +17,7 @@ comment
 | Why might it matter? | Could possibly be the Gadget of this "holiday season", with Apple HomePod and Microsoft device.  Mapbox has demoed integration into Amazon Alexi using Mapbox Travel APIs.
 | Gartner Hype Curve | Peak of Inflated Expectations
 | TRL |
+| Issue |https://github.com/opengeospatial/OGC-Technology-Trends/issues/57
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Sensing, IoT, Sensor Web, Imaging

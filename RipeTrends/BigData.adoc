@@ -31,7 +31,7 @@ comment
 |[Gartner Hype Curve 2016](www.gartner.com/newsroom/id/3412017)
 | Machine Learning is at the peak of  inflated expectations
 |TRL |
-
+|Issue |https://github.com/opengeospatial/OGC-Technology-Trends/issues/18
 |References
 |
 

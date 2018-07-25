@@ -19,6 +19,7 @@ Web API ambitious
 | Why might it matter? | Standardisation of geo processing of geo location query such as OGC Rest research in TestBed.
 | Gartner Hype Curve | Innovation Trigger
 | TRL |
+| Issue |https://github.com/opengeospatial/OGC-Technology-Trends/issues/35
 |References | URLs to technology written descriptions
 |Examples | http://docs.opengeospatial.org/wp/16-019r4/16-019r4.html
 |Geospatial Tech Category 	| Web Services and APIs

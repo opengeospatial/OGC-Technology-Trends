@@ -13,21 +13,21 @@ comment
 |Title      |Description
 
 |Text Analytics
-|Text Analytics refers to the process of deriving high-quality information from text. Applications of this are Natural Language Processing (NLP) and Social Media harvesting. An example is to scan a set of documents written in a natural language and either model the document set for predictive classification purposes or populate a database or search index with the information extracted - (DSTL). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/37
+|Text Analytics refers to the process of deriving high-quality information from text. Applications of this are Natural Language Processing (NLP) and Social Media harvesting. An example is to scan a set of documents written in a natural language and either model the document set for predictive classification purposes or populate a database or search index with the information extracted - (DSTL).
 
 |Ontologies and Semantics
-|Ontology is a formal naming and definition of the types, properties, and interrelationships of the entities.  Semantics is primarily the linguistic, and also philosophical study of meaning—in language, programming languages, formal logics, and semiotics - (DSTL). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/38
+|Ontology is a formal naming and definition of the types, properties, and interrelationships of the entities.  Semantics is primarily the linguistic, and also philosophical study of meaning—in language, programming languages, formal logics, and semiotics - (DSTL).
 
 |Linked Data
-|Linked Data refers to a method of publishing structured data that can be interlinked. It builds upon standard Web technologies such as HTTP, RDF and URIs. It enables data from different sources to be connected and queried -  (DSTL). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/36
+|Linked Data refers to a method of publishing structured data that can be interlinked. It builds upon standard Web technologies such as HTTP, RDF and URIs. It enables data from different sources to be connected and queried -  (DSTL).
 
 |APIs for the Web
-|The explosive growth of public APIs for geospatial applications, and the accompanying variability in API practices across the IT industry, as well as in geospatial APIs specifically, has created new opportunities and challenges in supporting geospatial services. The application of standards in APIs to ensure interoperability is an apparent next step - (API CDS Press Release). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/35
+|The explosive growth of public APIs for geospatial applications, and the accompanying variability in API practices across the IT industry, as well as in geospatial APIs specifically, has created new opportunities and challenges in supporting geospatial services. The application of standards in APIs to ensure interoperability is an apparent next step - (API CDS Press Release).
 
 |Map projections - fit for purpose
-|Best Practice 17: State how coordinate values are encoded. Provide enough information for users to determine how coordinate values are encoded -  (SDWWG Best Practice). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/34
+|Best Practice 17: State how coordinate values are encoded. Provide enough information for users to determine how coordinate values are encoded -  (SDWWG Best Practice).
 
 |Web Trends
-|The general direction in which web technologies are heading. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/33
+|The general direction in which web technologies are heading. 
 
 |=======================
