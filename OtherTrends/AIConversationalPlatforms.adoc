@@ -1,6 +1,4 @@
-/Users/gobehobona/Documents/NetBeansProjects/OGCTechTrendsCPP/topicFiles/AIConversationalPlatforms.adoc#AI Conversational Platforms#Platforms that allow users to interact with software through conversation in natural language (or in nearly natural language). # https://github.com/opengeospatial/OGC-Technology-Trends/issues/77
 
-########
 <<<
 
 == AI Conversational Platforms
