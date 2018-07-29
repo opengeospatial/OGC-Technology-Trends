@@ -18,7 +18,7 @@ comment
 |link:RipeTrends/UncertVeracity.adoc[Uncertainty, Veracity]
 |Uncertainty is a situation which involves imperfect and/or unknown information, including aspects of cognition (the process of acquiring knowledge and understanding through thought, experience and senses) and plays a part in understanding Uncertainty Information. How this information is assessed for data quality is important - (DSTL).
 
-|link:RipeTrends/Machine Learning.adoc[Machine Learning]
+|link:RipeTrends/MachineLearning.adoc[Machine Learning]
 |Machine learning is the subfield of computer science that gives computers the ability to learn without being explicitly programmed.  Deep learning - a sub type of machine learning -  consists of multiple hidden layers in an artificial neural network - (Wikipedia).
 
 |link:OtherTrends/SpatialTemporalAnalytics.adoc[Spatial-Temporal Analytics]
