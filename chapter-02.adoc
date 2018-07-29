@@ -15,7 +15,7 @@ comment
 |link:OtherTrends/SpatialTemporalPointCloud.adoc[Spatial Temporal Point Cloud]
 |Spatial Temporal Point Cloud. A point cloud refers to a set of data points in some coordinate system. Spatial Temporal components are incorporated (DSTL). Point clouds can be terrestrial, bathymetric, atmospheric. Streaming of point cloud data in real time.
 
-|ink:RipeTrends/3DModels.adoc[3D Geo model creation]
+|link:RipeTrends/3DModels.adoc[3D Geo model creation]
 |3D (Three Dimensional) covers broad range of tasks including  3D Computer graphics and 3D Modelling - (DSTL).
 
 |link:OtherTrends/SimultaneousLocalizationAndMappingSLAM.adoc[Simultaneous Localization and Mapping (SLAM)]
