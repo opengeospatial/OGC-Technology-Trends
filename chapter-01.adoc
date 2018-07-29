@@ -11,7 +11,7 @@ comment
 [width="80%", options="header"]
 |=======================
 |Title      |Description
-|Location and Mobile communications
+|link:RipeTrends/MobileLocation.adoc[Location and Mobile communications]
 |People who communicate digitally also tend to meet in person. 90% of users who have called each other have also shared the same space (cell tower), even if they live far apart.
 
 
@@ -32,5 +32,5 @@ comment
 |Spatial thinking is a collection of cognitive skills. The skills consist of declarative and perceptual forms of knowledge and some cognitive operations that can be used to transform, combine, or otherwise operate on this knowledge. The key to spatial thinking is a constructive amalgam of three elements: concepts of space, tools of representation, and processes of reasoning. (US National Academies)  OGC should consider how the innovation it promotes can extend this "learning spatial" to "doing spatial".
 
 |ADINT: Ad Targeting for Surveillance
-|Targeted advertising is at the heart of the largest technology companies today, and is becoming increasingly precise. Simultaneously, users generate more and more personal data that is shared with advertisers as more and more of daily life becomes intertwined with networked technology. The online advertising ecosystem is built upon the ability of advertising networks to know properties about users (e.g., their interests or physical locations) and deliver targeted ads based on those properties - (Paul Vines, Franziska Roesner, and Tadayoshi Kohno). 
+|Targeted advertising is at the heart of the largest technology companies today, and is becoming increasingly precise. Simultaneously, users generate more and more personal data that is shared with advertisers as more and more of daily life becomes intertwined with networked technology. The online advertising ecosystem is built upon the ability of advertising networks to know properties about users (e.g., their interests or physical locations) and deliver targeted ads based on those properties - (Paul Vines, Franziska Roesner, and Tadayoshi Kohno).
 |=======================
