@@ -1,0 +1,21 @@
+<<<
+
+== Web Trends
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Web Trends
+|Description | The general direction in which web technologies are heading.
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/33
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================

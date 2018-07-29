@@ -1,0 +1,21 @@
+<<<
+
+== High-altitude platforms
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | High-altitude platforms
+|Description | High-Altitude Platforms (HAPs) are aircraft or airships that operate in the stratosphere at altitudes of up to 22 km, typically to provide communication facilities that can exploit both terrestrial and satellite schemes footnote:[https://ieeexplore.ieee.org/document/932146/].
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/75
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================

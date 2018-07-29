@@ -1,0 +1,21 @@
+<<<
+
+== Time stamps to support analytics
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Time stamps to support analytics
+|Description | Time-Aware Applications, Computers, and Communication Systems (TAACCS)  A new economy built on the massive growth of endpoints on the internet will require precise and verifiable timing in ways that current systems do not support. Applications, computers, and communications systems have been developed with modules and layers that optimize data processing but degrade accurate timing. State-of-the-art systems now use timing only as a performance metric. Correctness of timing as a metric cannot currently be designed into systems independent of hardware and/or software implementations. To enable the massive growth predicted, accurate timing needs cross-disciplinary research to be integrated into these existing systems- (NIST).
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/15
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================

@@ -12,39 +12,39 @@ comment
 |=======================
 |Title      |Description
 
-|Spatial Temporal Point Cloud
-|Spatial Temporal Point Cloud. A point cloud refers to a set of data points in some coordinate system. Spatial Temporal components are incorporated (DSTL). Point clouds can be terrestrial, bathymetric, atmospheric. Streaming of point cloud data in real time. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/8
+|link:OtherTrends/SpatialTemporalPointCloud.adoc[Spatial Temporal Point Cloud]
+|Spatial Temporal Point Cloud. A point cloud refers to a set of data points in some coordinate system. Spatial Temporal components are incorporated (DSTL). Point clouds can be terrestrial, bathymetric, atmospheric. Streaming of point cloud data in real time.
 
-|3D Geo model creation
-|3D (Three Dimensional) covers broad range of tasks including  3D Computer graphics and 3D Modelling - (DSTL). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/10
+|link:RipeTrends/3DModels.adoc[3D Geo model creation]
+|3D (Three Dimensional) covers broad range of tasks including  3D Computer graphics and 3D Modelling - (DSTL).
 
-|Simultaneous Localization and Mapping (SLAM)
-|SLAM is a computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of progress within this unknown environment. Examples of approaches are self-driving cars, unmanned aerial vehicles, autonomous underwater vehicles, planetary rovers, newly emerging domestic robots and even inside the human body - (DSTL). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/9
+|link:OtherTrends/SimultaneousLocalizationAndMappingSLAM.adoc[Simultaneous Localization and Mapping (SLAM)]
+|SLAM is a computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of progress within this unknown environment. Examples of approaches are self-driving cars, unmanned aerial vehicles, autonomous underwater vehicles, planetary rovers, newly emerging domestic robots and even inside the human body - (DSTL).
 
-|BIM and GIS integration	 
-|It’s evident that bringing BIM and GIS together will benefit many application domains such as architecture, urban planning, disaster management, infrastructure engineering, facilities management, decision-making, construction, etc. However, there are many challenges in integrating BIM and GIS. M - (Kalantar in GIM International). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/11
+|link:OtherTrends/BIMAndGISIntegration.adoc[BIM and GIS integration]	 
+|It’s evident that bringing BIM and GIS together will benefit many application domains such as architecture, urban planning, disaster management, infrastructure engineering, facilities management, decision-making, construction, etc. However, there are many challenges in integrating BIM and GIS. M - (Kalantar in GIM International).
 
-|Indoor venue maps
-|The widespread adoption of smartphones by consumers worldwide has not only led to the advent of new indoor location technologies but also the increasing popularity and use of indoor venue maps. In the last several years, leading mapping technology companies have been competing to bring tens of thousands of high-quality indoor venue maps to smartphone users. There are indoor venue maps for thousands of museums, airports, shopping malls, restaurants and other venues - (Programmable Web). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/12
+|link:OtherTrends/IndoorVenueMaps.adoc[Indoor venue maps]
+|The widespread adoption of smartphones by consumers worldwide has not only led to the advent of new indoor location technologies but also the increasing popularity and use of indoor venue maps. In the last several years, leading mapping technology companies have been competing to bring tens of thousands of high-quality indoor venue maps to smartphone users. There are indoor venue maps for thousands of museums, airports, shopping malls, restaurants and other venues - (Programmable Web).
 
-|Indoor: Position, Models and Navigation
-|Accurate indoor positioning unlocks a new set of possibilities for mobile services.  Consumers will benefit from personalized, contextual information and offers, as well as new services such as indoor navigation.  Venue owners will benefit from increased customer satisfaction and enhanced information on customer behavior - (InLocation Alliance). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/13
+|link:RipeTrends/indoor.adoc[Indoor: Position, Models and Navigation]
+|Accurate indoor positioning unlocks a new set of possibilities for mobile services.  Consumers will benefit from personalized, contextual information and offers, as well as new services such as indoor navigation.  Venue owners will benefit from increased customer satisfaction and enhanced information on customer behavior - (InLocation Alliance).
 
-|Dynamic datums
-|This is now starting to be referred to as an “Earth-fixed” datum but previously was often referred to as a “dynamic datum”.  Conceptually, the term “dynamic datum” confuses many people, who assume it to mean that the datum itself is constantly changing.  This is obviously not the case – the datum is uniquely defined and fixed in orientation and location.  Rather, an “Earth-fixed” datum allows the changes in coordinates of points on the Earth’s “dynamic” surface to be referenced and represented. (ANZLIC).  The revision of ISO 19111 anticipates the need for Dynamic Datums. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/14
+|link:OtherTrends/DynamicDatums.adoc[Dynamic datums]
+|This is now starting to be referred to as an “Earth-fixed” datum but previously was often referred to as a “dynamic datum”.  Conceptually, the term “dynamic datum” confuses many people, who assume it to mean that the datum itself is constantly changing.  This is obviously not the case – the datum is uniquely defined and fixed in orientation and location.  Rather, an “Earth-fixed” datum allows the changes in coordinates of points on the Earth’s “dynamic” surface to be referenced and represented. (ANZLIC).  The revision of ISO 19111 anticipates the need for Dynamic Datums.
 
-|Time stamps to support analytics
-|Time-Aware Applications, Computers, and Communication Systems (TAACCS)  A new economy built on the massive growth of endpoints on the internet will require precise and verifiable timing in ways that current systems do not support. Applications, computers, and communications systems have been developed with modules and layers that optimize data processing but degrade accurate timing. State-of-the-art systems now use timing only as a performance metric. Correctness of timing as a metric cannot currently be designed into systems independent of hardware and/or software implementations. To enable the massive growth predicted, accurate timing needs cross-disciplinary research to be integrated into these existing systems- (NIST). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/15
+|link:OtherTrends/TimestampsToSupportAnalytics.adoc[Time stamps to support analytics]
+|Time-Aware Applications, Computers, and Communication Systems (TAACCS)  A new economy built on the massive growth of endpoints on the internet will require precise and verifiable timing in ways that current systems do not support. Applications, computers, and communications systems have been developed with modules and layers that optimize data processing but degrade accurate timing. State-of-the-art systems now use timing only as a performance metric. Correctness of timing as a metric cannot currently be designed into systems independent of hardware and/or software implementations. To enable the massive growth predicted, accurate timing needs cross-disciplinary research to be integrated into these existing systems- (NIST).
 
-|Dynamic features: 4D models and positioning
-|The advance of mobile computing and internet-connected sensors (including sensors and GPS transponders in cell phones and notebook computers) brings with it a rapid rise in applications for moving feature data, typically representing vehicles or pedestrians. Many innovative moving feature applications will require the overlay and integration of moving feature data from different sources. Examples can easily be imagined for disaster risk management, traffic information services, security services, navigation for robots, aviation or maritime traffic monitoring, and wildlife tracking and conservation. (Moving Features press release). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/16
+|link:OtherTrends/DynamicFeatures4DModelsAndPositioning.adoc[Dynamic features: 4D models and positioning]
+|The advance of mobile computing and internet-connected sensors (including sensors and GPS transponders in cell phones and notebook computers) brings with it a rapid rise in applications for moving feature data, typically representing vehicles or pedestrians. Many innovative moving feature applications will require the overlay and integration of moving feature data from different sources. Examples can easily be imagined for disaster risk management, traffic information services, security services, navigation for robots, aviation or maritime traffic monitoring, and wildlife tracking and conservation. (Moving Features press release).
 
-|Multiscale
-|features that are represented at multiple scales, automatically (OAB). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/17
+|link:OtherTrends/Multiscale.adoc[Multiscale]
+|features that are represented at multiple scales, automatically (OAB).
 
-|Autonomous Vehicles: HD Maps
-|Maps created at centimetre or sub-centimetre precision, typically to support driverless-cars and other autonomous ground vehicles that operate in built-up areas footnote:[https://www.geospatialworld.net/blogs/hd-maps-autonomous-vehicles/]. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/69
+|link:OtherTrends/AutonomousVehiclesHDMaps.adoc[Autonomous Vehicles: HD Maps]
+|Maps created at centimetre or sub-centimetre precision, typically to support driverless-cars and other autonomous ground vehicles that operate in built-up areas footnote:[https://www.geospatialworld.net/blogs/hd-maps-autonomous-vehicles/].
 
-|3D Models from Point Clouds
-|The creation of three-dimensional representations of the Earth (or parts of it) from point cloud data. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/70
+|link:OtherTrends/3DModelsfromPointClouds.adoc[3D Models from Point Clouds]
+|The creation of three-dimensional representations of the Earth (or parts of it) from point cloud data.
 |=======================

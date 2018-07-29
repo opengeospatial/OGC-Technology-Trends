@@ -11,26 +11,26 @@ comment
 [width="80%", options="header"]
 |=======================
 |Title      |Description
-|Location and Mobile communications
-|People who communicate digitally also tend to meet in person. 90% of users who have called each other have also shared the same space (cell tower), even if they live far apart. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/66
+|link:RipeTrends/MobileLocation.adoc[Location and Mobile communications]
+|People who communicate digitally also tend to meet in person. 90% of users who have called each other have also shared the same space (cell tower), even if they live far apart.
 
 
-|Location as indicator of intent
-|“Location targeting is holy grail for marketers”- Sir Martin Sorrell, WPP CEO, MWC 2011 By measuring the entropy of each individual’s trajectory, we find a 93% potential predictability in user mobility  - Limits of Predictability in Human Mobility, Science 2010 1st law of geography:  "Everything is related to everything else, but near things are more related than distant things.” - Waldo Tobler. Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/4
+|link:OtherTrends/LocationAsIndicatorOfIntent.adoc[Location as indicator of intent]
+|“Location targeting is holy grail for marketers”- Sir Martin Sorrell, WPP CEO, MWC 2011 By measuring the entropy of each individual’s trajectory, we find a 93% potential predictability in user mobility  - Limits of Predictability in Human Mobility, Science 2010 1st law of geography:  "Everything is related to everything else, but near things are more related than distant things.” - Waldo Tobler.
 
-|Human and Place
-|Topic is focused on Human and Place (Geography). This refers to the use of place, and how vernacular geography is used to describe it. One must avoid the temptation to think of place only as a location. (DSTL)  A place is distinguished by its people, markets, governments, and institutions, as much as it is by its physical landscape and natural resources, transportation systems (including streets and roads), buildings, and boundaries- (US National Academies). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/86
+|link:OtherTrends/HumanAndPlace.adoc[Human and Place]
+|Topic is focused on Human and Place (Geography). This refers to the use of place, and how vernacular geography is used to describe it. One must avoid the temptation to think of place only as a location. (DSTL)  A place is distinguished by its people, markets, governments, and institutions, as much as it is by its physical landscape and natural resources, transportation systems (including streets and roads), buildings, and boundaries- (US National Academies).
 
-|Statistics and Geography
-|As well as geospatial information, Governments and government bodies are increasingly reliant on statistical data to inform policy and decision making. As resources become constrained, it is increasingly important to make sure they are used in the most effective way  possible. Geography is often the medium through which statistics are interpreted whether at global, regional, national or sub‐national level. As the need for better statistics increases so does the need for greater integration of statistics and geospatial information, resulting in so called spatial statistics - (GGIM). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/5
+|link:OtherTrends/StatisticsAndGeography.adoc[Statistics and Geography]
+|As well as geospatial information, Governments and government bodies are increasingly reliant on statistical data to inform policy and decision making. As resources become constrained, it is increasingly important to make sure they are used in the most effective way  possible. Geography is often the medium through which statistics are interpreted whether at global, regional, national or sub‐national level. As the need for better statistics increases so does the need for greater integration of statistics and geospatial information, resulting in so called spatial statistics - (GGIM).
 
 
-|Human Geography
-|Well-organized and comprehensive human geography data can be applied to analysis that allows us to better anticipate the behavior of people over space and time and to inform decision-making that supports human security, including crisis mitigation and humanitarian response - (WWHGD_WG). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/6
+|link:OtherTrends/HumanGeography.adoc[Human Geography]
+|Well-organized and comprehensive human geography data can be applied to analysis that allows us to better anticipate the behavior of people over space and time and to inform decision-making that supports human security, including crisis mitigation and humanitarian response - (WWHGD_WG).
 
-|Learn To Think Spatially
-|Spatial thinking is a collection of cognitive skills. The skills consist of declarative and perceptual forms of knowledge and some cognitive operations that can be used to transform, combine, or otherwise operate on this knowledge. The key to spatial thinking is a constructive amalgam of three elements: concepts of space, tools of representation, and processes of reasoning. (US National Academies)  OGC should consider how the innovation it promotes can extend this "learning spatial" to "doing spatial". Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/67
+|link:OtherTrends/LearnToThinkSpatially.adoc[Learn To Think Spatially]
+|Spatial thinking is a collection of cognitive skills. The skills consist of declarative and perceptual forms of knowledge and some cognitive operations that can be used to transform, combine, or otherwise operate on this knowledge. The key to spatial thinking is a constructive amalgam of three elements: concepts of space, tools of representation, and processes of reasoning. (US National Academies)  OGC should consider how the innovation it promotes can extend this "learning spatial" to "doing spatial".
 
-|ADINT: Ad Targeting for Surveillance
-|Targeted advertising is at the heart of the largest technology companies today, and is becoming increasingly precise. Simultaneously, users generate more and more personal data that is shared with advertisers as more and more of daily life becomes intertwined with networked technology. The online advertising ecosystem is built upon the ability of advertising networks to know properties about users (e.g., their interests or physical locations) and deliver targeted ads based on those properties - (Paul Vines, Franziska Roesner, and Tadayoshi Kohno). Discussed at https://github.com/opengeospatial/OGC-Technology-Trends/issues/68
+|link:OtherTrends/ADINTAdTargetingforSurveillance.adoc[ADINT: Ad Targeting for Surveillance]
+|Targeted advertising is at the heart of the largest technology companies today, and is becoming increasingly precise. Simultaneously, users generate more and more personal data that is shared with advertisers as more and more of daily life becomes intertwined with networked technology. The online advertising ecosystem is built upon the ability of advertising networks to know properties about users (e.g., their interests or physical locations) and deliver targeted ads based on those properties - (Paul Vines, Franziska Roesner, and Tadayoshi Kohno).
 |=======================

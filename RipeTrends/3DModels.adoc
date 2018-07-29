@@ -17,6 +17,7 @@ comment
 | Why might it matter? | Increased understanding of the world.
 | Gartner Hype Curve | 	Slope of Enlightenment
 | TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/10
 |References | URLs to technology written descriptions
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
