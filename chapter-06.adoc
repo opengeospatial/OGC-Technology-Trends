@@ -12,29 +12,29 @@ comment
 |=======================
 |Title      |Description
 
-|Internet of Things (and sensor webs)
+|link:RipeTrends/IoT.adoc[Internet of Things (and sensor webs)]
 |The internet of things (IoT) is the inter-networking of physical devices, vehicles (also referred to as "connected devices" and "smart devices"), buildings and other items—embedded with electronics, software, sensors, actuators, and network connectivity that enable these objects to collect and exchange data (DSTL).
 
-|Smallsats
+|link:RipeTrends/Smallsats.adoc[Smallsats]
 |MicroSatellite is referring to small and compact satellites. They are often the size of two shoe boxes (smaller than 50kg in weight). (DSTL)  Planet “will be imaging the entirety of Earth’s earth daily.” (Wired).
 
-|Crowdsourcing
+|link:OtherTrends/Crowdsourcing.adoc[Crowdsourcing]
 |Geo Crowdsourcing includes  Social Media and Voluntary Geographic Information (VGI). Crowdsourcing refers to the process of obtaining geo inspired services, ideas, or content by soliciting contributions from a large group of people, especially an online community, rather than from employees or suppliers (DSTL).
 
-|Opportunistic Sensing
+|link:OtherTrends/OpportunisticSensing.adoc[Opportunistic Sensing]
 |An opportunistic sensing approach is proposed, where noise-level data is collected without informing smartphone users.
 
-|Volunteered geographic information (VGI)
+|link:OtherTrends/VolunteeredGeographicInformationVGI.adoc[Volunteered geographic information (VGI)]
 |Volunteered geographic information (VGI) is the harnessing of tools to create, assemble, and disseminate geographic data provided voluntarily by individuals (Goodchild, 2007).[1]VGI is a special case of the larger Web phenomenon known as user-generated content.[2] Some examples of this phenomenon are WikiMapia, OpenStreetMap, and Google Map Maker (Wikipedia).
 link:http://www.mdpi.com/2220-9964/5/5/55[Crowdsourcing, Citizen Science or Volunteered Geographic Information? The Current State of Crowdsourced Geographic Information].
 
-|UAVs and Drones
+|link:RipeTrends/UXS.adoc[UAVs and Drones]
 |While large UAVs have been in use for defense, ISR, and remote sensing purposes for many years, the platforms now range in complexity from large, jet-propelled aircraft to palm-sized drones. Similarly, Unmanned Underwater Vehicles (UUVs) also have a long history of operations, becoming increasingly sophisticated in recent years with respect to capabilities and autonomy - (OGC WG Charter).
 
-|Open Data
+|link:OtherTrends/OpenData.adoc[Open Data]
 |“Open data and content can be freely used, modified, and shared by anyone for any purpose”  http://opendefinition.org/.
 
-|High-altitude platforms
-|High-Altitude Platforms (HAPs) are aircraft or airships that operate in the stratosphere at altitudes of up to 22 km, typically to provide communication facilities that can exploit both terrestrial and satellite schemes footnote:[https://ieeexplore.ieee.org/document/932146/]. 
+|link:OtherTrends/HighAltitudePlatforms.adoc[High-altitude platforms]
+|High-Altitude Platforms (HAPs) are aircraft or airships that operate in the stratosphere at altitudes of up to 22 km, typically to provide communication facilities that can exploit both terrestrial and satellite schemes footnote:[https://ieeexplore.ieee.org/document/932146/].
 
 |=======================
