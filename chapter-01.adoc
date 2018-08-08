@@ -6,6 +6,8 @@ comment
 
 == The Power of Location
 
+Location and place are effectives means to organize, analyze and understand our world and how we live.
+
 <<<
 
 [width="80%", options="header"]
