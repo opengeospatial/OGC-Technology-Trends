@@ -1,6 +1,6 @@
 <<<
 
-== Web Trends
+==  Web Scale Programming
 
 <<<
 
