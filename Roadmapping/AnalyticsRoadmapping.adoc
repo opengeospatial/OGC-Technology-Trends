@@ -7,4 +7,6 @@
 [width="80%", options="header"]
 
 
-[![Technology roadmap for geospatial analytics](images/DataSciRoadmap.png "Technology roadmap for geospatial analytics")]
+[#img_core,reftext='{figure-caption} {counter:figure-num}']
+.Technology roadmap for geospatial analytics
+image::figures/PDataSciRoadmap.png[align="center"]
