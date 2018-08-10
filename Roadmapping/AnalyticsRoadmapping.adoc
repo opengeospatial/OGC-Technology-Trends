@@ -9,4 +9,4 @@
 
 [#img_core,reftext='{figure-caption} {counter:figure-num}']
 .Technology roadmap for geospatial analytics
-images::DataSciRoadmap.png[align="center"]
+image::images/DataSciRoadmap.png[align="center"]
