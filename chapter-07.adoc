@@ -4,7 +4,9 @@ comment
 
 <<<
 
-== User platforms and Networks - HSI
+== User platforms and Networks (HSI)
+
+Human systems integration (HSI) when considering geospatial information and humans
 
 <<<
 

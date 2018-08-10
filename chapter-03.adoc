@@ -6,6 +6,8 @@ comment
 
 == Big Data
 
+Big data methods and techniques applied to geospatial data
+
 <<<
 
 [width="80%", options="header"]

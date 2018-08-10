@@ -4,25 +4,31 @@ comment
 
 <<<
 
-== Spatial and Temporal Models
+== Spatial and Temporal Models (MOD)
+
+Creating meaningful spatial representations of the world, the relationships in the world and its entities
 
 <<<
 
 [width="80%", options="header"]
 |=======================
-|Title      |Description
 
-|link:OtherTrends/SpatialTemporalPointCloud.adoc[Spatial Temporal Point Cloud]
-|Spatial Temporal Point Cloud. A point cloud refers to a set of data points in some coordinate system. Spatial Temporal components are incorporated (DSTL). Point clouds can be terrestrial, bathymetric, atmospheric. Streaming of point cloud data in real time.
+|Title      |Description
 
 |link:RipeTrends/3DModels.adoc[3D Geo model creation]
 |3D (Three Dimensional) covers broad range of tasks including  3D Computer graphics and 3D Modelling - (DSTL).
+
+|link:OtherTrends/SpatialTemporalPointCloud.adoc[Spatial Temporal Point Cloud]
+|Spatial Temporal Point Cloud. A point cloud refers to a set of data points in some coordinate system. Spatial Temporal components are incorporated (DSTL). Point clouds can be terrestrial, bathymetric, atmospheric. Streaming of point cloud data in real time.
 
 |link:OtherTrends/SimultaneousLocalizationAndMappingSLAM.adoc[Simultaneous Localization and Mapping (SLAM)]
 |SLAM is a computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of progress within this unknown environment. Examples of approaches are self-driving cars, unmanned aerial vehicles, autonomous underwater vehicles, planetary rovers, newly emerging domestic robots and even inside the human body - (DSTL).
 
 |link:OtherTrends/BIMAndGISIntegration.adoc[BIM and GIS integration]	 
 |It’s evident that bringing BIM and GIS together will benefit many application domains such as architecture, urban planning, disaster management, infrastructure engineering, facilities management, decision-making, construction, etc. However, there are many challenges in integrating BIM and GIS. M - (Kalantar in GIM International).
+
+|link:OtherTrends/DigitalTwins.adoc[Digital Twins]
+|A digital twin is a virtual representation of a physical object, which can be used to simulate how the physical object might behave in the physical world under different situations footnote:[https://www.ice.org.uk/knowledge-and-resources/information-sheet/what-is-a-digital-twin].
 
 |link:OtherTrends/IndoorVenueMaps.adoc[Indoor venue maps]
 |The widespread adoption of smartphones by consumers worldwide has not only led to the advent of new indoor location technologies but also the increasing popularity and use of indoor venue maps. In the last several years, leading mapping technology companies have been competing to bring tens of thousands of high-quality indoor venue maps to smartphone users. There are indoor venue maps for thousands of museums, airports, shopping malls, restaurants and other venues - (Programmable Web).

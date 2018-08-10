@@ -6,6 +6,8 @@ comment
 
 == Data Science Analytics
 
+Data analytics and decision making using spatial-temporal data.  Human cognition augmentation
+
 <<<
 
 [width="80%", options="header"]

@@ -4,7 +4,9 @@ comment
 
 <<<
 
-== Software Development and Patterns
+== Software Development and Patterns (SW)
+
+General software development platforms that may affect geospatial technology
 
 <<<
 

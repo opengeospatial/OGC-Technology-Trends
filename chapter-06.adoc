@@ -6,6 +6,8 @@ comment
 
 == New Geo Sources
 
+New sensor technologies, sensor platforms and new observers
+
 <<<
 
 [width="80%", options="header"]

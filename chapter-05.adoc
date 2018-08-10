@@ -6,6 +6,8 @@ comment
 
 == Spatial Data on the Web
 
+Making geospatial data accessible and usable in the most comprehensive information system ever built.
+
 <<<
 
 [width="80%", options="header"]
