@@ -10,4 +10,4 @@
 Technology roadmap for geospatial analytics.
 
 
-<img border=0 src="images/DataSciRoadmap.png"  usemap="#GraffleExport">
+<img border=0 src="https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/images/DataSciRoadmap.png">
