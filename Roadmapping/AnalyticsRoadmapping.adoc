@@ -7,7 +7,6 @@
 [width="80%", options="header"]
 
 
-Technology roadmap for geospatial analytics.
+[Technology roadmap for geospatial analytics](images/DataSciRoadmap.png "Technology roadmap for geospatial analytics")
 
-
-<img border=0 src="https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/images/DataSciRoadmap.png">
+[Tech Trends](images/20180521_mindmap.png "Tech Trends Mind Map")]
