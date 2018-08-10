@@ -17,4 +17,4 @@ Technology roadmap for geospatial analytics.
 	<area shape=rect coords="127,2208,458,2321"
    href="https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/roadmapping%20general%20references/Roadmapping%20Legend">
 </map>
-<img border=0 src="images/DataSciRoadmap.png" usemap="#GraffleExport">
+<img border=0 src="images/DataSciRoadmap.png"  usemap="#GraffleExport">
