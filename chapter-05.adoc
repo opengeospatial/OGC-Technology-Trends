@@ -4,7 +4,7 @@ comment
 
 <<<
 
-== Spatial Data on the Web
+== Spatial Data on the Web (WEB)
 
 Making geospatial data accessible and usable in the most comprehensive information system ever built.
 

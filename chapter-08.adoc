@@ -35,4 +35,7 @@ General software development platforms that may affect geospatial technology
 |link:OtherTrends/BlockchainAnddistributedledger.adoc[Blockchain and distributed ledger]
 |Distributed ledger technology based on cryptographic systems that manage, verify and publicly record transaction data; the basis of "cryptocurrencies" such as bitcoin - (World Economic Forum).
 
+|link:OtherTrends/QuantumComputing.adoc[Quantum Computing]
+|Quantum computing capabilities are are growing as the number of Qubits in an array grows.  Algorithms based on qubits are being defined.  As programming languages for Quantum Computing are developed the applications for geospatial applications are anticipated to emerge.
+
 |=======================

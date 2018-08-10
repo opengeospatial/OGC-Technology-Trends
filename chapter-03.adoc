@@ -4,7 +4,7 @@ comment
 
 <<<
 
-== Big Data
+== Big Data (BIG)
 
 Big data methods and techniques applied to geospatial data
 
@@ -36,7 +36,5 @@ Big data methods and techniques applied to geospatial data
 |Digital image processing refers to the use of computer algorithms to perform image processing on digital images. Advances in machine learning, such as Deep Learning, are changing the way digital image processing is occurring footnote:[https://www.gislounge.com/transforming-satellite-imagery-classification-deep-learning/].
 
 
-|link:OtherTrends/DigitalTwins.adoc[Digital Twins]
-|A digital twin is a virtual representation of a physical object, which can be used to simulate how the physical object might behave in the physical world under different situations footnote:[https://www.ice.org.uk/knowledge-and-resources/information-sheet/what-is-a-digital-twin].
 
 |=======================
