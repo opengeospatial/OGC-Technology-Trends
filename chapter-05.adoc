@@ -27,7 +27,7 @@ comment
 |link:OtherTrends/MapProjectionsFitForPurpose.adoc[Map projections - fit for purpose]
 |Best Practice 17: State how coordinate values are encoded. Provide enough information for users to determine how coordinate values are encoded -  (SDWWG Best Practice).
 
-|link:OtherTrends/WebTrends.adoc[Web Trends]
-|The general direction in which web technologies are heading.
+|link:OtherTrends/WebTrends.adoc[Web Scale Programming]
+|Web scale platforms hosted on large cloud services with web-friendly techniques, enable extreme levels of service delivery as compared to many of their enterprise counterparts.
 
 |=======================
