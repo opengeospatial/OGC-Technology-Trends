@@ -3,13 +3,15 @@
 
 == 3D Models from Point Clouds
 
+This was folded into link:RipeTrends/3DModels.adoc[3D Geo model creation]
+
 <<<
 
 [width="80%"]
 |=======================
 |Meta Trend	| TBA
 |Title | 3D Models from Point Clouds
-|Description | The creation of three-dimensional representations of the Earth (or parts of it) from point cloud data. 
+|Description | The creation of three-dimensional representations of the Earth (or parts of it) from point cloud data.
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -20,4 +22,3 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-

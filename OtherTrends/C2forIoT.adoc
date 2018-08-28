@@ -1,0 +1,28 @@
+
+
+<<<
+
+== C2/SCADA for IoT
+
+<<<
+
+[width="80%"]
+|=======================
+
+|Meta Trend	|link:chapter-04.adoc[Data Science and Decisions]
+|Title | C2/SCADA for IoT
+|Description |Command and control (C2) a well established ability is the exercise of authority over assigned resources in the accomplishment of a common goal. Supervisory control and data acquisition (SCADA) is a information system architecture for high-level process supervisory management of industrial process plants. Applying C2 and SCADA to IoT environments will reuse existing control system technology in a new communications stack of broader reach.
+| What is new or emerging?	|
+| Why might it matter? | IoT is becoming pervasive. The ability to command and control IoT devices acoording to supervisory goals will bring new emergent behaviors.
+|Affect   |  (Incremental or disruptive)
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve] |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] |
+| Issue | (link to GitHub issue for discussion)
+|References | - link:https://arxiv.org/abs/1712.08976[How do you Command an Army of Intelligent Things?]
+
+ -  link:https://www.degruyter.com/view/j/auto.2016.64.issue-9/auto-2016-0058/auto-2016-0058.xml[The Open Geospatial Consortium and Industrie 4.0]
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| IoT, Sensor Webs, Control Systems
+|OGC Working Groups |
+
+|=======================

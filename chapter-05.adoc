@@ -17,14 +17,11 @@ Making geospatial data accessible and usable in the most comprehensive informati
 |link:RipeTrends/WebofData.adoc[Web of Data]
 |Data published on the web are made discoverable, accessible and interoperable using WWW best practices for data formats, data access, data identifiers, metadata, licensing and provenance.
 
-|link:OtherTrends/TextAnalytics.adoc[Text Analytics]
-|Text Analytics refers to the process of deriving high-quality information from text. Applications of this are Natural Language Processing (NLP) and Social Media harvesting. An example is to scan a set of documents written in a natural language and either model the document set for predictive classification purposes or populate a database or search index with the information extracted - (DSTL).
-
 |link:OtherTrends/OntologiesAndSemantics.adoc[Ontologies and Semantics]
 |Ontology is a formal naming and definition of the types, properties, and interrelationships of the entities.  Semantics is primarily the linguistic, and also philosophical study of meaning—in language, programming languages, formal logics, and semiotics - (DSTL).
 
 |link:OtherTrends/CoveragesWeb.adoc[Coverages on the Web]
-|Coverages are geospatial datasets as matrices or tensors that map a spatial-temporal coordinates to a corresponding set of data values, e.g., geophysical parameters.  The Web is fundamentally organized as a graph structure with node addresses and relation links.  Spatial Data on Web Best Practices are needed to that define Web-native access to Geospatial Coverages. 
+|Coverages are geospatial datasets as matrices or tensors that map a spatial-temporal coordinates to a corresponding set of data values, e.g., geophysical parameters.  The Web is fundamentally organized as a graph structure with node addresses and relation links.  Spatial Data on Web Best Practices are needed to that define Web-native access to Geospatial Coverages.
 
 |link:RipeTrends/APIs4.adoc[APIs for the Web]
 |The explosive growth of public APIs for geospatial applications, and the accompanying variability in API practices across the IT industry, as well as in geospatial APIs specifically, has created new opportunities and challenges in supporting geospatial services. The application of standards in APIs to ensure interoperability is an apparent next step - (API CDS Press Release).

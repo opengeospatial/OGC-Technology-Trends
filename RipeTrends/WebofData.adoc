@@ -12,7 +12,7 @@ comment
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:chapter-05.adoc[Spatial Data on the Web]
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-05.adoc[Spatial Data on the Web]
 |Title | Web of data
 |Description |Data published on the web are made discoverable, accessible and interoperable using WWW best practices for data formats, data access, data identifiers, metadata, licensing and provenance.
 | What is new or emerging?	|
@@ -20,7 +20,7 @@ comment
 |Affect   |  (Incremental or disruptive)
 | link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve] |
 | link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] |
-| Issue | (link to GitHub issue for discussion)
+| Issue | link:TBD[Discussion of Trend on GitHub]
 |References | link:https://www.w3.org/TR/sdw-bp/[Spatial Data on the Web Best Practices, 2017] See BPs #TBD.
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages

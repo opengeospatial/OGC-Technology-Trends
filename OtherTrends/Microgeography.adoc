@@ -1,21 +1,29 @@
+//////
+comment
+//////
+
+
 <<<
 
-== Microgeography
+== MicroGeography
 
 <<<
 
 [width="80%"]
 |=======================
-|Meta Trend	| TBA
-|Title | Microgeography
-|Description | Geography that is localized such that it is concerned with a small spatial extent.
-| What is new or emerging?	| TBA
-| Why might it matter? | TBA
-| Gartner Hype Curve | 	TBA
-| TRL |
-| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/73
-|References | URLs to technology written descriptions
-|Examples | URL to technology implementation examples
-|Geospatial Tech Category 	| TBA
-|OGC Working Groups | TBA
+
+|Meta Trend	|link:chapter-01.adoc[The Power of Location (LOC)]
+|Title | MicroGeography
+|Description |Personal electronic devices now measure much of our activity and context.  New methods to capture, quantify and communicate individual human activity at a micro level are now available, e.g., OASIS's Classification of Everyday Living (COEL). Rating services for individual behaviors, e.g., risk rating, will develop similar to credit risk rating services.
+| What is new or emerging?	| Standards for MicroGeography.  Rating services based on MicroGeography
+| Why might it matter? | Increased understanding of human behavior at a individual human scale.  Unclear affect of rating services on individual and collective behavior.
+|Affect   |  (Incremental or disruptive)
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve] |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] |
+| Issue | (link to GitHub issue for discussion)
+|References | link:https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=coel[
+OASIS Classification of Everyday Living (COEL)]
+|Examples | Members of link:https://coelition.org/business/coelition-members/[Coelition] use the COEL standard to create "new opportunities in data-based services that are fast to implement, with less risk and at lower cost.""
+|Geospatial Tech Category | Context, Semantics, Mark-up Languages
+|OGC Working Groups |
 |=======================
