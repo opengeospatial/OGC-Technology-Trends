@@ -30,10 +30,10 @@ Creating meaningful spatial representations of the world, the relationships in t
 |link:Trends/DigitalTwins.adoc[Digital Twins]
 |A digital twin is a virtual representation of a physical object, which can be used to simulate how the physical object might behave in the physical world under different situations
 
-|link:Trends/IndoorVenueMaps.adoc[Indoor venue maps]
+|link:Trends/Indoorvenuemaps.adoc[Indoor venue maps]
 |The widespread adoption of smartphones by consumers worldwide has not only led to the advent of new indoor location technologies but also the increasing popularity and use of indoor venue maps. In the last several years, leading mapping technology companies have been competing to bring tens of thousands of high-quality indoor venue maps to smartphone users. There are indoor venue maps for thousands of museums, airports, shopping malls, restaurants and other venues - (Programmable Web).
 
-|link:Trends/indoor.adoc[Indoor: Position, Models and Navigation]
+|link:Trends/Indoor.adoc[Indoor: Position, Models and Navigation]
 |Accurate indoor positioning unlocks a new set of possibilities for mobile services.  Consumers will benefit from personalized, contextual information and offers, as well as new services such as indoor navigation.  Venue owners will benefit from increased customer satisfaction and enhanced information on customer behavior - (InLocation Alliance).
 
 |link:Trends/DynamicDatums.adoc[Dynamic datums]
