@@ -12,7 +12,7 @@ comment
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-05.adoc[Spatial Data on the Web]
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-05.adoc[Spatial Data on the Web]
 |Title | Web of data
 |Description |Data published on the web are made discoverable, accessible and interoperable using WWW best practices for data formats, data access, data identifiers, metadata, licensing and provenance.
 | What is new or emerging?	|
