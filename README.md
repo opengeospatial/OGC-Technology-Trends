@@ -18,7 +18,7 @@ ___________
 
 ## Ripe Trends
 
-* [Location and Mobile communications](RipeTrends/MobileLocation.adoc)
+* [Location and Mobile communications](Trends/MobileLocation.adoc)
 * [3D model creation](RipeTrends/3DModels.adoc)
 * [Indoor positioning](RipeTrends/Indoor.adoc)
 * [Big Data Geo](RipeTrends/BigData.adoc)

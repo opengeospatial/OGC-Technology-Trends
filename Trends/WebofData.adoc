@@ -19,7 +19,7 @@ comment
 | Why might it matter? | Increasing data, more important to be searched.
 |Affect   |  (Incremental or disruptive)
 | link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve] |
-| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] | 
+| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] | TRL-5 in OGC activities.
 | Issue | link:TBD[Discussion of Trend on GitHub]
 |References | link:https://www.w3.org/TR/sdw-bp/[Spatial Data on the Web Best Practices, 2017] See BPs #TBD.
 |Examples | URL to technology implementation examples
