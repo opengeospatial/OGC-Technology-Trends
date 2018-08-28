@@ -30,7 +30,7 @@ Location and place are effectives means to organize, analyze and understand our 
 |link:Trends/Humangeography.adoc[Human Geography]
 |Well-organized and comprehensive human geography data can be applied to analysis that allows us to better anticipate the behavior of people over space and time and to inform decision-making that supports human security, including crisis mitigation and humanitarian response - (WWHGD_WG).
 
-|link:Trends/MicroGeography.adoc[MicroGeography]
+|link:Trends/Microgeography.adoc[MicroGeography]
 |Personal electronic devices now measure much of our activity and context.  New methods to capture, quantify and communicate individual human activity at a micro level are now available, e.g., OASIS's Classification of Everyday Living (COEL). Rating services for individual behaviors, e.g., risk rating, will develop similar to credit risk rating services.
 
 |=======================
