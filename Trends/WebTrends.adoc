@@ -6,7 +6,7 @@
 
 [width="80%"]
 |=======================
-|Meta Trend	| link:chapter-05.adoc[Spatial Data on the Web]
+|Meta Trend	| link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-05.adoc[Spatial Data on the Web]
 |Title | Web Scale Programming
 |Description | Web scale platforms hosted on large cloud services with web-friendly techniques, enable extreme levels of service delivery as compared to many of their enterprise counterparts.
 | What is new or emerging?	| TBA

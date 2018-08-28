@@ -12,7 +12,7 @@ comment
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:chapter-01.adoc[The Power of Location (LOC)]
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-01.adoc[The Power of Location (LOC)]
 |Title | MicroGeography
 |Description |Personal electronic devices now measure much of our activity and context.  New methods to capture, quantify and communicate individual human activity at a micro level are now available, e.g., OASIS's Classification of Everyday Living (COEL). Rating services for individual behaviors, e.g., risk rating, will develop similar to credit risk rating services.
 | What is new or emerging?	| Standards for MicroGeography.  Rating services based on MicroGeography
