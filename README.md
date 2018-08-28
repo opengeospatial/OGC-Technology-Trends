@@ -19,19 +19,19 @@ ___________
 ## Ripe Trends
 
 * [Location and Mobile communications](Trends/MobileLocation.adoc)
-* [3D model creation](RipeTrends/3DModels.adoc)
-* [Indoor positioning](RipeTrends/Indoor.adoc)
-* [Big Data Geo](RipeTrends/BigData.adoc)
-* [Modeling, Simulation and Prediction](RipeTrends/ModSimPredict.adoc)
-* [Machine Learning](RipeTrends/MachineLearning.adoc)
-* [Uncertainty, Veracity](RipeTrends/UncertVeracity.adoc)
-* [APIs for the Web](RipeTrends/APIs.adoc)
-* [Linked Data](RipeTrends/LinkedData.adoc)
-* [Internet of Things (and sensor webs)](RipeTrends/IoT.adoc)
-* [UAVs and Drones](RipeTrends/UXS.adoc)
-* [Smallsats](RipeTrends/Smallsats.adoc)
-* [Immersive Geo: AR, VR, Mixed Reality](RipeTrends/ImmersiveGeo.adoc)
-* [Ambient services](RipeTrends/AmbientServices.adoc)
+* [3D model creation](Trends/3DModels.adoc)
+* [Indoor positioning](Trends/Indoor.adoc)
+* [Big Data Geo](Trends/BigData.adoc)
+* [Modeling, Simulation and Prediction](Trends/ModSimPredict.adoc)
+* [Machine Learning](Trends/MachineLearning.adoc)
+* [Uncertainty, Veracity](Trends/UncertVeracity.adoc)
+* [APIs for the Web](Trends/APIs.adoc)
+* [Linked Data](Trends/LinkedData.adoc)
+* [Internet of Things (and sensor webs)](Trends/IoT.adoc)
+* [UAVs and Drones](Trends/UXS.adoc)
+* [Smallsats](Trends/Smallsats.adoc)
+* [Immersive Geo: AR, VR, Mixed Reality](Trends/ImmersiveGeo.adoc)
+* [Ambient services](Trends/AmbientServices.adoc)
 
 ___________
 
