@@ -7,6 +7,6 @@
 [width="80%", options="header"]
 
 
-[#img_core,reftext='{figure-caption} {counter:figure-num}']
+[#img_DataSciRoadmap,reftext='{figure-caption} {counter:figure-num}']
 .Technology roadmap for geospatial analytics
-image::images/DataSciRoadmap.png[align="center"]
+image::/Users/Longitude/Documents/OGC MEMBER/CE CTO/Tech Strategy/Tech Trends/OGC-Technology-Trends/images/20180423GeoTechTrends.png[align="center"]
