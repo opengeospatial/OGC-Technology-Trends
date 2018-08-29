@@ -13,14 +13,17 @@ comment
 |=======================
 
 |Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-05.adoc[Spatial Data on the Web]
-|Title | Web of data
+|Title | Web of Data
 |Description |Data published on the web are made discoverable, accessible and interoperable using WWW best practices for data formats, data access, data identifiers, metadata, licensing and provenance.
 | What is new or emerging?	|
 | Why might it matter? | Increasing data, more important to be searched.
-|Affect   |  (Incremental or disruptive)
-| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve] |
+|Horizon   |   (Next or After Next)
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] |  (Sustaining or disruptive innovation)
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
 | link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] | TRL-5 in OGC activities.
-| Issue | link:TBD[Discussion of Trend on GitHub]
+| Discussion Issue |
+- link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/92[Discussion of Trend on GitHub]
+- link:http://www.locationpowers.net/events/1703delft/index.php[Location Powers:Big Linked Data]
 |References | link:https://www.w3.org/TR/sdw-bp/[Spatial Data on the Web Best Practices, 2017] See BPs #TBD.
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
