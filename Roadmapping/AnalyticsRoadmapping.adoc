@@ -10,3 +10,5 @@
 [#img_DataSciRoadmap,reftext='{figure-caption} {counter:figure-num}']
 .Technology roadmap for geospatial analytics
 image::/Users/Longitude/Documents/OGC MEMBER/CE CTO/Tech Strategy/Tech Trends/OGC-Technology-Trends/images/20180423GeoTechTrends.png[align="center"]
+
+![Tech Trends](https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/DataScienceAnalyticsRoadmap/DataSciRoadmap.png "Tech Trends Mind Map")
