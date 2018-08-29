@@ -14,6 +14,8 @@ Data analytics and decision in the context of spatial-temporal data.  Human cogn
 |=======================
 |Title      |Description
 
+|link:Trends/AssistedKnowledgeBuilding.adoc[Data Science for Geo]
+|The use of data mining and other functions provided by intelligent systems to facilitate the creation of knowledge.
 
 |link:Trends/TextAnalytics.adoc[Text Analytics]
 |Text Analytics refers to the process of deriving high-quality information from text. Applications of this are Natural Language Processing (NLP) and Social Media harvesting. An example is to scan a set of documents written in a natural language and either model the document set for predictive classification purposes or populate a database or search index with the information extracted - (DSTL).
@@ -30,11 +32,9 @@ Data analytics and decision in the context of spatial-temporal data.  Human cogn
 |link:Trends/FusionConflationAnalyticsScalableAnalysisPortals.adoc[Fusion/Conflation analytics]
 |Conflation refers to the act of combining two distinct maps into one new map. It is similar to the practice of image mosaicking. It is usually carried out by registration of an overlapping area. Conflation for digital maps refers to the process of associating real world coordinates to digital ones and it is named Map Matching - (DSTL).
 
-|link:Trends/C2forIoT.adoc[C2/SCADA for IoT]
+|link:Trends/C2forIoT.adoc[C2/SCADA for GeoIoT]
 |Command and control (C2) a well established ability is the exercise of authority over assigned resources in the accomplishment of a common goal. Supervisory control and data acquisition (SCADA) is a information system architecture for high-level process supervisory management of industrial process plants. Applying C2 and SCADA to IoT environments will reuse existing control system technology in a new communications stack of broader reach.
 
-|link:Trends/AssistedKnowledgeBuilding.adoc[Assisted Knowledge Building]
-|The use of data mining and other functions provided by intelligent systems to facilitate the creation of knowledge.
 
 
 |=======================

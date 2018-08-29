@@ -11,7 +11,7 @@ Geospatial technology trends as tracked by the Open Geospatial Consortium (OGC) 
    * [Data Science Analytics](chapter-04.adoc)
    * [Spatial Data on the Web](chapter-05.adoc)
    * [New Geo Sources](chapter-06.adoc)
-   * [User Platforms and Networks - HCI](chapter-07.adoc)
+   * [Human Computer Interaction](chapter-07.adoc)
    * [Software Development and Patterns](chapter-08.adoc)
 
 ___________

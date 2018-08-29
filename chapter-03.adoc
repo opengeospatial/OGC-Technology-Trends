@@ -20,11 +20,11 @@ Big data methods and techniques applied to geospatial data
 |link:Trends/CloudAndHPC.adoc[Cloud and HPC]
 |Cloud computing is defined by US NIST as five essential characteristics of cloud computing: on-demand self-service, broad network access, resource pooling, rapid elasticity or expansion, and measured service. It also lists three "service models" (software, platform and infrastructure), and four "deployment models" (private, community, public and hybrid) that together categorize ways to deliver cloud services - (NIST).
 
-|link:Trends/MachineLearning.adoc[Machine Learning]
-|Machine learning is the subfield of computer science that gives computers the ability to learn without being explicitly programmed.  Deep learning and Convolutional Neural Networks (CNNs) - a sub type of machine learning -  consists of multiple hidden layers in an artificial neural network - (Wikipedia).  Deep Learning is advancing rapidly based on increasing computing capabilities, image databases and trained CNNs.
-
 |link:Trends/WorkflowAndProvenance.adoc[Workflow and provenance]
 |Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness - (W3C PROV).
+
+|link:Trends/MachineLearning.adoc[Machine Learning]
+|Machine learning is the subfield of computer science that gives computers the ability to learn without being explicitly programmed.  Deep learning and Convolutional Neural Networks (CNNs) - a sub type of machine learning -  consists of multiple hidden layers in an artificial neural network - (Wikipedia).  Deep Learning is advancing rapidly based on increasing computing capabilities, image databases and trained CNNs.
 
 |link:Trends/BigDataAnalytics.adoc[Big data analytics]
 |“Big data,” machine learning, and predictive data analytics have been hailed as the fourth paradigm of science, allowing researchers to extract insights from both scientific instruments and computational simulations - (ACM Comm).
