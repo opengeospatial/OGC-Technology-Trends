@@ -7,8 +7,8 @@ Geospatial technology trends as tracked by the Open Geospatial Consortium (OGC) 
 
    * [The Power of Location](chapter-01.adoc)
    * [Spatial and Temporal Models](chapter-02.adoc)
-   * [Big Data](chapter-03.adoc)
    * [Data Science Analytics](chapter-04.adoc)
+   * [Big Data](chapter-03.adoc)
    * [Spatial Data on the Web](chapter-05.adoc)
    * [New Geo Sources](chapter-06.adoc)
    * [Human Computer Interaction](chapter-07.adoc)
@@ -18,26 +18,22 @@ ___________
 
 ## Ripe Trends
 
-* [Location and Mobile communications](Trends/MobileLocation.adoc)
 * [3D model creation](Trends/3DModels.adoc)
-* [Indoor positioning](Trends/Indoor.adoc)
-* [Big Data Geo](Trends/BigData.adoc)
-* [Modeling, Simulation and Prediction](Trends/ModSimPredict.adoc)
-* [Machine Learning](Trends/MachineLearning.adoc)
-* [Uncertainty/Veracity](Trends/UncertVeracity.adoc)
-* [APIs for the Web](Trends/APIs4.adoc)
-* [Linked Data](Trends/LinkedData.adoc)
-* [Internet of Things (and sensor webs)](Trends/IoT.adoc)
-* [UAVs and Drones](Trends/UXS.adoc)
-* [Smallsats](Trends/Smallsats.adoc)
+* [Blockchain/Distributed Ledger](Trends/BlockchainAnddistributedledger.adoc)
+* [Edge and Fog Computing](Trends/EdgeIntelligenceAndFogComputing.adoc)
+* [GEO at Platform Scale](Trends/GEOAtPlatformScale.adoc)
 * [Immersive Geo: AR, VR, Mixed Reality](Trends/ImmersiveGeo.adoc)
-* [Ambient services](Trends/AmbientServices.adoc)
-
+* [Indoor positioning](Trends/Indoor.adoc)
+* [Internet of Things (and sensor webs)](Trends/IoT.adoc)
+* [Machine Learning/CNNs](Trends/MachineLearning.adoc)
+* [Modeling, Simulation and Prediction](Trends/ModSimPredict.adoc)
+* [Quantum Computing](Trends/QuantumComputing.adoc)
+* [Simultaneous Localization And Mapping/SLAM](Trends/SimultaneousLocalizationAndMappingSLAM.adoc)
+* [UAVs and Drones](Trends/UXS.adoc)
+* [Web of Data](Trends/WebofData.adoc)
+* [Workflow/Provenance](Trends/WorkflowAndProvenance.adoc)
 ___________
 
-## Technology Roadmapping
-
-   * [AnalyticsRoadmapping](Roadmapping/AnalyticsRoadmapping.adoc)
 
 ## Intellectual Property Rights
 
