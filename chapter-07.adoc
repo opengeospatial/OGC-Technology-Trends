@@ -4,7 +4,7 @@ comment
 
 <<<
 
-== User platforms and Networks (HSI)
+== User Platforms and Interfaces (HSI)
 
 Human systems integration (HSI) when considering geospatial information and humans
 
@@ -16,9 +16,6 @@ Human systems integration (HSI) when considering geospatial information and huma
 
 |link:Trends/ImmersiveGeo.adoc[Immersive experiences: AR, VR, Mixed Reality]
 |Virtual reality (VR) refers to computer technologies that use software to generate realistic images, sounds and other sensations that replicate a real environment. Augmented reality (AR) is a live direct or indirect view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data.
-
-|link:Trends/ConnectivityAndBandwidth.adoc[Connectivity and Bandwidth]
-|Narrowband is the flow of data over a network where there is a constraint in the network bandwidth. Interested in raster, vector and compression of geo data over network bandwidth. As well as smart use of networks.
 
 |link:Trends/Increasingmobiledevicecapabilities.adoc[Increasing mobile device capabilities]
 |With the coming of driverless cars; drones; wearables and implantables; and an ecology of embedded devices and services in the everyday environment, there has never been a more exciting and pressing time to debate and explore what digital mobility means.  MobileHCI brings together people from diverse areas which provides a multidisciplinary forum for academics, hardware and software developers, designers and practitioners to discuss the challenges and potential solutions for effective interaction with and through mobile devices, applications, and services (MobileHCI).
