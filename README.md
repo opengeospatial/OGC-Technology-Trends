@@ -24,7 +24,7 @@ ___________
 * [Big Data Geo](Trends/BigData.adoc)
 * [Modeling, Simulation and Prediction](Trends/ModSimPredict.adoc)
 * [Machine Learning](Trends/MachineLearning.adoc)
-* [Uncertainty, Veracity](Trends/UncertVeracity.adoc)
+* [Uncertainty/Veracity](Trends/UncertVeracity.adoc)
 * [APIs for the Web](Trends/APIs.adoc)
 * [Linked Data](Trends/LinkedData.adoc)
 * [Internet of Things (and sensor webs)](Trends/IoT.adoc)
