@@ -32,6 +32,9 @@ ___________
 * [UAVs and Drones](Trends/UXS.adoc)
 * [Web of Data](Trends/WebofData.adoc)
 * [Workflow/Provenance](Trends/WorkflowAndProvenance.adoc)
+
+
+![Trend Assessment](images/20180828TrendAssessment.pdf )
 ___________
 
 
