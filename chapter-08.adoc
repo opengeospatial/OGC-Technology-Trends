@@ -15,10 +15,10 @@ General software development platforms that may affect geospatial technology
 |Title      |Description
 
 |link:Trends/GEOAtPlatformScale.adoc[GEO at Platform Scale]
-|Today’s networked platforms are able to achieve massive success by simply connecting producers and consumers. A platform allows for alignment of incentives of producers and consumers, vastly increasing the products created and then allowing quality control through curation and reputation management. Users of the platform should be able to pull raw information and easily produce their own GEO data and insights, then and contribute those back to the same repository for further analysis.  (Chris Holmes, Christopher Tucker, Ben Tuttle).
+|Today’s networked platforms are able to achieve massive success by simply connecting producers and consumers. A platform allows for alignment of incentives of producers and consumers, vastly increasing the products created and then allowing quality control through curation and reputation management. Users of the platform should be able to pull raw information and easily produce their own GEO data and insights, then and contribute those back to the same repository for further analysis.  
 
-|link:Trends/ConnectivityAndBandwidth.adoc[Connectivity and Bandwidth]
-|Narrowband is the flow of data over a network where there is a constraint in the network bandwidth. Interested in raster, vector and compression of geo data over network bandwidth. As well as smart use of networks.
+|link:Trends/5G.adoc[5G Cellular Communications]
+|The promise of 5G networks is already propelling innovators to design new modes of communication. From remote robotic surgery to ultra-responsive autonomous cars, the 5G network leans into a world of higher reliability and lower latency.
 
 |link:Trends/Privacy.adoc[Privacy and Informational self-determination]
 |Privacy and Informational self-determination
