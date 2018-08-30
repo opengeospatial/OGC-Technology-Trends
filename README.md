@@ -19,11 +19,11 @@ ___________
 ## Ripe Trends
 
 High Priority
+* [Autonomous Vehicle HD Maps](Trends/AutonomousVehiclesHDMaps.adoc)
 * [Blockchain/Distributed Ledger](Trends/BlockchainAnddistributedledger.adoc)
 * [GEO at Platform Scale](Trends/GEOAtPlatformScale.adoc)
 * [Machine Learning/CNNs](Trends/MachineLearning.adoc)
 * [Modeling, Simulation and Prediction](Trends/ModSimPredict.adoc)
-* [Simultaneous Localization And Mapping/SLAM](Trends/SimultaneousLocalizationAndMappingSLAM.adoc)
 * [UAVs and Drones](Trends/UXS.adoc)
 * [Web of Data](Trends/WebofData.adoc)
 
@@ -31,7 +31,7 @@ Second Priority
 * [3D model creation](Trends/3DModels.adoc)
 * [Edge and Fog Computing](Trends/EdgeIntelligenceAndFogComputing.adoc)
 * [Immersive Geo: AR, VR, Mixed Reality](Trends/ImmersiveGeo.adoc)
-* [Indoor positioning](Trends/Indoor.adoc)
+* [Indoor: Position, Models and Navigation](Trends/Indoor.adoc)
 * [Quantum Computing](Trends/QuantumComputing.adoc)
 * [Workflow/Provenance](Trends/WorkflowAndProvenance.adoc)
 

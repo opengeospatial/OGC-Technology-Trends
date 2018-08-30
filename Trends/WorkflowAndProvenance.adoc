@@ -6,16 +6,20 @@
 
 [width="80%"]
 |=======================
-|Meta Trend	| TBA
-|Title | Workflow and provenance
-|Description | Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness - (W3C PROV).
-| What is new or emerging?	| TBA
-| Why might it matter? | TBA
-| Gartner Hype Curve | 	TBA
-| TRL |
-| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/22
-|References | URLs to technology written descriptions
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-03.adoc[Big Data]
+|Title | *Workflow and provenance*
+|Description |Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness - (W3C PROV).
+| What is new or emerging?	|
+| Why might it matter? |
+|Horizon   |   *Next*
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] |  *Sustaining*
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] | TRL-5 in OGC activities.
+| Discussion Issue | link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/22[Discussion of Trend on GitHub]
+
+|References |
 |Examples | URL to technology implementation examples
-|Geospatial Tech Category 	| TBA
-|OGC Working Groups | TBA
+|Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
+|OGC Working Groups |
 |=======================

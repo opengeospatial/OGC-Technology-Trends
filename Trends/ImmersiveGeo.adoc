@@ -1,6 +1,3 @@
-//////
-comment
-//////
 
 <<<
 
@@ -10,19 +7,27 @@ comment
 
 [width="80%"]
 |=======================
-|Meta Trend	|
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-07.adoc[Human Computer Interaction]
 |Title | Immersive Geo: AR, VR, Mixed Reality
 |Description | Virtual reality (VR) refers to computer technologies that use software to generate realistic images, sounds and other sensations that replicate a real environment. Augmented reality (AR) is a live direct or indirect view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data.
-| What is new or emerging?	| Pokemon Go in Summer 2016, showed this technology to general public.
-Apple demoed new take on AR, at WWDC 2017. Microsoft Hololens.
+| What is new or emerging?	| After an initial flourish of AR Applications by Layar, Metaio and Wikitude - including interoperability based on open standards [1, 2] - the AR market cooled until recent product announcements by large vendors:  Pokemon Go in Summer 2016; Apple demoed new take on AR at WWDC 2017; Microsoft Hololens.
 | Why might it matter? | Increased understanding of the world around us, such as accurate location of utilities networks.
-| Gartner Hype Curve | Peak of Inflated Expectations
-| TRL |
-| Issue |https://github.com/opengeospatial/OGC-Technology-Trends/issues/51
-|References | URLs to technology written descriptions
-|Examples | URL to technology implementation examples
-|Geospatial Tech Category 	| Clients including mobile
-|OGC Working Groups | Technical Committee
-|=======================
+|Horizon   |  *AfterNext*: Eyewear that is acceptable to mass market remains elusive.  Commercial applications, e.g., construction and maintenance industries, may lead deployments.
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] | *Disruptive*: Predictions have been made that AR/VR will be as disruptive as cellular feature phones and that AR will be the 8th Mass Media
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    | Peak of Inflated Expectations
+| link:https://esto.nasa.gov/technologists_trl.html[Technology Readiness Level] | Previous Augmented Reality standards and operational products (TRL9) need to be re-hosted and extended in new device web technologies.   TRL3
+| Discussion Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/51[Discussion of Trend on GitHub]
+|References |
+1. link:http://www.opengeospatial.org/standards/arml/[
+OGC Augmented Reality Markup Language 2.0 (ARML 2.0)]
 
-[Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
+2. link:http://www.opengeospatial.org/pressroom/pressreleases/1960[Interoperable Mass Market AR first demonstrated]
+
+3. https://www.youtube.com/watch?v=zBUbAxCzrFo[Keynote at AWE 2013: Augmented Reality is the 8th Mass Medium by Tomi Ahonen]
+
+
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	|
+|OGC Working Groups | link:http://www.opengeospatial.org/projects/initiatives/arpilot2017[Augmented Reality (AR) Pilot] under development
+|=======================

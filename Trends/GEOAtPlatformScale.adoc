@@ -1,21 +1,37 @@
 <<<
 
-== GEO at Platform Scale
+== Geo at Platform Scale
 
 <<<
 
 [width="80%"]
 |=======================
-|Meta Trend	| TBA
-|Title | GEO at Platform Scale
-|Description | Today’s networked platforms are able to achieve massive success by simply connecting producers and consumers. A platform allows for alignment of incentives of producers and consumers, vastly increasing the products created and then allowing quality control through curation and reputation management. Users of the platform should be able to pull raw information and easily produce their own GEO data and insights, then and contribute those back to the same repository for further analysis.  (Chris Holmes, Christopher Tucker, Ben Tuttle).
-| What is new or emerging?	| TBA
-| Why might it matter? | TBA
-| Gartner Hype Curve | 	TBA
-| TRL |
-| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/80
-|References | URLs to technology written descriptions
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Software Development and Patterns]
+|Title | Geo at Platform Scale
+|Description | Today’s networked platforms are able to achieve massive success by simply connecting producers and consumers. A platform allows for alignment of incentives of producers and consumers, vastly increasing the products created and then allowing quality control through curation and reputation management. Users of the platform should be able to pull raw information and easily produce their own GEO data and insights, then and contribute those back to the same repository for further analysis.  (Chris Holmes, Christopher Tucker, Ben Tuttle). [1]
+| What is new or emerging?	| Cloud computing, containers and other image:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-03.adoc[big data technologies] are now widespread and standardized commodities.  Big Data analytics on these computing technologies are have made disruptive leaps, e.g., link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/Trends/MachineLearning.adoc[Macine Learning]
+| Why might it matter? | Cloud analytics provided by platform scale enable application of geospatial data, in particular Earth Observation data, on a scale with unseen before efficiency.
+|Horizon   |  *Next*: Geo Platforms have been built and are operational with a variety of functions, components and interfaces.  Standardization activities are underway that will enable reuse of valuable platform patterns and interoperabilty between platforms [3].
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] | *Disruptive*: The combination of cloud computing, platform scale and machine learning provides data products that will establish new data markets. This is a long anticipated leap in remote sensing from providing images/pixels to providing information.
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology Readiness Level] | Currently no OGC implementation activities.
+| Discussion Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/80[Discussion of Trend on GitHub]
+|References |
+1. link:http://trajectorymagazine.com/geoint-platform-scale/[GEOINT at Platform Scale]
+
+2. link:https://www.igarss2018.org/Papers/ViewPapers_MS.asp?PaperNum=3510[Generalizing a Data Analysis Pipeline in the Cloud to Handle Diverse Use Cases in NASA's EOSDIS]
+
+3.  link:http://www.opengeospatial.org/pressroom/pressreleases/2792[
+OGC seeks public comment on new Earth Observation Exploitation Platform Domain Working Group]
+
+4. link:http://docs.opengeospatial.org/wp/16-131r2/16-131r2.html[Big Geospatial Data – an OGC White Paper]
+
+
 |Examples | URL to technology implementation examples
-|Geospatial Tech Category 	| TBA
-|OGC Working Groups | TBA
+|Geospatial Tech Category 	|
+|OGC Working Groups | 
+link:http://www.opengeospatial.org/projects/groups/bigdatadwg[OGC Big Data DWG].
+
+OGC EO Exploitation DWG - being formed [3].
 |=======================
