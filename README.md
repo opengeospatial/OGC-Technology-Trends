@@ -5,7 +5,7 @@ Each Trend is linked to a GitHub issue - *Comments are welcome and encouraged on
 
 [![Tech Trends](images/20180521_mindmap.png "Tech Trends Mind Map")](http://www.opengeospatial.org/pub/www/techtrends/index.html)
 
-## Trends grouped in topic areas:
+## Trends grouped into meta-trends:
 
    * [The Power of Location](chapter-01.adoc)
    * [Spatial and Temporal Models](chapter-02.adoc)
