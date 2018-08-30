@@ -5,7 +5,7 @@ Each Trend is linked to a GitHub issue - *Comments are welcome and encouraged on
 
 [![Tech Trends](images/20180521_mindmap.png "Tech Trends Mind Map")](http://www.opengeospatial.org/pub/www/techtrends/index.html)
 
-[Tech Trends](images/20180830TechTrendsMindMap.png)
+![Tech Trends](images/20180830TechTrendsMindMap.png)
 
 ## Trends grouped into meta-trends:
 
