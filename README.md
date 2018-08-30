@@ -5,6 +5,8 @@ Each Trend is linked to a GitHub issue - *Comments are welcome and encouraged on
 
 [![Tech Trends](images/20180521_mindmap.png "Tech Trends Mind Map")](http://www.opengeospatial.org/pub/www/techtrends/index.html)
 
+[Tech Trends](images/20180830TechTrendsMindMap.png)
+
 ## Trends grouped into meta-trends:
 
    * [The Power of Location](chapter-01.adoc)
@@ -31,6 +33,7 @@ High Priority
 
 Second Priority
 * [3D model creation](Trends/3DModels.adoc)
+* [5G Cellular Communications](Trends/5G.adoc)
 * [Edge and Fog Computing](Trends/EdgeIntelligenceAndFogComputing.adoc)
 * [Immersive Geo: AR, VR, Mixed Reality](Trends/ImmersiveGeo.adoc)
 * [Indoor: Position, Models and Navigation](Trends/Indoor.adoc)
