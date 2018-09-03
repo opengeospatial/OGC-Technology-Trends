@@ -40,7 +40,7 @@ Second Priority
 * [Quantum Computing](Trends/QuantumComputing.adoc)
 * [Workflow/Provenance](Trends/WorkflowAndProvenance.adoc)
 
-Ripe Trends are identified based on characterizations of trend Impact (Disruptive or Sustaining) and Horizon (Next or After Next).  The trends for highest priority consideration are Trends assessed as Disruptive and Next.
+Ripe Trends are identified based on characterizations of trend Impact (Disruptive or Sustaining) and Horizon (Next or After Next).  The trends for highest priority consideration are Trends assessed as Disruptive and Next. 
 
 ![Trend Assessment](images/TrendAssessment.png)
 ___________
