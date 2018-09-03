@@ -20,7 +20,9 @@ ___________
 
 ## Ripe Trends
 
-High Priority
+A subset of the Tech Trends identified as "Ripe Trends" are assessed as highest and second priority through an analysis summarized in the graphic below.
+
+Highest Priority
 * [Autonomous Vehicle HD Maps](Trends/AutonomousVehiclesHDMaps.adoc)
 * [Blockchain/Distributed Ledger](Trends/BlockchainAnddistributedledger.adoc)
 * [GEO at Platform Scale](Trends/GEOAtPlatformScale.adoc)
@@ -38,6 +40,7 @@ Second Priority
 * [Quantum Computing](Trends/QuantumComputing.adoc)
 * [Workflow/Provenance](Trends/WorkflowAndProvenance.adoc)
 
+Ripe Trends are identified based on characterizations of trend Impact (Disruptive or Sustaining) and Horizon (Next or After Next).  The trends for highest priority consideration are Trends assessed as Disruptive and Next.
 
 ![Trend Assessment](images/TrendAssessment.png)
 ___________
