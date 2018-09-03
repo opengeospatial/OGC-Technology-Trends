@@ -39,7 +39,7 @@ Second Priority
 * [Workflow/Provenance](Trends/WorkflowAndProvenance.adoc)
 
 
-![Trend Assessment](images/20180828TrendAssessment.pdf )
+![Trend Assessment](images/TrendAssessment.png)
 ___________
 
 
