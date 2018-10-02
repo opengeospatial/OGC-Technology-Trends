@@ -1,0 +1,25 @@
+<<<
+
+== Human and Place
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Human and Place
+|Description | Topic is focused on Human and Place (Geography). This refers to the use of place, and how vernacular geography is used to describe it. One must avoid the temptation to think of place only as a location. (DSTL)  A place is distinguished by its people, markets, governments, and institutions, as much as it is by its physical landscape and natural resources, transportation systems (including streets and roads), buildings, and boundaries- (US National Academies).
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/86
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================
+
+
+Also consider:
+ Spatial thinking is a collection of cognitive skills. The skills consist of declarative and perceptual forms of knowledge and some cognitive operations that can be used to transform, combine, or otherwise operate on this knowledge. The key to spatial thinking is a constructive amalgam of three elements: concepts of space, tools of representation, and processes of reasoning. (US National Academies)  OGC should consider how the innovation it promotes can extend this "learning spatial" to "doing spatial".

@@ -1,0 +1,35 @@
+
+<<<
+
+== Modeling, Simulation and Prediction
+
+<<<
+
+[width="80%"]
+|=======================
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-03.adoc[Big Data]
+|Title | *Modeling, Simulation and Prediction*
+|Description | Simulation modelling is the process of creating and analyzing a digital prototype of a physical model to predict its performance in the real world. Models and simulation can be used for analysis and for training.
+| What is new or emerging?	| Increases in development of Graphical Processing Units (GPU)s on computers and mobile devices is enabling, more on the fly modelling, simulation and prediction.  Federation of Models:  Integrated Environmental Modeling and JLVC - Joint Live Virtual and Constructive.  Increased fidelity of predictive environmental models will provide increasingly realistic information for simulated situations.
+| Why might it matter? | Improved  ability of M&S products and services to be better used by the community, and to further advance the vision of a common, comprehensive model of Earth. In scenarios such as Humanitarian disaster response, being able to process on the fly models, simulations, ensures more timely responses.
+Mod/Cim helps with dealing with the transition from data scarcity to data overabundance.  Coordination of predictive model outputs and machine learning.  Mod/SIM can used to support training of predictions/analysis.
+|Horizon   |  *Next*:
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] | *Sustaining*:
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology Readiness Level] |
+| Discussion Issue |
+ link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/25[Discussion of Trend on GitHub]
+|References |
+1. http://www.opengeospatial.org/standards/cdb[OGC CDB Standard]
+
+2. http://www.opengeospatial.org/standards/openmi[OGC Open Modelling Interface (OpenMI) Interface Standard]
+
+3.  link:https://www.sisostds.org/StandardsActivities/StudyGroups/ENGTAMSSG.aspx[Exploration of Next Generation Technology Applications to Modeling and Simulation (ENGTAM) Standing Study Group (SSG)]
+
+4. https://www.nap.edu/catalog/23650/from-maps-to-models-augmenting-the-nations-geospatial-intelligence-capabilities[From Maps to Models.  National Academies report]
+
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	|
+|OGC Working Groups |
+|=======================

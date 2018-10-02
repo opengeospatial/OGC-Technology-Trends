@@ -1,0 +1,25 @@
+<<<
+
+== UAVs and Drones
+
+<<<
+
+[width="80%"]
+|=======================
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-06.adoc[New Geo Sources]
+|Title | *UAVs and Drones*
+|Description | While large UAVs have been in use for defense, ISR, and remote sensing purposes for many years, the platforms now range in complexity from large, jet-propelled aircraft to palm-sized drones. Similarly, Unmanned Underwater Vehicles (UUVs) also have a long history of operations, becoming increasingly sophisticated in recent years with respect to capabilities and autonomy. (OGC WG Charter)
+| What is new or emerging?	| The UXS domain is rapidly evolving and includes participants from diverse practice areas, not all of which are mature or geospatial in nature. While large Unmanned Aerial Vehicles (UAVs) have been in use for defense, ISR (intelligence, surveillance and reconnaissance), and remote sensing purposes for many years, the platforms now range in complexity from large, jet-propelled aircraft to palm-sized drones. Similarly, Unmanned Underwater Vehicles (UUVs) also have a long history of operations, becoming increasingly sophisticated in recent years with respect to capabilities and autonomy.
+| Why might it matter? | 11 Million drones sold in USA (March 17, Wikipedia). Increasing government legislation to register these devices.
+NASA has invented technology, which allows a drone to land safely in an emergency landing. Also can now buy insurance cover for flying a drone.
+|Horizon   |   *Next*
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] |  *Disruptive*
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] | TRL-5 in OGC activities.
+| Discussion Issue | link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/46[Discussion of Trend on GitHub]
+|References |
+|Examples | https://uavcoach.com/drone-companies/
+|Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
+|OGC Working Groups | http://www.opengeospatial.org/projects/groups/uxsdwg[UXS DWG] - The mission of the UXS DWG is to document the use of UXS technology in the collection of geospatial data as well as identify the geospatial context of UXS operations in order to discuss the adoption of existing best practices and standards and/or recommend the creation of new standards to support the successful use of UXS technology.
+|=======================

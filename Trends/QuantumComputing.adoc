@@ -1,0 +1,30 @@
+<<<
+
+== Quantum Computing
+
+<<<
+
+[width="80%"]
+|=======================
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Software Development and Patterns]
+|Title | *Quantum Computing*
+|Description | Quantum computing capabilities are are growing as the number of quantum bits (“qubits”) in an array grows.  Algorithms based on qubits are being defined.  As programming languages for quantum computing are developed the applications for geospatial applications are anticipated to emerge.
+| What is new or emerging?	| With initial research  steps in the 1980s, recent improvements in device performance and qubit approaches show the possibility of moderate-scale quantum computers in the near future.[1]  Multiple approaches are under development for implementing qubits. Combining qubits into a computer is a current challenge - keep track of the latest on the http://www.qubitcounter.com/[Qubit Conuter].  Algorithms and programming languages will be needed - Simulators are available: IBM Quantum Experience, Google Cirq and Quantum Benchmark. A  example from D-Wave uses the Map Coloring Problem to describe quantum programming.
+| Why might it matter? | Hard to imagine all of the possibilities, but several traditional geospatial problems are the focus, such as quantum algorithms that solve pattern recognition tasks in machine learning [2].
+|Horizon   |  *After Next*:
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] |*Disruptive*:
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology Readiness Level] | TRL1
+| Discussion Issue |
+ link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/93[Discussion of Trend on GitHub]
+|References |
+1. http://science.sciencemag.org/content/361/6400/313[A Quantum Future Awaits]
+
+2. https://arxiv.org/abs/1703.10793[Implementing a distance-based classifier with a quantum interference circuit]
+
+
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	|
+|OGC Working Groups |
+|=======================

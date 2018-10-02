@@ -4,7 +4,9 @@ comment
 
 <<<
 
-== Big Data
+== Big Data (BIG)
+
+Big data methods and techniques applied to geospatial data
 
 <<<
 
@@ -12,29 +14,25 @@ comment
 |=======================
 |Title      |Description
 
-|Big Data Geo Technologies
-|Big Data Geo Technologies is building upon Big Data and referring to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from data, and seldom to a particular size of data set.  (DSTL)
+|link:Trends/BigData.adoc[Big Data Geo Technologies]
+|Big Data Geo Technologies is building upon Big Data and referring to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from data, and seldom to a particular size of data set -  (DSTL).
 
-|Cloud and HPC
-|Cloud computing is defined by US NIST as five essential characteristics of cloud computing: on-demand self-service, broad network access, resource pooling, rapid elasticity or expansion, and measured service. It also lists three "service models" (software, platform and infrastructure), and four "deployment models" (private, community, public and hybrid) that together categorize ways to deliver cloud services. (NIST)
+|link:Trends/CloudAndHPC.adoc[Cloud and HPC]
+|Cloud computing is defined by US NIST as five essential characteristics of cloud computing: on-demand self-service, broad network access, resource pooling, rapid elasticity or expansion, and measured service. It also lists three "service models" (software, platform and infrastructure), and four "deployment models" (private, community, public and hybrid) that together categorize ways to deliver cloud services - (NIST).
 
-|Artificial Intelligence
-|The central problems (or goals) of AI research include reasoning, knowledge, planning, learning, natural language processing (communication), perception and the ability to move and manipulate objects (Wikipedia)
+|link:Trends/WorkflowAndProvenance.adoc[Workflow and provenance]
+|Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness - (W3C PROV).
 
-|Workflow and provenance
-|Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness. (W3C PROV)
+|link:Trends/MachineLearning.adoc[Machine Learning]
+|Machine learning is the subfield of computer science that gives computers the ability to learn without being explicitly programmed.  Deep learning and Convolutional Neural Networks (CNNs) - a sub type of machine learning -  consists of multiple hidden layers in an artificial neural network - (Wikipedia).  Deep Learning is advancing rapidly based on increasing computing capabilities, image databases and trained CNNs.
 
-|Big data analytics
-|“Big data,” machine learning, and predictive data analytics have been hailed as the fourth paradigm of science, allowing researchers to extract insights from both scientific instruments and computational simulations. (ACM Comm)
+|link:Trends/BigDataAnalytics.adoc[Big data analytics]
+|“Big data,” machine learning, and predictive data analytics have been hailed as the fourth paradigm of science, allowing researchers to extract insights from both scientific instruments and computational simulations - (ACM Comm).
 
-|Modeling, Simulation and prediction
-|Simulation modeling is the process of creating and analyzing a digital prototype of a physical model to predict its performance in the real world. Models and simulation can be used for analysis and for training
+|link:Trends/ModSimPredict.adoc[Modeling, Simulation and prediction]
+|Simulation modeling is the process of creating and analyzing a digital prototype of a physical model to predict its performance in the real world. Models and simulation can be used for analysis and for training.
 
-|Image Processing and Machine Learning
-|Digital image processing refers to the use of computer algorithms to perform image processing on digital images. Advances in machine learning, such as Deep Learning, are changing the way digital image processing is occurring footnote:[https://www.gislounge.com/transforming-satellite-imagery-classification-deep-learning/]. 
-
-
-|(NEW)Digital Twins
-|A digital twin is a virtual representation of a physical object, which can be used to simulate how the physical object might behave in the physical world under different situations footnote:[https://www.ice.org.uk/knowledge-and-resources/information-sheet/what-is-a-digital-twin]
+|link:Trends/ExtremeDatabases.adoc[Extremely Large Databases]
+|An extremely large database (XLDB) is a database that stores and processes enormous amounts of data and associated records and entries. As the largest database form factor, XLDB is created and managed by very few organizations around the world, typically scientific research institutes that have massive data sets at their disposal.
 
 |=======================

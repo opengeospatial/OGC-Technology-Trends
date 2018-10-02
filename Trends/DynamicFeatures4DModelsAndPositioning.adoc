@@ -1,0 +1,21 @@
+<<<
+
+== Dynamic features: 4D models and positioning
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Dynamic features: 4D models and positioning
+|Description | The advance of mobile computing and internet-connected sensors (including sensors and GPS transponders in cell phones and notebook computers) brings with it a rapid rise in applications for moving feature data, typically representing vehicles or pedestrians. Many innovative moving feature applications will require the overlay and integration of moving feature data from different sources. Examples can easily be imagined for disaster risk management, traffic information services, security services, navigation for robots, aviation or maritime traffic monitoring, and wildlife tracking and conservation. (Moving Features press release).
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/16
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================

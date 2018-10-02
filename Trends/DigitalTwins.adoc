@@ -1,0 +1,21 @@
+<<<
+
+== Digital Twins
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Digital Twins
+|Description | A digital twin is a virtual representation of a physical object, which can be used to simulate how the physical object might behave in the physical world under different situations  footnote:[https://www.ice.org.uk/knowledge-and-resources/information-sheet/what-is-a-digital-twin].
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/71
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================

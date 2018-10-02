@@ -1,0 +1,27 @@
+<<<
+
+== 5G Cellular Communications
+
+<<<
+
+[width="80%"]
+|=======================
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Software Development and Patterns]
+|Title | *5G Cellular Communications*
+|Description |The promise of 5G networks is already propelling innovators to design new modes of communication. From remote robotic surgery to ultra-responsive autonomous cars, the 5G network leans into a world of higher reliability and lower latency.
+| What is new or emerging?	|
+| Why might it matter? | When the communication latency becomes lower, and the capacity of the communication gets higher with 5G communications, the Internet will be an even more prominent platform to control real and virtual objects in different parts of our lives, such as healthcare, education, manufacturing, smart grids, and many more.
+|Horizon   |   *After Next:*  There are a number of new technologies likely to be applied - but standards haven't been hammered out yet for all 5G protocols.
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] |  *Disruptive*
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] | TRL-1 in OGC activities.
+| Discussion Issue | link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/94[Discussion of Trend on GitHub]
+
+|References |
+
+
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	|
+|OGC Working Groups |
+|=======================

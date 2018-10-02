@@ -1,0 +1,21 @@
+<<<
+
+== Mobile HCI
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| TBA
+|Title | Mobile HCI
+|Description | Human Computer Interaction on handheld or wearable mobile devices such as smartphones, smart watches, portable mobile heads-up displays etc.
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/76
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================

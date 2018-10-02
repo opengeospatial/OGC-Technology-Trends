@@ -1,0 +1,21 @@
+<<<
+
+==  Web Scale Programming
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-05.adoc[Spatial Data on the Web]
+|Title | Web Scale Programming
+|Description | Web scale platforms hosted on large cloud services with web-friendly techniques, enable extreme levels of service delivery as compared to many of their enterprise counterparts.
+| What is new or emerging?	| TBA
+| Why might it matter? | TBA
+| Gartner Hype Curve | 	TBA
+| TRL |
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/33
+|References | URLs to technology written descriptions
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| TBA
+|OGC Working Groups | TBA
+|=======================

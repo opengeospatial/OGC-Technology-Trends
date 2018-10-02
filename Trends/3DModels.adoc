@@ -1,0 +1,29 @@
+<<<
+
+== 3D Urban Model Creation
+
+<<<
+
+[width="80%"]
+|=======================
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-02.adoc[Spatial and Temporal Models]
+|Title | 3D Urban model creation
+|Description | Accurate 3D (Three Dimensional) model construction has been sought for many years as the key to unlocking many other related applications and scientific endeavors. This trend regards all aspects of 3D model construction from research aspects as well as focus on different types of sensing technologies being pursued. Both external and internal models are the topic of this trend.  Methods are needed for rapid 3D model construction of urban areas.
+| What is new or emerging?	| Much work has been done to generate capabilities to reconstruct surfaces that are openly available to Unmanned Aerial Systems (UAS), mobile ground based sensors and space based sensors. The remaining frontier in this realm is the more closed environment of dense urban canyons and the interior structures of manmade and naturally occurring features (e.g. buildings, caves, etc.). To date many different approaches have been proposed to address this desire for accurate 3D reconstruction for inexpensive, potentially wearable, man-portable, sensing devices.
+| Why might it matter? | Rapid and efficient construction of 3D models will enable multiple applications that will use the models as the base framework for context, analysis and decision making.
+|Horizon   |  *Next*:  Developments are underway in OGC Innovation and Standards Programs.
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] | *Sustaining*:  The main gains will be about efficiency and quality of the models as many of the applications are known but lacking the needed models.
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] | TRL-5 in OGC activities.
+| Discussion Issue | link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/10[Discussion of Trend on GitHub]
+|References | 
+- link:www.isprs.org/proceedings/XXXVII/congress/3b_pdf/92.pdf[Levels of Detail in 3D Building Reconstruction from LiDAR Data]
+
+- link:https://opengeospatialdata.springeropen.com/track/pdf/10.1186/s40965-018-0043-x[Validation of 3D GIS primitives according to the international standards]
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
+|OGC Working Groups | - link:http://www.opengeospatial.org/projects/groups/3dimdwg[3D Information Management (3DIM) DWG]
+
+- link:http://www.opengeospatial.org/projects/groups/citygmlswg[CityGML SWG]
+|=======================

@@ -1,0 +1,28 @@
+//////
+comment
+//////
+
+
+<<<
+
+== Extremely Large Databases
+
+<<<
+
+[width="80%"]
+|=======================
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-03.adoc[Big Data]
+|Title | Extremely Large Databases
+|Description |An extremely large database (XLDB) is a database that stores and processes enormous amounts of data and associated records and entries. As the largest database form factor, XLDB is created and managed by very few organizations around the world, typically scientific research institutes that have massive data sets at their disposal.
+| What is new or emerging?	|
+| Why might it matter? | Increasing data, more important to be searched.
+|Affect   |  (Incremental or disruptive)
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve] |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] |
+| Issue | link:TBD[Discussion of Trend on GitHub]
+|References |
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
+|OGC Working Groups |
+|=======================

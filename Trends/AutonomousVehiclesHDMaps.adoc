@@ -1,0 +1,30 @@
+<<<
+
+== Autonomous Vehicle HD Maps
+
+<<<
+
+
+[width="80%"]
+|=======================
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-02.adoc[Spatial and Temporal Models]
+|Title | *Autonomous Vehicle HD Maps*
+|Description | Maps created at centimetre or sub-centimetre precision, typically to support driverless-cars and other autonomous ground vehicles that operate in built-up areas [1] footnote:].
+| What is new or emerging?	|  Although mapping organizations are likely to embrace standards to allow them to incorporate data from many sources, a fully open ecosystem seems unlikely. The companies involved will prefer to maintain semi-closed ecosystems [2]
+| Why might it matter? | To achieve the CAV ambition, geospatial data is key. Not just to the creation of a realistic simulation environment to test in, but also to the eventual deployment of a new infrastructure to enable improved connectivity and mobility.[3]
+|Horizon   |  *Next*:
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] | *Sustaining*:
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology Readiness Level] | TRL-4
+| Discussion Issue | link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/69[Discussion of Trend on GitHub]
+|References |
+1.  https://www.geospatialworld.net/blogs/hd-maps-autonomous-vehicles/[HD Maps: New age maps powering autonomous vehicles]
+
+2. https://dl.acm.org/citation.cfm?doid=3069398.3048385[Digitizing the world]
+
+3. https://www.ordnancesurvey.co.uk/about/news/2018/os-underpins-uk-driverless-car-testing.html[Survey underpins UK driverless car testing]
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	|
+|OGC Working Groups |  Coordination with https://www.iso.org/committee/54706.html[ISO TC 204]
+|=======================

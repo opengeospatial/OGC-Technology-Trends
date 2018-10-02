@@ -1,0 +1,29 @@
+<<<
+
+== Blockchain and distributed ledger
+
+<<<
+
+[width="80%"]
+|=======================
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Software Development and Patterns]
+|Title | Blockchain and distributed ledger
+|Description | Distributed ledger technology based on cryptographic systems that manage, verify and publicly record transaction data; the basis of "cryptocurrencies" such as bitcoin - (World Economic Forum).
+| What is new or emerging?	| Over recent years, there has been a steady increase in the level of industry interest in distributed ledgers. Propelled by the apparent success of cryptographic currencies such as Bitcoin.
+| Why might it matter? | Distributed ledger technologies such as Blockchain are now being explored in application areas such as land registration [1], law enforcement trust models for sharing digital evidence (e.g. collected from body-worn cameras) [2], the next generation of space technologies [3] and several others.
+|Horizon   |  *Next*:  Developments are underway in OGC Standards Program.
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] | *Disruptive*:  Distributed ledger technologies change the market place and institutional policy regarding trust.
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology Readiness Level] | TRL-3 in OGC activities.
+| Discussion Issue | link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/65[Discussion of Trend on GitHub]
+|References |
+- 1. link:http://ica-it.org/pdf/Blockchain_Landregistry_Report.pdf[The Land Registry in the blockchain]
+
+- 2. link:https://foam.space/publicAssets/FOAM_Whitepaper_May2018.pdf[FOAM–The Consensus Driven Map of the World]
+
+- 3. link:http://www.esa.int/About_Us/Digital_Agenda/Beyond_Bitcoin_Leveraging_the_Blockchain_for_Space_4.0[Beyond Bitcoin Leveraging the Blockchain for Space 4.0]
+|Examples | URL to technology implementation examples
+|Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
+|OGC Working Groups | An OGC Ad-hoc Session was held on Geospatial Standardization for Distributed Ledger Technologies
+|=======================
