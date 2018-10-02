@@ -14,9 +14,11 @@ comment
 
 |Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-05.adoc[Spatial Data on the Web]
 |Title | *Web of Data*
-|Description |Data published on the web are made discoverable, accessible and interoperable using WWW best practices for data formats, data access, data identifiers, metadata, licensing and provenance. Individual data instances are each given an URI identifier and published at that URI; using links, these instances are integrated with other data, thus creating the Web of Data. The Web thus becomes the exchange medium for data as well as documents - you might think of it as 'one big database'.
-| What is new or emerging?	|Enormous volumes of data are available on the Web today but it is typically published through portals that act on behalf of multiple agencies, not on the Web sites operated by those agencies themselves. These portals are effectively data silos and inaccessible to search engine crawlers, making it hard to discover the data inside portals. Also, data is typically made accessible on the dataset level: datasets can be discovered, downloaded, viewed etc. With the Web of Data, it becomes possible to discover, and link to, individual instances inside datasets from all over the world, without having to peruse metadata catalogs, download the data, query a service, etc.
-| Why might it matter? |The amount of data being created and published continues to increase, with the explosive growth in positioning technologies attached to mobile vehicles, portable devices, and autonomous systems. Being able to discover and access this data is thus becoming more and more important. Using general Web architecture and standards will enable cross-community uptake of spatial data.
+|Description |Data published on the web are made discoverable, accessible and interoperable using WWW best practices for hypertextual data formats, data access, data identifiers, metadata, licensing and provenance. Individual data instances are each given an URI identifier and published at that URI; using links, these instances are integrated with other data, thus creating the Web of Data. The Web thus becomes the exchange medium for data as well as documents - you might think of it as 'one big database'.
+| What is new or emerging?	|Enormous volumes of data are available on the Web today but it is typically published through portals that act on behalf of multiple agencies, not on the Web sites operated by those agencies themselves. These portals are effectively data silos and inaccessible to search engine crawlers, making it hard to discover the data inside portals. Also, data is typically made accessible on the dataset level: datasets can be discovered, downloaded, viewed etc. With the Web of Data, it becomes possible to discover, and link to, individual instances inside datasets from all over the world, without having to peruse metadata catalogs, download the data, query a service, etc. 
+
+Map Markup Language - MapML is hypertext that is an adaptive layer that bridges the existing Web services practices (tiled and RESTful APIs) and standards (WMS, WMTS, WFS/Simple Features) of the GeoWeb, to the hypertext-based architecture of the Web.
+| Why might it matter? |The amount of data being created and published continues to increase, with the explosive growth in positioning technologies attached to mobile vehicles, portable devices, and autonomous systems. Being able to discover and access this data is thus becoming more and more important. Using general Web architecture, standards and tools (browsers) will enable cross-community uptake of spatial data. True cross-community, distributed access and use of spatial data on the Web will unlock the latent value of spatial information for decision making by Web users.
 |Horizon   |   *Next*
 |link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] |  *Disruptive*
 | link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
@@ -26,8 +28,13 @@ comment
 |References | - link:https://www.w3.org/TR/sdw-bp/[Spatial Data on the Web Best Practices, 2017] See BPs 1,2,and 3.
 
 - link:http://www.locationpowers.net/events/1703delft/index.php[Location Powers:Big Linked Data]
+
+- link:https://www.w3.org/community/maps4html/[MapML Community] link:https://maps4html.github.io/MapML/spec/[specification]
 |Examples | - link:https://github.com/w3c/sdw/blob/gh-pages/bp/BP-implementation-report-00002.md[Geocoded National Address File (G-NAF) Linked Data Demonstrator]
-- link:https://github.com/w3c/sdw/blob/gh-pages/bp/BP-implementation-report-00003.md[Spatial Data on the Web Demonstrator for Cadastral and Topographic data in North-Rhine Westphalia]
-|Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
+
+- link:https://github.com/w3c/sdw/blob/gh-pages/bp/BP-implementation-report-00003.md[Spatial Data on the Web Demonstrator for Cadastral and Topographic data in North-Rhine Westphalia] 
+
+- link:https://geogratis.gc.ca/api/beta/mapml/[Natural Resources Canada MapML Service directory]
+|Geospatial Tech Category 	| Databases, Data models, Semantics, Hypertext
 |OGC Working Groups | link:https://www.w3.org/2017/sdwig/[Spatial Data on the Web]
 |=======================
