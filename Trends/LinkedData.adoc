@@ -12,16 +12,30 @@ comment
 |=======================
 |Meta Trend	|
 |Title | Linked Data
-|Description | 	Linked Data refers to a method of publishing structured data that can be interlinked. It builds upon standard Web technologies such as HTTP, RDF and URIs. It enables data from different sources to be connected and queried. (DSTL)
+|Description | " https://en.wikipedia.org/wiki/Linked_data[Linked Data^] is a method of publishing structured data so that it can be interlinked and become
+more useful through https://en.wikipedia.org/wiki/Semantic_query[semantic queries^]. It builds upon standard
+https://en.wikipedia.org/wiki/World_Wide_Web[Web^]
+technologies such as https://tools.ietf.org/html/rfc2616[HTTP^],
+https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/[RDF^] and https://tools.ietf.org/html/rfc3986[URIs^], but
+rather than using them to serve web pages for human readers, it extends them to share information in a way that can
+be read automatically by computers." (https://en.wikipedia.org/wiki/Linked_data[Wikipedia^])
 | What is new or emerging?	|
-| Why might it matter? | Increasing data, more important to be searched.
+| Why might it matter? a|
+* Increasing data
+* more important for it to be related
+* more important for computers to understand the relationships.
 | Gartner Hype Curve | Peak of Inflated Expectations
 | TRL |
 | Issue |https://github.com/opengeospatial/OGC-Technology-Trends/issues/36
-|References | URLs to technology written descriptions
+|References a|
+Documents
+
+Videos
+
+* https://www.youtube.com/watch?v=4x_xzT5eF5Q[What is Linked Data?^] video - Manu Sporny
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
-|OGC Working Groups | Big Data DWG
+|OGC Working Groups | http://www.opengeospatial.org/projects/groups/bigdatadwg[Big Data DWG^], http://www.opengeospatial.org/projects/groups/semantics[Geosemantics DWG^]
 |=======================
 
 [Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
