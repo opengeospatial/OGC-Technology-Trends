@@ -3,18 +3,18 @@ Geospatial technology trends as tracked by the Open Geospatial Consortium (OGC) 
 
 Each Trend is linked to a GitHub issue - *Comments are welcome and encouraged on the issue linked to the trend*
 
-![Tech Trends](images/20180830TechTrendsMindMap.png)
+![Tech Trends](images/20181127TechTrendsMindMap.png)
 
 ## Trends grouped into meta-trends:
 
    * [The Power of Location](chapter-01.adoc)
    * [Spatial and Temporal Models](chapter-02.adoc)
-   * [Data Science Analytics](chapter-04.adoc)
+   * [Data Science and Decisions](chapter-04.adoc)
    * [Big Data](chapter-03.adoc)
    * [Spatial Data on the Web](chapter-05.adoc)
    * [New Geo Sources](chapter-06.adoc)
    * [Human-System Integration](chapter-07.adoc)
-   * [Software Development and Patterns](chapter-08.adoc)
+   * [Information Technology](chapter-08.adoc)
 
 ___________
 

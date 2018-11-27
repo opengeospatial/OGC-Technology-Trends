@@ -7,7 +7,7 @@
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Software Development and Patterns]
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Information Technology ]
 |Title | Geo at Platform Scale
 |Description | Today’s networked platforms are able to achieve massive success by simply connecting producers and consumers. A platform allows for alignment of incentives of producers and consumers, vastly increasing the products created and then allowing quality control through curation and reputation management. Users of the platform should be able to pull raw information and easily produce their own GEO data and insights, then and contribute those back to the same repository for further analysis.  (Chris Holmes, Christopher Tucker, Ben Tuttle). [1]
 | What is new or emerging?	| Cloud computing, containers and other image:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-03.adoc[big data technologies] are now widespread and standardized commodities.  Big Data analytics on these computing technologies are have made disruptive leaps, e.g., link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/Trends/MachineLearning.adoc[Macine Learning]
@@ -30,7 +30,7 @@ OGC seeks public comment on new Earth Observation Exploitation Platform Domain W
 
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	|
-|OGC Working Groups | 
+|OGC Working Groups |
 link:http://www.opengeospatial.org/projects/groups/bigdatadwg[OGC Big Data DWG].
 
 OGC EO Exploitation DWG - being formed [3].

@@ -7,7 +7,7 @@
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Software Development and Patterns]
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Information Technology]
 |Title | *Quantum Computing*
 |Description | Quantum computing capabilities are are growing as the number of quantum bits (“qubits”) in an array grows.  Algorithms based on qubits are being defined.  As programming languages for quantum computing are developed the applications for geospatial applications are anticipated to emerge.
 | What is new or emerging?	| With initial research  steps in the 1980s, recent improvements in device performance and qubit approaches show the possibility of moderate-scale quantum computers in the near future.[1]  Multiple approaches are under development for implementing qubits. Combining qubits into a computer is a current challenge - keep track of the latest on the http://www.qubitcounter.com/[Qubit Conuter].  Algorithms and programming languages will be needed - Simulators are available: IBM Quantum Experience, Google Cirq and Quantum Benchmark. A  example from D-Wave uses the Map Coloring Problem to describe quantum programming.

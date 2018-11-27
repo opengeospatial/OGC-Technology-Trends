@@ -7,7 +7,7 @@
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Software Development and Patterns]
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Information Technology]
 |Title | Blockchain and distributed ledger
 |Description | Distributed ledger technology based on cryptographic systems that manage, verify and publicly record transaction data; the basis of "cryptocurrencies" such as bitcoin - (World Economic Forum).
 | What is new or emerging?	| Over recent years, there has been a steady increase in the level of industry interest in distributed ledgers. Propelled by the apparent success of cryptographic currencies such as Bitcoin.

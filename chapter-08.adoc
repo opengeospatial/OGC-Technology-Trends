@@ -4,7 +4,7 @@ comment
 
 <<<
 
-== Software Development and Patterns (SW)
+== Information Technology (IT)
 
 General software development platforms that may affect geospatial technology
 
@@ -30,11 +30,12 @@ General software development platforms that may affect geospatial technology
 |link:Trends/QuantumComputing.adoc[Quantum Computing]
 |Quantum computing capabilities are are growing as the number of Qubits in an array grows.  Algorithms based on qubits are being defined.  As programming languages for Quantum Computing are developed the applications for geospatial applications are anticipated to emerge.
 
+|link:Trends/SoftwareDevelopmentProcesses.adoc[Software development innovations]
+|Software Programming languages and development methods are rapidly changing.  New programming languages drive new capabilities for geospatial information.  Software development process improvements including collaborative cross-functional teams, adaptive planning, evolutionary development, and continuous integration.
+
 |link:Trends/Privacy.adoc[Informational Self Determination and Privacy]
 |The term informational self-determination was first used in the context of a German constitutional ruling relating to personal information collected during the 1983 census. The German Federal Constitutional Court ruled that: “[...] in the context of modern data processing, the protection of the individual against unlimited collection, storage, use and disclosure of his/her personal data is encompassed by the general personal rights of the German constitution. This basic right warrants in this respect the capacity of the individual to determine in principle the disclosure and use of his/her personal data. Limitations to this informational self-determination are allowed only in case of overriding public interest.”
 
-|link:Trends/SoftwareDevelopmentProcesses.adoc[Software development innovations]
-|Software Programming languages and development methods are rapidly changing.  New programming languages drive new capabilities for geospatial information.  Software development process improvements including collaborative cross-functional teams, adaptive planning, evolutionary development, and continuous integration.
 
 |=======================
 
