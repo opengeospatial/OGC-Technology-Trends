@@ -6,16 +6,20 @@
 
 [width="80%"]
 |=======================
-|Meta Trend	| TBA
-|Title | Indoor Venue maps
-|Description | The widespread adoption of smartphones by consumers worldwide has not only led to the advent of new indoor location technologies but also the increasing popularity and use of indoor venue maps. In the last several years, leading mapping technology companies have been competing to bring tens of thousands of high-quality indoor venue maps to smartphone users. There are indoor venue maps for thousands of museums, airports, shopping malls, restaurants and other venues - (Programmable Web).
-| What is new or emerging?	| TBA
-| Why might it matter? | TBA
-| Gartner Hype Curve | 	TBA
-| TRL |
-| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/12
-|References | URLs to technology written descriptions
-|Examples | URL to technology implementation examples
-|Geospatial Tech Category 	| TBA
-|OGC Working Groups | TBA
+|Title | *Indoor Venue maps*
+|Description | Indoor location technologies are enjoying an increasing market success. Technologies in the market have achieved maturity and have become a key driver for innovation and business activities in several value-added scenarios, e.g. e-government services, eHealth, personal mobility, logistics, mobility, facility management, retail, to name but a few.  (OGC 16-084)  The widespread adoption of smartphones by consumers worldwide has not only led to the advent of new indoor location technologies but also the increasing popularity and use of indoor venue maps. In the last several years, leading mapping technology companies have been competing to bring tens of thousands of high-quality indoor venue maps to smartphone users. There are indoor venue maps for thousands of museums, airports, shopping malls, restaurants and other venues - (Programmable Web).
+| What is new or emerging?	|
+| Why might it matter? |
+|Horizon   |   *Next*
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] |  *Disruptive*
+|link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+|link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] | New standards development in OGC are at TRL-6
+| Discussion Issue | link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/12[Discussion of Trend on GitHub]
+|References | * link:https://portal.opengeospatial.org/files/?artifact_id=68604[OGC Benefits of Indoor Location - Use Case Survey of Lessons Learned and Expectations, OGC 16-084]  * link:https://register.apple.com/resources/imdf/[Apple's Indoor Mapping Data Format]
+
+
+|Examples |
+|Geospatial Tech Category 	|
+|OGC Working Groups | link:https://www.opengeospatial.org/projects/groups/mlsdwg[Mobile Location Services DWG]
+
 |=======================

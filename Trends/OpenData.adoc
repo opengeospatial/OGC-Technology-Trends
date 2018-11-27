@@ -6,16 +6,29 @@
 
 [width="80%"]
 |=======================
-|Meta Trend	| TBA
-|Title | Open Data
-|Description | “Open data and content can be freely used, modified, and shared by anyone for any purpose”  http://opendefinition.org/.
-| What is new or emerging?	| TBA
-| Why might it matter? | TBA
-| Gartner Hype Curve | 	TBA
-| TRL |
-| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/48
-|References | URLs to technology written descriptions
+
+
+|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-06.adoc[New Geo Data Sources]
+|Title | *Open Data*
+|Description |  “Open data and content can be freely used, modified, and shared by anyone for any purpose”  http://opendefinition.org/.
+
+| What is new or emerging?	|
+| Why might it matter? |
+
+|Horizon   |  *Next*
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] | *Sustaining*
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology Readiness Level] |
+| Discussion Issue |
+ link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/48[Discussion of Trend on GitHub]
+|References |
+1. https://figshare.com/articles/The_State_of_Open_Data_Report_2018/7195058/1[The State of Open Data Report 2018]
+
+2. link:https://eos.org/agu-news/enabling-fair-data-across-the-earth-and-space-sciences[Enabling FAIR Data Across the Earth and Space Sciences]
+
+
+
 |Examples | URL to technology implementation examples
-|Geospatial Tech Category 	| TBA
-|OGC Working Groups | TBA
+|Geospatial Tech Category 	|
+|OGC Working Groups |
 |=======================

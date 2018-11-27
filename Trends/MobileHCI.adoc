@@ -1,21 +1,26 @@
 <<<
 
-== Mobile HCI
+== Location Based Services
 
 <<<
 
 [width="80%"]
 |=======================
 |Meta Trend	| TBA
-|Title | Mobile HCI
-|Description | Human Computer Interaction on handheld or wearable mobile devices such as smartphones, smart watches, portable mobile heads-up displays etc.
-| What is new or emerging?	| TBA
-| Why might it matter? | TBA
-| Gartner Hype Curve | 	TBA
-| TRL |
-| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/76
-|References | URLs to technology written descriptions
-|Examples | URL to technology implementation examples
-|Geospatial Tech Category 	| TBA
-|OGC Working Groups | TBA
+|Title | *Location Based Services*
+|Description | Location-based services (LBS) are computer applications (specifically, mobile computing applications) that provide information depending on the location of the device and the user, mostly through mobile portable devices (e.g., smartphones) and mobile networks 
+| What is new or emerging?	| Recent years witnessed rapid advances in LBS with the continuous evolution of mobile devices and telecommunication technologies. Emerging topics include outdoor and indoor positioning, context modeling, user interfaces and interaction, innovative LBS applications, social aspects of LBS, and analysis of LBS data.
+| Why might it matter? | LBS has become more and more popular not only in citywide outdoor environments, but also in shopping malls, museums, airports, big transport hubs, and many other indoor environments. They were applied in emergency services, tourism services, navigation guidance, intelligent transport services, entertainment (gaming), assistive services, healthcare/fitness, social networking, etc.  Additional trends in this area will have impact across these many markets.
+|Horizon   |   *Next*
+|link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] |  *Disruptive*
+| link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve phase]    |
+| link:https://esto.nasa.gov/technologists_trl.html[Technology readiness level] | New standards development in OGC are at TRL-4. (link:https://www.opengeospatial.org/standards/ols[Previously developed OpenLS standards are at TRL-9])
+| Discussion Issue | link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/76[Discussion of Trend on GitHub]
+
+|References | - link:https://www.mdpi.com/2220-9964/7/6/199[Current Trends and Challenges in Location-Based Services]
+|Examples |
+|Geospatial Tech Category 	|
+|OGC Working Groups | link:https://www.opengeospatial.org/projects/groups/mlsdwg[Mobile Location Services DWG]
+
+
 |=======================

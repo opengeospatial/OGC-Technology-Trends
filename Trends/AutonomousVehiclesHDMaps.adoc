@@ -24,6 +24,10 @@
 2. https://dl.acm.org/citation.cfm?doid=3069398.3048385[Digitizing the world]
 
 3. https://www.ordnancesurvey.co.uk/about/news/2018/os-underpins-uk-driverless-car-testing.html[Survey underpins UK driverless car testing]
+
+4. link:https://www.wsj.com/articles/toyota-investing-500-million-in-uber-in-driverless-car-pact-1535393774[https://www.wsj.com/articles/Toyota investing 500 million in Uber in driverless car pact]
+
+
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	|
 |OGC Working Groups |  Coordination with https://www.iso.org/committee/54706.html[ISO TC 204]

@@ -13,7 +13,7 @@ Each Trend is linked to a GitHub issue - *Comments are welcome and encouraged on
    * [Big Data](chapter-03.adoc)
    * [Spatial Data on the Web](chapter-05.adoc)
    * [New Geo Sources](chapter-06.adoc)
-   * [Human Computer Interaction](chapter-07.adoc)
+   * [Human-System Integration](chapter-07.adoc)
    * [Software Development and Patterns](chapter-08.adoc)
 
 ___________
@@ -40,7 +40,7 @@ Second Priority
 * [Quantum Computing](Trends/QuantumComputing.adoc)
 * [Workflow/Provenance](Trends/WorkflowAndProvenance.adoc)
 
-Ripe Trends are identified based on characterizations of trend Impact (Disruptive or Sustaining) and Horizon (Next or After Next).  The trends for highest priority consideration are Trends assessed as Disruptive and Next. 
+Ripe Trends are identified based on characterizations of trend Impact (Disruptive or Sustaining) and Horizon (Next or After Next).  The trends for highest priority consideration are Trends assessed as Disruptive and Next.
 
 ![Trend Assessment](images/TrendAssessment.png)
 ___________

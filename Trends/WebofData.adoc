@@ -27,7 +27,11 @@ comment
 
 - link:http://www.locationpowers.net/events/1703delft/index.php[Location Powers:Big Linked Data]
 |Examples | - link:https://github.com/w3c/sdw/blob/gh-pages/bp/BP-implementation-report-00002.md[Geocoded National Address File (G-NAF) Linked Data Demonstrator]
+
 - link:https://github.com/w3c/sdw/blob/gh-pages/bp/BP-implementation-report-00003.md[Spatial Data on the Web Demonstrator for Cadastral and Topographic data in North-Rhine Westphalia]
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
 |OGC Working Groups | link:https://www.w3.org/2017/sdwig/[Spatial Data on the Web]
+
+link:https://github.com/w3c/strategy/projects/2?card_filter_query=label%3Ageospatial#column-215578[SDW Strategy Funnel]
+
 |=======================

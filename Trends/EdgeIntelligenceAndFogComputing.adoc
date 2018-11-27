@@ -1,7 +1,7 @@
 
 <<<
 
-== Edge and Fog Computing
+== Cloud, Fog, Edge Computing Continuum
 
 <<<
 
@@ -9,9 +9,13 @@
 |=======================
 
 |Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Software Development and Patterns]
-|Title | Edge and Fog Computing
-|Description | Fog computing is a system-level horizontal architecture that distributes resources and services of computing, storage, control and networking anywhere along the continuum from Cloud to Things (OpenFog Consortium).
+|Title | *Cloud, Fog, Edge Computing Continuum*
+|Description |   Cloud computing is defined by US NIST as five essential characteristics of cloud computing: on-demand self-service, broad network access, resource pooling, rapid elasticity or expansion, and measured service. It also lists three "service models" (software, platform and infrastructure), and four "deployment models" (private, community, public and hybrid) that together categorize ways to deliver cloud services - (NIST).
+
+Fog computing is a system-level horizontal architecture that distributes resources and services of computing, storage, control and networking anywhere along the continuum from Cloud to Things (OpenFog Consortium).
+
 | What is new or emerging?	| IEC White paper on Edge Intelligence[1]:  “Driven by the internet of things (IoT), a new computing model – edge-cloud computing – is currently evolving, which involves extending data processing to the edge of a network in addition to computing in a cloud or a central data centre.
+
 | Why might it matter? | Cloud players continue to set record revenues and profits while the telcos grapple with stalled revenues. The telcos have lost the ‘Cloud 1.0’ battle to the OTTs.  But, is there a way for the telcos to be more competitive? More specifically: can edge computing provide the telcos a competitive advantage over the cloud players? - link:https://www.smartresilient.com/telcos-vs-cloud-players-can-edge-computing-change-competitive-dynamics[Frank Rayal, Xona Partners]
 |Horizon   |  *After Next*: Proprietary offerings are available. Conceptual architectures are being developed [2], but have not advanced to interoperability based on open standards.
 |link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] | *Disruptive*: Similar to the emergence of cloud computing, edge and fog computing will shift the economics of the "computing on demand" marketplace.
@@ -19,14 +23,20 @@
 | link:https://esto.nasa.gov/technologists_trl.html[Technology Readiness Level] | Currently no OGC implementation activities.
 | Discussion Issue | link:https://github.com/opengeospatial/OGC-Technology-Trends/issues/78[Discussion of Trend on GitHub]
 |References |
-- 1. link:http://www.iec.ch/whitepaper/pdf/IEC_WP_Edge_Intelligence.pdf[Edge intelligence - An IEC White Paper]
+1. link:http://www.iec.ch/whitepaper/pdf/IEC_WP_Edge_Intelligence.pdf[Edge intelligence - An IEC White Paper]
 
-- 2. link:https://www.openfogconsortium.org/ra/[OpenFog Reference Architecture for Fog Computing, OpenFog Consortium]
+2. link:https://www.openfogconsortium.org/ra/[OpenFog Reference Architecture for Fog Computing, OpenFog Consortium]
 
-- 3. link:https://www.ogcnetwork.net/wp/18-004r1/18-004r1.html[The Role of Geospatial in Edge-Fog-Cloud Computing - An OGC White Paper]
+3. link:https://www.ogcnetwork.net/wp/18-004r1/18-004r1.html[The Role of Geospatial in Edge-Fog-Cloud Computing - An OGC White Paper]
+
+4. link:https://aws.amazon.com/deeplens/[AWS Deep Lens brings machine learning to edge computing]
 
 
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	|
-|OGC Working Groups | no activity yet in OGC
+|OGC Working Groups | no specific WG in OGC
 |=======================
+
+
+link:Trends/CloudAndHPC.adoc[Cloud and HPC] merged into this Trend:
+Cloud computing is defined by US NIST as five essential characteristics of cloud computing: on-demand self-service, broad network access, resource pooling, rapid elasticity or expansion, and measured service. It also lists three "service models" (software, platform and infrastructure), and four "deployment models" (private, community, public and hybrid) that together categorize ways to deliver cloud services - (NIST).

@@ -32,13 +32,7 @@ Making geospatial data accessible and usable in the most comprehensive informati
 |link:Trends/WebTrends.adoc[Web Scale Programming]
 |Web scale platforms hosted on large cloud services with web-friendly techniques, enable extreme levels of service delivery as compared to many of their enterprise counterparts.
 
-|=======================
-
-Retired trends in this category
-
-[width="80%", options="header"]
-|=======================
-|Title      |Description
-
 |link:Trends/LinkedData.adoc[Linked Data]
 |Linked Data refers to a method of publishing structured data that can be interlinked. It builds upon standard Web technologies such as HTTP, RDF and URIs. It enables data from different sources to be connected and queried -  (DSTL).
+
+|=======================
