@@ -1,13 +1,11 @@
-<<<
-
+[#Crowdsourcing]
+[discrete]
 == Crowdsourcing and VGI
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-06.adoc[New Geo Data Sources]
+|Meta Trend	|<<chapter-06,New Geo Data Sources>>
 |Title | *Crowdsourcing and VGI*
 |Description | Geo Crowdsourcing includes Social Media and Voluntary Geographic Information (VGI). Crowdsourcing refers to the process of obtaining geo inspired services, ideas, or content by soliciting contributions from a large group of people, especially an online community, rather than from employees or suppliers (DSTL). VGI) is the harnessing of tools to create, assemble, and disseminate geographic data provided voluntarily by individuals (Goodchild, 2007). VGI is a special case of crowdsourcing.
 
@@ -25,9 +23,10 @@
 
 1. link:http://www.mdpi.com/2220-9964/5/5/55[Crowdsourcing, Citizen Science or Volunteered Geographic Information? The Current State of Crowdsourced Geographic Information].
 
-2. link:Trends/VolunteeredGeographicInformationVGI.adoc[Volunteered geographic information (VGI) and Crowdsourcing]
+2. <<VolunteeredGeographicInformationVGI,Volunteered geographic information (VGI) and Crowdsourcing>>
 
 |Examples | URL to technology implementation examples
 |Geospatial Tech Category 	|
 |OGC Working Groups |
 |=======================
+<<<

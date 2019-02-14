@@ -1,12 +1,6 @@
-//////
-comment
-//////
-
-<<<
-
+[#APIs4]
+[discrete]
 == APIs for the Web
-
-<<<
 
 [width="80%"]
 |=======================
@@ -26,4 +20,6 @@ Web API ambitious
 |OGC Working Groups | Spatial Data on the Web Working Group
 |=======================
 
-[Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
+link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve]
+
+<<<

@@ -1,12 +1,6 @@
-//////
-comment
-//////
-
-<<<
-
+[#LinkedData]
+[discrete]
 == Linked Data
-
-<<<
 
 [width="80%"]
 |=======================
@@ -38,4 +32,6 @@ Videos
 |OGC Working Groups | http://www.opengeospatial.org/projects/groups/bigdatadwg[Big Data DWG^], http://www.opengeospatial.org/projects/groups/semantics[Geosemantics DWG^]
 |=======================
 
-[Gartner Hype Curve](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
+link:http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp[Gartner Hype Curve]
+
+<<<

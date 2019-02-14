@@ -1,11 +1,8 @@
-
-<<<
-
+[#3DmodelsFromPointClouds]
+[discrete]
 == 3D Models from Point Clouds
 
-This was folded into link:RipeTrends/3DModels.adoc[3D Geo model creation]
-
-<<<
+This was folded into <<3DModels,3D Geo model creation>>
 
 [width="80%"]
 |=======================
@@ -22,3 +19,4 @@ This was folded into link:RipeTrends/3DModels.adoc[3D Geo model creation]
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
+<<<

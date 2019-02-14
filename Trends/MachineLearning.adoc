@@ -1,17 +1,11 @@
-//////
-comment
-//////
-
-<<<
-
+[#MachineLearning]
+[discrete]
 == Machine Learning and CNNs on Imagery
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-03.adoc[Big Data]
+|Meta Trend	|<<chapter-03,Big Data>>
 |Title | *Machine Learning and CNNs on Imagery*
 |Description | Machine learning is the subfield of computer science that gives computers the ability to learn without being explicitly programmed.  Deep learning and Convolutional Neural Networks (CNNs) - a sub type of machine learning -  consists of multiple hidden layers in an artificial neural network - (Wikipedia).
 | What is new or emerging?	| Deep Learning is advancing rapidly based on increasing computing capabilities, image databases and trained CNNs.
@@ -39,5 +33,6 @@ comment
 |=======================
 
 
-
 Merged previous separate trend: link:OtherTrends/ImageProcessingAndMachineLearning.adoc[Image Processing and Machine Learning]
+
+<<<

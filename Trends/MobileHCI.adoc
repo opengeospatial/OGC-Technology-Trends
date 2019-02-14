@@ -1,14 +1,12 @@
-<<<
-
+[#MobileHCI]
+[discrete]
 == Location Based Services
-
-<<<
 
 [width="80%"]
 |=======================
 |Meta Trend	| TBA
 |Title | *Location Based Services*
-|Description | Location-based services (LBS) are computer applications (specifically, mobile computing applications) that provide information depending on the location of the device and the user, mostly through mobile portable devices (e.g., smartphones) and mobile networks 
+|Description | Location-based services (LBS) are computer applications (specifically, mobile computing applications) that provide information depending on the location of the device and the user, mostly through mobile portable devices (e.g., smartphones) and mobile networks
 | What is new or emerging?	| Recent years witnessed rapid advances in LBS with the continuous evolution of mobile devices and telecommunication technologies. Emerging topics include outdoor and indoor positioning, context modeling, user interfaces and interaction, innovative LBS applications, social aspects of LBS, and analysis of LBS data.
 | Why might it matter? | LBS has become more and more popular not only in citywide outdoor environments, but also in shopping malls, museums, airports, big transport hubs, and many other indoor environments. They were applied in emergency services, tourism services, navigation guidance, intelligent transport services, entertainment (gaming), assistive services, healthcare/fitness, social networking, etc.  Additional trends in this area will have impact across these many markets.
 |Horizon   |   *Next*
@@ -24,3 +22,4 @@
 
 
 |=======================
+<<<

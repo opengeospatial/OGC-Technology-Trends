@@ -1,17 +1,11 @@
-//////
-comment
-//////
-
-<<<
-
+[#BigData]
+[discrete]
 == Big Geo Data
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-03.adoc[Big Geospatial Data]
+|Meta Trend	|<<chapter-03,Big Geospatial Data>>
 |Title | *Big Geo Data*
 |Description |Big Data Geo Technologies is building upon Big Data and referring to the use of predictive analytics, user behaviour analytics, or certain other advanced data analytics methods that extract value from data, and seldom to a particular size of data set.
 | What is new or emerging?	| Big Data technologies are transforming how geospatial data is processed.  Many of these new technologies were developed outside of geospatial domain enabled by cloud-computing and machine learning.
@@ -40,3 +34,4 @@ comment
 |Geospatial Tech Category 	|
 |OGC Working Groups | link:http://www.opengeospatial.org/projects/groups/bigdatadwg[Big Data DWG]
 |=======================
+<<<

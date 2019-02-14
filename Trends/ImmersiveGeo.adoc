@@ -1,14 +1,11 @@
-
-<<<
-
+[#ImmersiveGeo]
+[discrete]
 == Immersive Geo: AR, VR, Mixed Reality
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-07.adoc[Human Computer Interaction]
+|Meta Trend	|<<chapter-07,Human Computer Interaction>>
 |Title | Immersive Geo: AR, VR, Mixed Reality
 |Description | Virtual reality (VR) refers to computer technologies that use software to generate realistic images, sounds and other sensations that replicate a real environment. Augmented reality (AR) is a live direct or indirect view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data.
 | What is new or emerging?	| After an initial flourish of AR Applications by Layar, Metaio and Wikitude - including interoperability based on open standards [1, 2] - the AR market cooled until recent product announcements by large vendors:  Pokemon Go in Summer 2016; Apple demoed new take on AR at WWDC 2017; Microsoft Hololens.
@@ -31,3 +28,4 @@ OGC Augmented Reality Markup Language 2.0 (ARML 2.0)]
 |Geospatial Tech Category 	|
 |OGC Working Groups | link:http://www.opengeospatial.org/projects/initiatives/arpilot2017[Augmented Reality (AR) Pilot] under development
 |=======================
+<<<

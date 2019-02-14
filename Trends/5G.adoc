@@ -1,13 +1,11 @@
-<<<
-
+[#5G]
+[discrete]
 == 5G Cellular Communications
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Information Technology]
+|Meta Trend	|<<chapter-08,Information Technology>>
 |Title | *5G Cellular Communications*
 |Description |The promise of 5G networks is already propelling innovators to design new modes of communication. From remote robotic surgery to ultra-responsive autonomous cars, the 5G network leans into a world of higher reliability and lower latency.
 | What is new or emerging?	|
@@ -25,3 +23,4 @@
 |Geospatial Tech Category 	|
 |OGC Working Groups |
 |=======================
+<<<

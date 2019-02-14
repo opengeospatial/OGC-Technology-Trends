@@ -34,16 +34,19 @@ Document language: English +
 
 <<<
 
-Geospatial Technology Forecasting Consultation
+[discrete]
+=== Geospatial Technology Forecasting Consultation
 
 The Open Geospatial Consortium (OGC) tracks trends in Geospatial Technology. Trends are identified and characterized based on OGC processes that then drive action in consortium programs. Geospatial Tech Trends consultation is available to any organization that could benefit from roadmaps of geospatial technology.
 
-Geospatial Technology Trends
+[discrete]
+=== Geospatial Technology Trends
 
 In a survey of global CEOs, technology innovation is anticipated to have the most transformative effect on their business over the next five years (according to PWC Global). Identifying technology trends and developing roadmaps for their development and effect on markets is key to reducing risk and identifying business opportunities.
 Geospatial technology advances with innovation in the application of location-based information and with general information technology innovations. OGC, as a consortium of over 500 of the most influential geospatial organizations, is the global forum for innovation and standards in geospatial technology. The OGC Technology Trends and roadmaps available to any organization to use in their business planning.
 
-Disruptive Technologies Forecasting and Consultation
+[discrete]
+=== Disruptive Technologies Forecasting and Consultation
 
 OGC’s Geospatial Technology Forecasting Process is based on “best of breed” for persistent forecasting of disruptive technologies (National Academies) and honed by its use across OGC Programs. The identification and characterization steps are performed on a quarterly basis and reviewed by the OGC Architecture Board and OGC Technical Committee. Trends are posted publicly and receive public review and comments.
 
@@ -68,3 +71,5 @@ include::chapter-06.adoc[]
 include::chapter-07.adoc[]
 
 include::chapter-08.adoc[]
+
+include::appendix.adoc[]

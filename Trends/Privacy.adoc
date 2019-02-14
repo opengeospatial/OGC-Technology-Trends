@@ -1,18 +1,11 @@
-//////
-comment
-//////
-
-
-<<<
-
+[#Privacy]
+[discrete]
 == Privacy and Informational self-determination
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-08.adoc[Information Technology]
+|Meta Trend	|<<chapter-08,Information Technology>>
 |Title | Privacy and Informational self-determination
 |Description | The term informational self-determination was first used in the context of a German constitutional ruling relating to personal information collected during the 1983 census. The German Federal Constitutional Court ruled that: “[...] in the context of modern data processing, the protection of the individual against unlimited collection, storage, use and disclosure of his/her personal data is encompassed by the general personal rights of the German constitution. This basic right warrants in this respect the capacity of the individual to determine in principle the disclosure and use of his/her personal data. Limitations to this informational self-determination are allowed only in case of overriding public interest.”
 | What is new or emerging?	|
@@ -26,3 +19,4 @@ comment
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
 |OGC Working Groups |
 |=======================
+<<<

@@ -1,15 +1,12 @@
-
-<<<
-
+[#ArtificialIntelligence]
+[discrete]
 == Artificial Intelligence
-
-<<<
 
 [width="80%"]
 |=======================
 |Meta Trend	| TBA
 |Title | Artificial Intelligence
-|Description | The central problems (or goals) of AI research include reasoning, knowledge, planning, learning, natural language processing (communication), perception and the ability to move and manipulate objects (Wikipedia). 
+|Description | The central problems (or goals) of AI research include reasoning, knowledge, planning, learning, natural language processing (communication), perception and the ability to move and manipulate objects (Wikipedia).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -20,4 +17,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-
+<<<

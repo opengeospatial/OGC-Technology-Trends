@@ -1,15 +1,12 @@
-
-<<<
-
+[#AgileGeoProcessingChains]
+[discrete]
 == Agile Geo Processing Chains
-
-<<<
 
 [width="80%"]
 |=======================
 |Meta Trend	| TBA
 |Title | Agile Geo Processing Chains
-|Description | Agile Processing Chains is focusing on Workflow management and linking of geospatial data models - (DSTL). 
+|Description | Agile Processing Chains is focusing on Workflow management and linking of geospatial data models - (DSTL).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -20,4 +17,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-
+<<<

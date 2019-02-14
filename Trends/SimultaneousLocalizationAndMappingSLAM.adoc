@@ -1,14 +1,11 @@
-
-<<<
-
+[#SimultaneousLocalizationAndMappingSLAM]
+[discrete]
 == Simultaneous Localization and Mapping (SLAM)
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-02.adoc[Spatial and Temporal Models]
+|Meta Trend	|<<chapter-02,Spatial and Temporal Models>>
 |Title | *Simultaneous Localization and Mapping (SLAM)*
 |Description | SLAM is a computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of progress within this unknown environment. Examples of approaches are self-driving cars, unmanned aerial vehicles, autonomous underwater vehicles, planetary rovers, newly emerging domestic robots and even inside the human body - (DSTL).
 | What is new or emerging?	|
@@ -29,3 +26,4 @@
 |Geospatial Tech Category 	|
 |OGC Working Groups |
 |=======================
+<<<

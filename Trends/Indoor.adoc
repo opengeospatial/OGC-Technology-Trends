@@ -1,14 +1,11 @@
-
-<<<
-
+[#Indoor]
+[discrete]
 == Indoor: Position, Models and Navigation
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-02.adoc[Spatial and Temporal Models]
+|Meta Trend	|<<chapter-02,Spatial and Temporal Models>>
 |Title | *Indoor: Position, Models and Navigation*
 |Description | Accurate indoor positioning and models unlock a new set of possibilities for mobile services.  Consumers will benefit from personalized, contextual information and offers, as well as new services such as indoor navigation.  Venue owners will benefit from increased customer satisfaction and enhanced information on customer behaviour [1].
 | What is new or emerging?	| Location Based Service, Indoor Vendors Marketing. Google's Visual Positioning System (VPS)  as mentioned at Google I/O in May 2017.  Need for indoor venue maps consistently developed in large scale and Indoor positioning methods that are common and pervasive in mobile devices.
@@ -31,3 +28,4 @@
 |Geospatial Tech Category 	| Positioning, Navigation and Timing; CRS; Geodesy, Data Models
 |OGC Working Groups |  link:http://www.opengeospatial.org/projects/groups/indoorgmlswg[IndoorGML SWG]; link:http://www.opengeospatial.org/projects/groups/mlsdwg[Mobile Location Services DWG]; link:http://www.opengeospatial.org/projects/initiatives/indoor-pilot[NIST/OGC Indoor Mapping and Navigation Pilot]
 |=======================
+<<<

@@ -1,8 +1,6 @@
-<<<
-
+[#HumanAndPlace]
+[discrete]
 == Human and Place
-
-<<<
 
 [width="80%"]
 |=======================
@@ -23,3 +21,5 @@
 
 Also consider:
  Spatial thinking is a collection of cognitive skills. The skills consist of declarative and perceptual forms of knowledge and some cognitive operations that can be used to transform, combine, or otherwise operate on this knowledge. The key to spatial thinking is a constructive amalgam of three elements: concepts of space, tools of representation, and processes of reasoning. (US National Academies)  OGC should consider how the innovation it promotes can extend this "learning spatial" to "doing spatial".
+
+<<<

@@ -1,8 +1,6 @@
-<<<
-
+[#Indoorvenuemaps]
+[discrete]
 == Indoor Venue Maps
-
-<<<
 
 [width="80%"]
 |=======================
@@ -23,3 +21,4 @@
 |OGC Working Groups | link:https://www.opengeospatial.org/projects/groups/mlsdwg[Mobile Location Services DWG]
 
 |=======================
+<<<

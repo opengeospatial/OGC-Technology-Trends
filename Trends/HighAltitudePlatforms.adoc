@@ -1,8 +1,6 @@
-<<<
-
+[#HighAltitudePlatforms]
+[discrete]
 == High-altitude platforms
-
-<<<
 
 [width="80%"]
 |=======================
@@ -22,3 +20,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
+<<<

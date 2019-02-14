@@ -1,8 +1,6 @@
-<<<
-
+[#OnTheFlyProgramming]
+[discrete]
 == On-The-Fly Programming
-
-<<<
 
 [width="80%"]
 |=======================
@@ -19,3 +17,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
+<<<

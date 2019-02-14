@@ -1,18 +1,11 @@
-//////
-comment
-//////
-
-
-<<<
-
+[#CoveragesWeb]
+[discrete]
 == Coverages on the Web
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	| link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-05.adoc[Spatial Data on the Web]
+|Meta Trend	| <<chapter-05,Spatial Data on the Web>>
 |Title | Coverages on the Web
 |Description | Coverages are geospatial datasets as matrices or tensors that map a spatial-temporal coordinates to a corresponding set of data values, e.g., geophysical parameters.  The Web is fundamentally organized as a graph structure with node addresses and relation links.  Spatial Data on Web Best Practices are needed to that define Web-native access to Geospatial Coverages.
 | What is new or emerging?	|
@@ -26,3 +19,4 @@ comment
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
 |OGC Working Groups | link:https://www.w3.org/2017/sdwig/[Spatial Data on the Web]
 |=======================
+<<<

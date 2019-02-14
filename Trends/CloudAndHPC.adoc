@@ -1,8 +1,6 @@
-<<<
-
+[#CloudAndHPC]
+[discrete]
 == Cloud and HPC
-
-<<<
 
 [width="80%"]
 |=======================
@@ -19,3 +17,5 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
+
+<<<

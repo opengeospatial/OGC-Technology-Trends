@@ -1,32 +1,26 @@
-//////
-comment
-//////
-
 <<<
-
+[#chapter-07]
 == Human-System Integration (HSI)
 
 Human Systems Integration (HSI) is the relationship between humans and their environment and how systems are design and used relative to that relationship.  The principle goal is to ensure a safe and effective relationship between humans and system.  HSI increases the efficiency, usability, and quality of its products because human needs have been considered from the beginning
-
-<<<
 
 [width="80%", options="header"]
 |=======================
 |Title      |Description
 
-|link:Trends/MobileHCI.adoc[Location Based Services]
+|<<MobileHCI,Location Based Services>>
 |Location-based services (LBS) are computer applications (specifically, mobile computing applications) that provide information depending on the location of the device and the user, mostly through mobile portable devices (e.g., smartphones) and mobile networks
 
-|link:Trends/ImmersiveGeo.adoc[Immersive Geo: AR, VR, MR]
+|<<ImmersiveGeo,Immersive Geo: AR, VR, MR>>
 |Virtual reality (VR) refers to computer technologies that use software to generate realistic images, sounds and other sensations that replicate a real environment. Augmented reality (AR) is a live direct or indirect view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data.
 
-|link:Trends/Automotive.adoc[Automobile as Platform]
+|<<Automotive,Automobile as Platform>>
 |Maps and Apps for Automotive: The battle around connected cars and autonomous driving will continue this year. Both are impossible without geospatial technology. Hyper-precise and up-to-date maps as well as real-time analytics of sensor data are just two examples. We will see a lot of geo-enabled apps that get integrated into the car (GeoAwesomness).
 
-|link:Trends/AmbientServices.adoc[Ambient services]
+|<<AmbientServices,Ambient services>>
 |Ambient intelligence (AmI) refers to electronic environments that are sensitive and responsive to the presence of people.  In an ambient intelligence world, devices work in concert to support people in carrying out their everyday life activities, tasks and rituals in an easy, natural way using information and intelligence that is hidden in the network connecting these devices (see Internet of Things). As these devices grow smaller, more connected and more integrated into our environment, the technology disappears into our surroundings until only the user interface remains perceivable by users (Wikipedia).
 
-|link:Trends/AIConversationalPlatforms.adoc[AI Conversational Bots]
+|<<AIConversationalPlatforms,AI Conversational Bots>>
 |Platforms that allow users to interact with software through conversation in natural language (or in nearly natural language).
 
 

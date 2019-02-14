@@ -1,14 +1,11 @@
-<<<
-
+[#AutonomousVehiclesHDMaps]
+[discrete]
 == Autonomous Vehicle HD Maps
-
-<<<
-
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-02.adoc[Spatial and Temporal Models]
+|Meta Trend	|<<chapter-02,Spatial and Temporal Models>>
 |Title | *Autonomous Vehicle HD Maps*
 |Description | Maps created at centimetre or sub-centimetre precision, typically to support driverless-cars and other autonomous ground vehicles that operate in built-up areas [1] footnote:].
 | What is new or emerging?	|  Although mapping organizations are likely to embrace standards to allow them to incorporate data from many sources, a fully open ecosystem seems unlikely. The companies involved will prefer to maintain semi-closed ecosystems [2]
@@ -32,3 +29,4 @@
 |Geospatial Tech Category 	|
 |OGC Working Groups |  Coordination with https://www.iso.org/committee/54706.html[ISO TC 204]
 |=======================
+<<<

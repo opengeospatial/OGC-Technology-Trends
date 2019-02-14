@@ -1,38 +1,33 @@
-//////
-comment
-//////
 
 <<<
-
+[#chapter-05]
 == Spatial Data on the Web (WEB)
 
 Making geospatial data accessible and usable in the most comprehensive information system ever built.
-
-<<<
 
 [width="80%", options="header"]
 |=======================
 |Title      |Description
 
-|link:Trends/WebofData.adoc[Web of Data]
+|<<WebofData,Web of Data>>
 |Data published on the web are made discoverable, accessible and interoperable using WWW best practices for data formats, data access, data identifiers, metadata, licensing and provenance.
 
-|link:Trends/OntologiesAndSemantics.adoc[Ontologies and Semantics]
+|<<OntologiesAndSemantics,Ontologies and Semantics>>
 |Ontology is a formal naming and definition of the types, properties, and interrelationships of the entities.  Semantics is primarily the linguistic, and also philosophical study of meaning—in language, programming languages, formal logics, and semiotics - (DSTL).
 
-|link:Trends/CoveragesWeb.adoc[Coverages on the Web]
+|<<CoveragesWeb,Coverages on the Web>>
 |Coverages are geospatial datasets as matrices or tensors that map a spatial-temporal coordinates to a corresponding set of data values, e.g., geophysical parameters.  The Web is fundamentally organized as a graph structure with node addresses and relation links.  Spatial Data on Web Best Practices are needed to that define Web-native access to Geospatial Coverages.
 
-|link:Trends/APIs4.adoc[APIs for the Web]
+|<<APIs4,APIs for the Web>>
 |The explosive growth of public APIs for geospatial applications, and the accompanying variability in API practices across the IT industry, as well as in geospatial APIs specifically, has created new opportunities and challenges in supporting geospatial services. The application of standards in APIs to ensure interoperability is an apparent next step - (API CDS Press Release).
 
-|link:Trends/MapProjectionsFitForPurpose.adoc[Map projections: fit for purpose]
+|<<MapProjectionsFitForPurpose,Map projections: fit for purpose>>
 |Best Practice 8: State how coordinate values are encoded. Provide enough information for users to determine how coordinate values are encoded -  (SDWWG Best Practice).
 
-|link:Trends/WebTrends.adoc[Web Scale Programming]
+|<<WebTrends,Web Scale Programming>>
 |Web scale platforms hosted on large cloud services with web-friendly techniques, enable extreme levels of service delivery as compared to many of their enterprise counterparts.
 
-|link:Trends/LinkedData.adoc[Linked Data]
+|<<LinkedData,Linked Data>>
 |Linked Data refers to a method of publishing structured data that can be interlinked. It builds upon standard Web technologies such as HTTP, RDF and URIs. It enables data from different sources to be connected and queried -  (DSTL).
 
 |=======================

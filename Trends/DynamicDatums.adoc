@@ -1,14 +1,11 @@
-<<<
-
+[#DynamicDatums]
+[discrete]
 == Dynamic datums
-
-<<<
-
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-02.adoc[Spatial and Temporal Models]
+|Meta Trend	|<<chapter-02,Spatial and Temporal Models>>
 |Title | Dynamic datums
 |Description | This is now starting to be referred to as an “Earth-fixed” datum but previously was often referred to as a “dynamic datum”.  Conceptually, the term “dynamic datum” confuses many people, who assume it to mean that the datum itself is constantly changing.  This is obviously not the case – the datum is uniquely defined and fixed in orientation and location.  Rather, an “Earth-fixed” datum allows the changes in coordinates of points on the Earth’s “dynamic” surface to be referenced and represented. (ANZLIC).  The revision of ISO 19111 anticipates the need for Dynamic Datums.
 | What is new or emerging?	|
@@ -27,3 +24,4 @@
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
 |OGC Working Groups | OGC CRS DWG
 |=======================
+<<<

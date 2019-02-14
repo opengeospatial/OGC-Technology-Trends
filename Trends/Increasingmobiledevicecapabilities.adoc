@@ -1,8 +1,6 @@
-<<<
-
+[#Increasingmobiledevicecapabilities]
+[discrete]
 == Increasing mobile device capabilities
-
-<<<
 
 [width="80%"]
 |=======================
@@ -19,3 +17,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
+<<<

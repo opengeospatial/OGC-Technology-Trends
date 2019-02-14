@@ -1,13 +1,11 @@
-<<<
-
+[#WorkflowAndProvenance]
+[discrete]
 == Workflow and provenance
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-03.adoc[Big Data]
+|Meta Trend	|<<chapter-03,Big Data>>
 |Title | *Workflow and provenance*
 |Description |Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness - (W3C PROV).
 | What is new or emerging?	|
@@ -23,3 +21,4 @@
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
 |OGC Working Groups |
 |=======================
+<<<

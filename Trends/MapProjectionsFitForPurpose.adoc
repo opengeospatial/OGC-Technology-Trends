@@ -1,8 +1,6 @@
-<<<
-
+[#MapProjectionsFitForPurpose]
+[discrete]
 == Map projections - fit for purpose
-
-<<<
 
 [width="80%"]
 |=======================
@@ -19,3 +17,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
+<<<

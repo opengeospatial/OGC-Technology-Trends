@@ -1,18 +1,11 @@
-//////
-comment
-//////
-
-
-<<<
-
+[#ExtremeDatabases]
+[discrete]
 == Extremely Large Geo Databases
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-03.adoc[Big Data]
+|Meta Trend	|<<chapter-03,Big Data>>
 |Title | Extremely Large Geo Databases
 |Description |An extremely large database (XLDB) is a database that stores and processes enormous amounts of data and associated records and entries. As the largest database form factor, XLDB is created and managed by very few organizations around the world, typically scientific research institutes that have massive data sets at their disposal.
 
@@ -34,3 +27,4 @@ comment
 
 |OGC Working Groups |
 |=======================
+<<<

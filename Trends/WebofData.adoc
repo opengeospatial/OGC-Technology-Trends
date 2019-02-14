@@ -1,18 +1,11 @@
-//////
-comment
-//////
-
-
-<<<
-
+[#WebofData]
+[discrete]
 == Web of Data
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-05.adoc[Spatial Data on the Web]
+|Meta Trend	|<<chapter-05,Spatial Data on the Web>>
 |Title | *Web of Data*
 |Description |Data published on the web are made discoverable, accessible and interoperable using WWW best practices for data formats, data access, data identifiers, metadata, licensing and provenance. Individual data instances are each given an URI identifier and published at that URI; using links, these instances are integrated with other data, thus creating the Web of Data. The Web thus becomes the exchange medium for data as well as documents - you might think of it as 'one big database'.
 | What is new or emerging?	|Enormous volumes of data are available on the Web today but it is typically published through portals that act on behalf of multiple agencies, not on the Web sites operated by those agencies themselves. These portals are effectively data silos and inaccessible to search engine crawlers, making it hard to discover the data inside portals. Also, data is typically made accessible on the dataset level: datasets can be discovered, downloaded, viewed etc. With the Web of Data, it becomes possible to discover, and link to, individual instances inside datasets from all over the world, without having to peruse metadata catalogs, download the data, query a service, etc.
@@ -35,3 +28,4 @@ comment
 link:https://github.com/w3c/strategy/projects/2?card_filter_query=label%3Ageospatial#column-215578[SDW Strategy Funnel]
 
 |=======================
+<<<

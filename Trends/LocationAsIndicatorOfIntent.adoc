@@ -1,8 +1,6 @@
-<<<
-
+[#LocationAsIndicatorOfIntent]
+[discrete]
 == Location as indicator of intent
-
-<<<
 
 [width="80%"]
 |=======================
@@ -19,3 +17,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
+<<<

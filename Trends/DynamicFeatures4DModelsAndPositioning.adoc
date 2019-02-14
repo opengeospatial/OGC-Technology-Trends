@@ -1,8 +1,6 @@
-<<<
-
+[#DynamicFeatures4DModelsAndPositioning]
+[discrete]
 == Dynamic features: 4D models and positioning
-
-<<<
 
 [width="80%"]
 |=======================
@@ -19,3 +17,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
+<<<

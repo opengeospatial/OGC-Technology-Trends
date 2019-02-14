@@ -1,15 +1,12 @@
-
-<<<
-
+[#AIConversationalPlatforms]
+[discrete]
 == AI Conversational Platforms
-
-<<<
 
 [width="80%"]
 |=======================
 |Meta Trend	| TBA
 |Title | AI Conversational Platforms
-|Description | Platforms that allow users to interact with software through conversation in natural language (or in nearly natural language). 
+|Description | Platforms that allow users to interact with software through conversation in natural language (or in nearly natural language).
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -20,4 +17,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-
+<<<

@@ -1,14 +1,11 @@
-
-<<<
-
+[#ModSimPredict]
+[discrete]
 == Modeling, Simulation and Prediction
-
-<<<
 
 [width="80%"]
 |=======================
 
-|Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/chapter-03.adoc[Big Data]
+|Meta Trend	|<<chapter-03,Big Data>>
 |Title | *Modeling, Simulation and Prediction*
 |Description | Simulation modelling is the process of creating and analyzing a digital prototype of a physical model to predict its performance in the real world. Models and simulation can be used for analysis and for training.
 | What is new or emerging?	| Increases in development of Graphical Processing Units (GPU)s on computers and mobile devices is enabling, more on the fly modelling, simulation and prediction.  Federation of Models:  Integrated Environmental Modeling and JLVC - Joint Live Virtual and Constructive.  Increased fidelity of predictive environmental models will provide increasingly realistic information for simulated situations.
@@ -33,3 +30,4 @@ Mod/Cim helps with dealing with the transition from data scarcity to data overab
 |Geospatial Tech Category 	|
 |OGC Working Groups |
 |=======================
+<<<

@@ -1,15 +1,12 @@
-
-<<<
-
+[#AssistedKnowledgeBuilding]
+[discrete]
 == Assisted Knowledge Building
-
-<<<
 
 [width="80%"]
 |=======================
 |Meta Trend	| TBA
 |Title | Assisted Knowledge Building
-|Description | The use of data mining and other functions provided by intelligent systems to facilitate the creation of knowledge. 
+|Description | The use of data mining and other functions provided by intelligent systems to facilitate the creation of knowledge.
 | What is new or emerging?	| TBA
 | Why might it matter? | TBA
 | Gartner Hype Curve | 	TBA
@@ -20,4 +17,4 @@
 |Geospatial Tech Category 	| TBA
 |OGC Working Groups | TBA
 |=======================
-
+<<<
