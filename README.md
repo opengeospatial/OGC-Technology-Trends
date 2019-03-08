@@ -3,7 +3,8 @@ Geospatial technology trends as tracked by the Open Geospatial Consortium (OGC) 
 
 Each Trend is linked to a GitHub issue - *Comments are welcome and encouraged on the issue linked to the trend*
 
-![Tech Trends](images/TechTrendsMindmap.png)
+![Tech Trends Mindmap](images/TechTrendsMindmap.png)
+
 
 ## Trends grouped into meta-trends:
 
