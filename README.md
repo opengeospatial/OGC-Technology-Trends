@@ -24,6 +24,7 @@ ___________
 A subset of the Tech Trends identified as "Ripe Trends" are assessed as highest and second priority through an analysis summarized in the graphic below.
 
 Highest Priority
+
 * [Autonomous Vehicle HD Maps](Trends/AutonomousVehiclesHDMaps.adoc)
 * [Blockchain/Distributed Ledger](Trends/BlockchainAnddistributedledger.adoc)
 * [GEO at Platform Scale](Trends/GEOAtPlatformScale.adoc)
@@ -33,6 +34,7 @@ Highest Priority
 * [Web of Data](Trends/WebofData.adoc)
 
 Second Priority
+
 * [3D model creation](Trends/3DModels.adoc)
 * [5G Cellular Communications](Trends/5G.adoc)
 * [Edge and Fog Computing](Trends/EdgeIntelligenceAndFogComputing.adoc)
