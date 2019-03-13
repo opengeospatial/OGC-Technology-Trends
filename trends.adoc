@@ -53,6 +53,8 @@ Action is Taken in the OGC Programs and through Strategic Consultation on an NDA
 
 include::preface.adoc[Preface]
 
+include::summary.adoc[]
+
 include::chapter-01.adoc[]
 
 include::chapter-02.adoc[]
