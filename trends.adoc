@@ -50,9 +50,6 @@ OGC’s Geospatial Technology Forecasting Process is based on “best of breed�
 Action is Taken in the OGC Programs and through Strategic Consultation on an NDA basis providing tailored discussions and forecasts for any organization affected by geospatial and location-based technology innovations.
 
 
-
-include::preface.adoc[Preface]
-
 include::summary.adoc[]
 
 include::chapter-01.adoc[]
