@@ -1,0 +1,23 @@
+<<<
+
+== Stream Processing
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| Big Data Computing
+|Title | Stream Processing
+|Description | Massive data streams provide opportunities and challenges to geographic information analysis. These challenges arise because streaming data volumes cannot be subjected to analysis using the standard repertoire of methods that have been designed to analyze static geospatial datasets. 
+| What is new or emerging?	| New approaches are needed, not to supplant, but to supplement,  existing tools. Innovative data ingestion strategies based on principles related to reservoir sampling and sketching. Dynamic temporal data flows present significant challenges to load balancing in distributed (e.g. cloud) parallel environments, even at exascale levels of performance.
+| Why might it matter? | Further advances based on geographical concepts, as well as advanced processing methods based on edge and approximate computing look to produce novel results.
+| Gartner Hype Curve | 	TBA
+| https://esto.nasa.gov/technologists_trl.html[SW TRL] | Level 4
+| https://wiki.earthdata.nasa.gov/download/attachments/47876699/ESDSWG_M7_TIWG_IRL_Poster.pdf?version=1&modificationDate=1428432749689&api=v2[Interop Readiness] | Level 3
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/106
+|References | https://doi.org/10.1080/15230406.2018.1503973[The Internet of Things and Fast Data Streams: Prospects for Geospatial Data Science in Emerging Information Ecosystems]
+|Examples |  https://www.opengeospatial.org/standards/sensorthings[OGC SensorThings]
+|Geospatial Tech Category 	|
+|OGC Working Groups | Streaming was a key topic in http://www.locationpowers.net/events/1609orlando/index.php[Location Powers: Big Data summit]: Professor Geoffrey Fox, Indiana University provided an excellent survey of that research.
+
+|=======================

@@ -1,0 +1,22 @@
+<<<
+
+== Location Authentication
+
+<<<
+
+[width="80%"]
+|=======================
+|Meta Trend	| The Power of Location
+|Title | Location Authentication
+|Description | Confirmation of location is critical for many activities, e.g., location of transactions can determine what taxes apply, the location of the boundary of a property forms the basis of its registration, and the location where evidence is discovered in a crime scene can have an impact on judicial proceedings.  Considering the threats to location information, e.g., spoofing, a greater level of security is emerging for location-referencing.
+| What is new or emerging?	|  Technologies such as Blockchain and Distributed Ledger Technologies are being combined with novel ways to establish location trust to form the networks need for location authentication.
+| Why might it matter? | Authentication of location is increasing in  relevance for legal and commercial applications.
+| Gartner Hype Curve | 	TBA
+| https://esto.nasa.gov/technologists_trl.html[SW TRL] | Level 8
+| https://wiki.earthdata.nasa.gov/download/attachments/47876699/ESDSWG_M7_TIWG_IRL_Poster.pdf?version=1&modificationDate=1428432749689&api=v2[Interop Readiness] | Level 4
+| Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/105
+|References |  link:https://cacm.acm.org/magazines/2019/3/234926-a-hitchhikers-guide-to-the-blockchain-universe/abstract[Hitchhiker’s Guide to the Blockchain Universe]
+|Examples |
+|Geospatial Tech Category 	|
+|OGC Working Groups | link:https://www.opengeospatial.org/projects/groups/bdltdwg[OGC Blockchain and Distributed Ledger Technologies DWG]
+|=======================

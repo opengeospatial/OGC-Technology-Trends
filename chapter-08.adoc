@@ -14,15 +14,8 @@ General software development platforms that may affect geospatial technology
 |=======================
 |Title      |Description
 
-|link:Trends/GEOAtPlatformScale.adoc[GEO at Platform Scale]
-|Today’s networked platforms are able to achieve massive success by simply connecting producers and consumers. A platform allows for alignment of incentives of producers and consumers, vastly increasing the products created and then allowing quality control through curation and reputation management. Users of the platform should be able to pull raw information and easily produce their own GEO data and insights, then and contribute those back to the same repository for further analysis.
-
 |link:Trends/5G.adoc[5G Cellular Communications]
 |The promise of 5G networks is already propelling innovators to design new modes of communication. From remote robotic surgery to ultra-responsive autonomous cars, the 5G network leans into a world of higher reliability and lower latency.
-
-
-|link:Trends/EdgeIntelligenceAndFogComputing.adoc[Cloud, Fog, Edge Computing computing continuum]
-|Fog computing is a system-level horizontal architecture that distributes resources and services of computing, storage, control and networking anywhere along the continuum from Cloud to Things (OpenFog Consortium).
 
 |link:Trends/BlockchainAnddistributedledger.adoc[Blockchain and distributed ledger]
 |Distributed ledger technology based on cryptographic systems that manage, verify and publicly record transaction data; the basis of "cryptocurrencies" such as bitcoin - (World Economic Forum).
@@ -36,6 +29,8 @@ General software development platforms that may affect geospatial technology
 |link:Trends/Privacy.adoc[Informational Self Determination and Privacy]
 |The term informational self-determination was first used in the context of a German constitutional ruling relating to personal information collected during the 1983 census. The German Federal Constitutional Court ruled that: “[...] in the context of modern data processing, the protection of the individual against unlimited collection, storage, use and disclosure of his/her personal data is encompassed by the general personal rights of the German constitution. This basic right warrants in this respect the capacity of the individual to determine in principle the disclosure and use of his/her personal data. Limitations to this informational self-determination are allowed only in case of overriding public interest.”
 
+|link:Trends/OpenData.adoc[Open Data]
+|“Open data and content can be freely used, modified, and shared by anyone for any purpose”  http://opendefinition.org/.
 
 |=======================
 
@@ -50,5 +45,8 @@ Trends that have graduated or retired
 
 |link:Trends/EventDrivenPubSub.adoc[Event-Driven: Pub-Sub]
 |Publish–Subscribe is a messaging pattern where entities can subscribe to a type of message (defined by a criteria) and receive messages that satisfy that criteria from publishers as and when those messages become available (that is, as and when the events that satisfy that criteria occur).
+
+|link:Trends/GEOAtPlatformScale.adoc[GEO at Platform Scale]
+|Today’s networked platforms are able to achieve massive success by simply connecting producers and consumers. A platform allows for alignment of incentives of producers and consumers, vastly increasing the products created and then allowing quality control through curation and reputation management. Users of the platform should be able to pull raw information and easily produce their own GEO data and insights, then and contribute those back to the same repository for further analysis.
 
 |=======================

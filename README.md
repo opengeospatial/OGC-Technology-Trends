@@ -10,8 +10,8 @@ Each Trend is linked to a GitHub issue - *Comments are welcome and encouraged on
 
    * [The Power of Location](chapter-01.adoc)
    * [Spatial and Temporal Models](chapter-02.adoc)
-   * [Data Science and Decisions](chapter-04.adoc)
-   * [Big Data](chapter-03.adoc)
+   * [Data Science and Analytics](chapter-04.adoc)
+   * [Big Data Computing](chapter-03.adoc)
    * [Spatial Data on the Web](chapter-05.adoc)
    * [New Geo Sources](chapter-06.adoc)
    * [Human-System Integration](chapter-07.adoc)
@@ -25,23 +25,23 @@ A subset of the Tech Trends identified as "Ripe Trends" are assessed as highest 
 
 Highest Priority
 
-* [Autonomous Vehicle HD Maps](Trends/AutonomousVehiclesHDMaps.adoc)
-* [Blockchain/Distributed Ledger](Trends/BlockchainAnddistributedledger.adoc)
-* [GEO at Platform Scale](Trends/GEOAtPlatformScale.adoc)
-* [Machine Learning/CNNs](Trends/MachineLearning.adoc)
-* [Modeling, Simulation and Prediction](Trends/ModSimPredict.adoc)
+* [Data Science and Analytics](chapter-04.adoc)
 * [UAVs and Drones](Trends/UXS.adoc)
+* [Edge and Fog Computing](Trends/EdgeIntelligenceAndFogComputing.adoc)
 * [Web of Data](Trends/WebofData.adoc)
+* [Digital Twin: Static and Dynamic](Trends/DigitalTwins.adoc)
+* [Modeling, Simulation and Prediction](Trends/ModSimPredict.adoc)
 
 Second Priority
 
-* [3D model creation](Trends/3DModels.adoc)
-* [5G Cellular Communications](Trends/5G.adoc)
-* [Edge and Fog Computing](Trends/EdgeIntelligenceAndFogComputing.adoc)
-* [Immersive Geo: AR, VR, Mixed Reality](Trends/ImmersiveGeo.adoc)
-* [Indoor: Position, Models and Navigation](Trends/Indoor.adoc)
+* [Machine Learning/CNNs](Trends/MachineLearning.adoc)
+* [Blockchain/Distributed Ledger](Trends/BlockchainAnddistributedledger.adoc)
+* [Autonomous Vehicle HD Maps](Trends/AutonomousVehiclesHDMaps.adoc)
 * [Quantum Computing](Trends/QuantumComputing.adoc)
-* [Workflow/Provenance](Trends/WorkflowAndProvenance.adoc)
+* [Immersive Geo: AR, VR, Mixed Reality](Trends/ImmersiveGeo.adoc)
+* [Smallsats](Trends/Smallsats.adoc)
+* [Indoor: Position, Models and Navigation](Trends/Indoor.adoc)
+* [5G Cellular Communications](Trends/5G.adoc)
 
 Ripe Trends are identified based on characterizations of trend Impact (Disruptive or Sustaining) and Horizon (Next or After Next).  The trends for highest priority consideration are Trends assessed as Disruptive and Next.
 
