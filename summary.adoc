@@ -6,7 +6,7 @@ Geospatial technology trends as tracked by the Open Geospatial
 Consortium (OGC) and the OGC Architecture Board (OAB) are listed on this
 and linked pages. A summary of all tracked Trends is provided in the
 mindmap. A set of Ripe Trends have been identified as summarized in the
-Trend Assessment. Also avaiable is an overview of the
+Trend Assessment. Also available is an overview of the
 http://www.opengeospatial.org/OGCTechTrends[Technology Trends process].
 
 Each Trend is linked to a GitHub issue - _Comments are welcome and
