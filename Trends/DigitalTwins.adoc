@@ -18,7 +18,7 @@
 | Issue | https://github.com/opengeospatial/OGC-Technology-Trends/issues/71
 |References | https://www.computer.org/csdl/magazine/co/2018/11/08625931/17D45WYQJ7p[Cyber-Physical Systems and Digital Twins in Industrial IoT  Computer Magazine November 2018]
 |Examples | (URL to technology implementation examples - TBD)
-|Tipping Point | Infrastructure and construction industry is ripe for disruption. Being digital ready is no longer an option and those that are not prepared will ultimately be separated from their peers and competition. [SPAR3D]  |
+|Tipping Point | Infrastructure and construction industry is ripe for disruption. Being digital ready is no longer an option and those that are not prepared will ultimately be separated from their peers and competition. [SPAR3D]  
 |Geospatial Tech Category 	|
 |OGC Working Groups | http://www.opengeospatial.org/projects/groups/3dimdwg[3DIM DWG]
 |=======================

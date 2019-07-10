@@ -1,5 +1,5 @@
 # OGC-Technology-Trends
-Geospatial technology trends as tracked by the Open Geospatial Consortium (OGC) and the OGC Architecture Board (OAB) are listed on this and linked pages. A summary of all tracked Trends is provided in the mindmap.  A set of Ripe Trends have been identified as summarized in the Trend Assessment.  Also available is an overview of the [Technology Trends process](http://www.opengeospatial.org/OGCTechTrends).
+Geospatial technology trends as tracked by the Open Geospatial Consortium (OGC) and the OGC Architecture Board (OAB) are listed on this and linked pages. A summary of all tracked Trends is provided in the mindmap.  A set of Ripe Trends have been identified as summarized in the Trend Assessment.  Also available is an overview of the [Technology Trends process](http://www.opengeospatial.org/OGCTechTrends).  A ion-dpth quarterly report on OGC Tech Trends is prepared for OGC Principal Members and is available for purchase.
 
 Each Trend is linked to a GitHub issue - *Comments are welcome and encouraged on the issue linked to the trend*
 
