@@ -15,16 +15,21 @@ comment
 |Meta Trend	|link:https://github.com/opengeospatial/OGC-Technology-Trends/blob/master/chapter-05.adoc[Spatial Data on the Web]
 |Title | *Web of Data*
 |Description |  Data published on the web are made discoverable, accessible and interoperable using WWW best practices for data formats, data access, data identifiers, metadata, licensing and provenance.
-| What is new or emerging?	| •W3C Workshop on Web Standardization for Graph Data – March 2019
-    - Support for adding geospatial and temporal to graph query languages
-•Emerging progress on Property Graphs standards in JTC 1 SQL  - June 2019
-    - Property Graph Queries as a new part of SQL standards, 9075-16.
-    - New declarative property graph language  - may be called GQL.
-•Schema.org and JSON-LD
-| Why might it matter? | •OGC Environmental Linked Features Interoperability Experiment
+| What is new or emerging?	|
+
+-  W3C Workshop on Web Standardization for Graph Data (March 2019): Support for adding geospatial and temporal to graph query languages
+
+- Emerging progress on Property Graphs standards in JTC 1 SQL (June 2019):  Property Graph Queries as a new part of SQL standards, 9075-16 and New declarative property graph language.
+
+- Schema.org and JSON-LD
+| Why might it matter? |
+
+- OGC Environmental Linked Features Interoperability Experiment:
 Power of OGC APIs to expose features in the context of rich domain-feature-model-based linked data while following W3C best practices
-•Advantages similar to adding Topology to Geometry queries.
-| https://esto.nasa.gov/technologists_trl.html[SW TRL] | TRL 5 Component validation in relevant environment
+
+- Advantages similar to adding Topology to Geometry queries.
+
+| https://esto.nasa.gov/technologists_trl.html[SW TRL] | Level 5  - Component validation in relevant environment
 | https://wiki.earthdata.nasa.gov/download/attachments/47876699/ESDSWG_M7_TIWG_IRL_Poster.pdf?version=1&modificationDate=1428432749689&api=v2[Interop Readiness] | Level 6 – Incorporation of novel service into apps with substantial configuration – Associational Standards
 |Horizon   |   *Next*
 |link:https://en.wikipedia.org/wiki/Disruptive_innovation[Impact] |  *Disruptive*
@@ -36,6 +41,7 @@ Power of OGC APIs to expose features in the context of rich domain-feature-model
 |Examples | - link:https://github.com/w3c/sdw/blob/gh-pages/bp/BP-implementation-report-00002.md[Geocoded National Address File (G-NAF) Linked Data Demonstrator]
 
 - link:https://github.com/w3c/sdw/blob/gh-pages/bp/BP-implementation-report-00003.md[Spatial Data on the Web Demonstrator for Cadastral and Topographic data in North-Rhine Westphalia]
+
 - OGC Testbed 15 Scenario: Richelieu River hydro linked data harvest model
 |Geospatial Tech Category 	| Databases, Data models, Semantics, Mark-up Languages
 |OGC Working Groups | link:https://www.w3.org/2017/sdwig/[Spatial Data on the Web]
