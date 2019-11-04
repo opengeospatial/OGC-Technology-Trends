@@ -33,33 +33,38 @@ Trends grouped into meta-trends:
 Ripe Trends
 ~~~~~~~~~~~
 
-A subset of the Tech Trends identified as ``Ripe Trends'' are assessed
+A subset of the Tech Trends identified as ``Ripe Trends`` are assessed
 as highest and second priority through an analysis summarized in the
 graphic below.
 
-Highest Priority * link:Trends/AutonomousVehiclesHDMaps.adoc[Autonomous
-Vehicle HD Maps] *
-link:Trends/BlockchainAnddistributedledger.adoc[Blockchain/Distributed
-Ledger] * link:Trends/GEOAtPlatformScale.adoc[GEO at Platform Scale] *
-link:Trends/MachineLearning.adoc[Machine Learning/CNNs] *
-link:Trends/ModSimPredict.adoc[Modeling, Simulation and Prediction] *
-link:Trends/UXS.adoc[UAVs and Drones] * link:Trends/WebofData.adoc[Web
-of Data]
+Highest Priority
 
-Second Priority * link:Trends/3DModels.adoc[3D model creation] *
-link:Trends/5G.adoc[5G Cellular Communications] *
-link:Trends/EdgeIntelligenceAndFogComputing.adoc[Edge and Fog Computing]
-* link:Trends/ImmersiveGeo.adoc[Immersive Geo: AR, VR, Mixed Reality] *
-link:Trends/Indoor.adoc[Indoor: Position, Models and Navigation] *
-link:Trends/QuantumComputing.adoc[Quantum Computing] *
-link:Trends/WorkflowAndProvenance.adoc[Workflow/Provenance]
+* link:chapter-04.adoc[Data Science and Analytics]
+* link:Trends/UXS.adoc[UAVs and Drones]
+* link:Trends/EdgeIntelligenceAndFogComputing.adoc[Edge and Fog Computing]
+* link:Trends/WebofData.adoc[Web of Data]
+* link:Trends/DigitalTwins.adoc[Digital Twin: Static and Dynamic]
+* link:Trends/ModSimPredict.adoc[Modeling, Simulation and Prediction]
+
+
+
+Second Priority
+
+* link:Trends/MachineLearning.adoc[Machine Learning/CNNs]
+* link:Trends/BlockchainAnddistributedledger.adoc[Blockchain/Distributed Ledger Technologies]
+* link:Trends/AutonomousVehiclesHDMaps.adoc[Autonomous Vehicle HD Maps]
+* link:Trends/QuantumComputing.adoc[Quantum Computing]
+* link:Trends/ImmersiveGeo.adoc[Immersive Geo: AR, VR, Mixed Reality]
+* link:Trends/Smallsats.adoc[Smallsats]
+* link:Trends/Indoor.adoc[Indoor: Position, Models and Navigation]
+* link:Trends/5G.adoc[5G Cellular Communications]
 
 Ripe Trends are identified based on characterizations of trend Impact
 (Disruptive or Sustaining) and Horizon (Next or After Next). The trends
 for highest priority consideration are Trends assessed as Disruptive and
 Next.
 
-image:images/TrendAssessment.png[Trend Assessment] ___________
+image:images/TrendAssessment.png[Trend Assessment]
 
 [[intellectual-property-rights]]
 Intellectual Property Rights
