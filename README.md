@@ -13,7 +13,7 @@ Each Trend is linked to a GitHub issue - *Comments are welcome and encouraged on
    * [Data Science and Analytics](chapter-04.adoc)
    * [Big Data Computing](chapter-03.adoc)
    * [Spatial Data on the Web](chapter-05.adoc)
-   * [New Geo Sources](chapter-06.adoc)
+   * [Sensing and Computing](chapter-06.adoc)
    * [Human-System Integration](chapter-07.adoc)
    * [Information Technology](chapter-08.adoc)
 
@@ -25,20 +25,22 @@ A subset of the Tech Trends identified as "Ripe Trends" are assessed as highest 
 
 Highest Priority
 
+* [Immersive Geo: AR, VR, Mixed Reality](Trends/ImmersiveGeo.adoc)
 * [Data Science and Analytics](chapter-04.adoc)
-* [UAVs and Drones](Trends/UXS.adoc)
-* [Edge and Fog Computing](Trends/EdgeIntelligenceAndFogComputing.adoc)
+* [Geo IT Ethics]()
+* [UAVs/UAS/Drones](Trends/UXS.adoc)
+* [High Definition Maps for Connected Autonomous Vehicles (CAVs)]()
 * [Web of Data](Trends/WebofData.adoc)
-* [Digital Twin: Static and Dynamic](Trends/DigitalTwins.adoc)
-* [Modeling, Simulation and Prediction](Trends/ModSimPredict.adoc)
 
 Second Priority
 
+* [Digital Twin: Static and Dynamic](Trends/DigitalTwins.adoc)
+* [Modeling, Simulation and Prediction](Trends/ModSimPredict.adoc)
+* [Edge and Fog Computing](Trends/EdgeIntelligenceAndFogComputing.adoc)
 * [Machine Learning/CNNs](Trends/MachineLearning.adoc)
 * [Blockchain/Distributed Ledger](Trends/BlockchainAnddistributedledger.adoc)
 * [Autonomous Vehicle HD Maps](Trends/AutonomousVehiclesHDMaps.adoc)
 * [Quantum Computing](Trends/QuantumComputing.adoc)
-* [Immersive Geo: AR, VR, Mixed Reality](Trends/ImmersiveGeo.adoc)
 * [Smallsats](Trends/Smallsats.adoc)
 * [Indoor: Position, Models and Navigation](Trends/Indoor.adoc)
 * [5G Cellular Communications](Trends/5G.adoc)
