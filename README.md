@@ -29,7 +29,7 @@ Highest Priority
 * [Data Science and Analytics](chapter-04.adoc)
 * [Geo IT Ethics]()
 * [UAVs/UAS/Drones](Trends/UXS.adoc)
-* [High Definition Maps for Connected Autonomous Vehicles (CAVs)]()
+* [High Definition Maps for Connected Autonomous Vehicles (CAVs)](Trends/AutonomousVehiclesHDMaps.adoc)
 * [Web of Data](Trends/WebofData.adoc)
 
 Second Priority
